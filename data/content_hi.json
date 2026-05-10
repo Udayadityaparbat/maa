@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "मुख्य पृष्ठ",
+    "learn": "सीखें",
+    "tracker": "ट्रैकर",
+    "qa": "प्रश्नोत्तरी",
+    "schemes": "योजनाएं",
+    "insights": "ब्लॉग",
+    "impact": "प्रभाव",
+    "research": "डेटा और अनुसंधान",
+    "team": "टीम"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षित · निजी · सशक्त",
+    "headline": "जागरूकता और देखभाल के माध्यम से महिलाओं को सशक्त बनाना",
+    "subtext": "सीखने, ट्रैक करने और जुड़ने के लिए एक सुरक्षित, निजी स्थान। डब्ल्यूएचओ (WHO) के दिशानिर्देशों और भारत सरकार के संसाधनों द्वारा समर्थित।",
+    "cta_track": "माहवारी ट्रैक करें",
+    "cta_ask": "एक प्रश्न पूछें",
+    "cta_learn": "और जानें",
+    "tagline": "💜 आप अकेले नहीं हैं।"
+  },
+  "learn": {
+    "title": "मासिक धर्म स्वास्थ्य शिक्षा",
+    "subtitle": "विश्व स्वास्थ्य संगठन (WHO) के अनुसार, मासिक धर्म स्वास्थ्य यौन और प्रजनन स्वास्थ्य का एक अभिन्न अंग है।",
+    "source_who": "स्रोत: WHO तथ्य पत्र",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "चक्र की मूल बातें",
+    "basics_content": "एक मासिक धर्म चक्र आमतौर पर 21 से 35 दिनों तक रहता है। यह एक प्राकृतिक प्रक्रिया है।",
+    "hygiene_title": "स्वच्छता प्रथाएं",
+    "hygiene_content": "संक्रमण को रोकने के लिए हर 4-6 घंटे में अपना पैड बदलें। साफ पानी और हल्के साबुन से धोएं।",
+    "myths_title": "मिथक बनाम तथ्य",
+    "myths_content": "मिथक: आपको अपने पीरियड्स के दौरान बाल नहीं धोने चाहिए। तथ्य: व्यक्तिगत स्वच्छता महत्वपूर्ण है, और नहाना पूरी तरह से सुरक्षित है।",
+    "nutrition_title": "पोषण संबंधी सुझाव",
+    "nutrition_content": "पालक और दाल जैसे आयरन युक्त खाद्य पदार्थ रक्त की कमी को पूरा करने में मदद करते हैं। ऐंठन को कम करने के लिए हाइड्रेटेड रहें।"
+  },
+  "tracker": {
+    "title": "निजी पीरियड ट्रैकर",
+    "subtitle": "अपने डिवाइस पर स्थानीय रूप से अपना चक्र ट्रैक करें। आपका डेटा कभी भी आपका फोन नहीं छोड़ता है।",
+    "last_period_label": "पिछले पीरियड का पहला दिन:",
+    "cycle_length_label": "औसत चक्र की लंबाई (दिन):",
+    "calculate_btn": "गणना करें",
+    "next_period": "अगला पीरियड",
+    "fertile_window": "अनुमानित उपजाऊ खिड़की",
+    "days_away": "दिन दूर",
+    "reset_btn": "डेटा रीसेट करें"
+  },
+  "qa": {
+    "title": "गुमनाम प्रश्नोत्तरी",
+    "subtitle": "सुरक्षित रूप से कुछ भी पूछें। लॉगिन की आवश्यकता नहीं है।",
+    "placeholder": "अपना प्रश्न यहां टाइप करें...",
+    "category_general": "सामान्य",
+    "category_hygiene": "स्वच्छता",
+    "category_health": "स्वास्थ्य",
+    "category_nutrition": "पोषण",
+    "category_emotional": "भावनात्मक",
+    "submit_btn": "गुमनाम रूप से जमा करें",
+    "demo_answer": "डेमो उत्तर",
+    "time_ago": "अभी-अभी"
+  },
+  "schemes": {
+    "title": "सरकारी योजनाएं और संसाधन",
+    "subtitle": "स्वास्थ्य और परिवार कल्याण मंत्रालय (MoHFW) और MWCD से आधिकारिक सहायता प्राप्त करें।"
+  },
+  "insights": {
+    "title": "इनसाइट्स और ब्लॉग",
+    "subtitle": "सच्ची कहानियाँ और विशेषज्ञों की सलाह।"
+  },
+  "impact": {
+    "title": "हमारा प्रभाव",
+    "reached": "पहुंची गई महिलाएं",
+    "questions": "प्रश्नों के उत्तर दिए गए",
+    "regions": "प्रभावित राज्य",
+    "urban": "शहरी पहुँच",
+    "rural": "ग्रामीण पहुँच"
+  },
+  "team": {
+    "title": "टीम से मिलें",
+    "founder": "संस्थापक और दूरदर्शी",
+    "tech": "प्रौद्योगिकी लीड",
+    "health": "स्वास्थ्य सलाहकार"
+  },
+  "footer": {
+    "about": "मा बाय रिगेल के बारे में",
+    "contact": "संपर्क करें",
+    "disclaimer": "यह मंच शैक्षिक जानकारी प्रदान करता है और चिकित्सा सलाह का विकल्प नहीं है।",
+    "privacy": "आपकी गोपनीयता मायने रखती है। हम किसी भी सर्वर पर आपका व्यक्तिगत डेटा ट्रैक या संग्रहीत नहीं करते हैं।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

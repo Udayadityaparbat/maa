@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "नखर",
+    "learn": "सलों",
+    "tracker": "ट्रेकार",
+    "qa": "सोंगथि-फिननाय",
+    "schemes": "योजनाफोर",
+    "insights": "मिथिहोनाय",
+    "impact": "गोहोम",
+    "research": "डाटा आरो सान्दां",
+    "team": "हान्जा"
+  },
+  "hero": {
+    "badge": "🌸 रैखाथि · गावनि · गोहोमारि",
+    "headline": "मिथिहोनाय आरो जोथोननि गेजेरजों हिनजावसाफोरखौ गोहो गोनां खालामनाय",
+    "subtext": "सलोंनो, ट्रेक खालामनो आरो जरायना थानो थाखाय मोनसे रैखाथि गोनां, गावनि जायगा। WHO नि मावखान्थि आरो भारत सरकारनि फुंखाफोरजों मदद होजानाय।",
+    "cta_track": "हामथाइ ट्रेक खालाम",
+    "cta_ask": "सोंगथि सों",
+    "cta_learn": "गोबां मिथि",
+    "tagline": "💜 नोंथाङा हारसिं नङा।"
+  },
+  "learn": {
+    "title": "हामथाइ सावस्रि सोलोंथाइ",
+    "subtitle": "मुलुग सावस्रि आफाद (WHO) नि बायदिब्ला, हामथाइ सावस्रिया जोबोर गोनां आरो दिहुनथाइ सावस्रि आरो मोन्थाइफोरनि मोनसे गोनां बाहागो।",
+    "source_who": "फुंखा: WHO फेक्ट शीट",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "गिदिंखननि गुदि बाथ्रा",
+    "basics_content": "मोनसे हामथाइ गिदिंखना सरासनस्रायै 21 निफ्राय 35 सानसिम थायो। बेयो मोनसे मिथिंगायारि खान्थि जेराव जोथोना गावनि हाथाखौ गारो।",
+    "hygiene_title": "साफा थानाय खान्थि",
+    "hygiene_content": "बेरामनिफ्राय बासायनो थाखाय गावनि पेद एबा टेम्पोनखौ 4-6 घन्टायाव सोलाय। साफा दै आरो गोरम साबोनजों बायजोआव सुना ला।",
+    "myths_title": "नंखाय साननाय आरो सैथो",
+    "myths_content": "नंखाय साननाय: नोंथाङा हामथाइ समाव खननाय सुनाय नङा। सैथो: गावनि साफा थानाया जोबोर गोनां, आरो दुगैनाय/खननाय सुनाया थारै रैखाथि गोनां।",
+    "nutrition_title": "पुष्टिनि सुबुरुन",
+    "nutrition_content": "पालें आरो डालि बायदि आइरन गोनां आदारफोरा थै खमायनायखौ सुफुंनो मदद खालामो। सानाय खमायनो थाखाय गोबां दै लों।"
+  },
+  "tracker": {
+    "title": "गावनि हामथाइ ट्रेकार",
+    "subtitle": "नोंथांनि डिभाइसाव गावनि गिदिंखनखौ जायगायारियाव ट्रेक खालाम। नोंथांनि डाटाया नोंथांनि फोननिफ्राय माब्लाबाबो ओंखारना थाङा।",
+    "last_period_label": "जोजोब हामथाइनि गिबि सान:",
+    "cycle_length_label": "गिदिंखननि गलाव (सान):",
+    "calculate_btn": "सान",
+    "next_period": "फैगौ हामथाइ",
+    "fertile_window": "साननाय फर्टाइल सम",
+    "days_away": "सान दं",
+    "reset_btn": "डाटा रिसेट खालाम"
+  },
+  "qa": {
+    "title": "मुं गैयै सोंगथि-फिननाय",
+    "subtitle": "रैखाथियै जेखौबो सों। लगइननि गोनांथि गैया।",
+    "placeholder": "नोंथांनि सोंगथिखौ बेयाव टाइप खालाम...",
+    "category_general": "सरासनस्रा",
+    "category_hygiene": "साफा थानाय",
+    "category_health": "सावस्रि",
+    "category_nutrition": "पुष्टि",
+    "category_emotional": "गोसोआरि",
+    "submit_btn": "मुं गैजायै जमा हो",
+    "demo_answer": "फिननाय",
+    "time_ago": "दासो"
+  },
+  "schemes": {
+    "title": "सरकारि योजनाफोर आरो फुंखाफोर",
+    "subtitle": "सावस्रि आरो नखर कल्याण मन्थ्रायलय (MoHFW) आरो MWCD निफ्राय सरकारि मदद मोन।"
+  },
+  "insights": {
+    "title": "मिथिहोनाय आरो ब्लग",
+    "subtitle": "थार बाथ्राफोर आरो गियानि सुबुरुन।"
+  },
+  "impact": {
+    "title": "जोंनि गोहोम",
+    "reached": "हिनजावसाफोरसिम सौहैनाय",
+    "questions": "सोंगथिफोरनि फिननाय होबाय",
+    "regions": "गोहोम गोग्लैनाय राज्योफोर",
+    "urban": "सहरारि सौहैनाय",
+    "rural": "गिबि सौहैनाय"
+  },
+  "team": {
+    "title": "हान्जाजों लोगो हम",
+    "founder": "गायसनगिरि",
+    "tech": "टेक्नोलोजी दैदेनगिरि",
+    "health": "सावस्रि सुबुरुनगिरि"
+  },
+  "footer": {
+    "about": "MAA by Rigel नि सोमोन्दै",
+    "contact": "जोंजों जराय",
+    "disclaimer": "बे प्लेटफर्मआ सोलोंथाइआरि मिथिहोनाय होयो आरो बेयो फाहामथायआरि सुबुरुननि सोलाय नङा।",
+    "privacy": "नोंथांनि प्राइभेसीआ गोनां। जों नोंथांनि गावनि डाटाखौ जेरावबो सार्भाराव ट्रेक एबा दोनथुमा।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

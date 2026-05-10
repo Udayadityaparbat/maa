@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "హోమ్",
+    "learn": "నేర్చుకోండి",
+    "tracker": "ట్రాకర్",
+    "qa": "ప్రశ్నోత్తరాలు",
+    "schemes": "పథకాలు",
+    "insights": "వివరాలు",
+    "impact": "ప్రభావం",
+    "research": "డేటా & పరిశోధన",
+    "team": "బృందం"
+  },
+  "hero": {
+    "badge": "🌸 సురక్షితం · గోప్యం · సాధికారత",
+    "headline": "అవగాహన మరియు సంరక్షణ ద్వారా మహిళా సాధికారత",
+    "subtext": "నేర్చుకోవడానికి, ట్రాక్ చేయడానికి ఒక సురక్షితమైన ప్రదేశం. WHO మార్గదర్శకాలు మరియు భారత ప్రభుత్వ వనరుల మద్దతుతో.",
+    "cta_track": "పీరియడ్ ట్రాక్ చేయండి",
+    "cta_ask": "ప్రశ్న అడగండి",
+    "cta_learn": "మరింత తెలుసుకోండి",
+    "tagline": "💜 మీరు ఒంటరి కాదు."
+  },
+  "learn": {
+    "title": "ఋతుచక్ర ఆరోగ్య విద్య",
+    "subtitle": "ప్రపంచ ఆరోగ్య సంస్థ (WHO) ప్రకారం, ఋతుచక్ర ఆరోగ్యం అనేది లైంగిక మరియు పునరుత్పత్తి ఆరోగ్య హక్కులలో ఒక ముఖ్యమైన భాగం.",
+    "source_who": "మూలం: WHO ఫ్యాక్ట్ షీట్",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "చక్రం బేసిక్స్",
+    "basics_content": "ఒక ఋతుచక్రం సాధారణంగా 21 నుండి 35 రోజుల వరకు ఉంటుంది. ఇది గర్భాశయం తన పొరను తొలగించే సహజ ప్రక్రియ.",
+    "hygiene_title": "పరిశుభ్రత పద్ధతులు",
+    "hygiene_content": "ఇన్ఫెక్షన్లను నివారించడానికి ప్రతి 4-6 గంటలకు మీ ప్యాడ్ లేదా టాంపన్‌ను మార్చండి. శుభ్రమైన నీరు మరియు తేలికపాటి సబ్బుతో బయట కడగాలి.",
+    "myths_title": "అపోహలు మరియు వాస్తవాలు",
+    "myths_content": "అపోహ: మీ పీరియడ్స్ సమయంలో మీరు తలస్నానం చేయకూడదు. వాస్తవం: వ్యక్తిగత పరిశుభ్రత చాలా ముఖ్యం, మరియు స్నానం చేయడం/తలస్నానం చేయడం పూర్తిగా సురక్షితం.",
+    "nutrition_title": "పోషకాహార చిట్కాలు",
+    "nutrition_content": "బచ్చలికూర మరియు కాయధాన్యాలు వంటి ఇనుము అధికంగా ఉండే ఆహారాలు రక్త నష్టాన్ని భర్తీ చేయడంలో సహాయపడతాయి. నొప్పులను తగ్గించడానికి హైడ్రేటెడ్‌గా ఉండండి."
+  },
+  "tracker": {
+    "title": "ప్రైవేట్ పీరియడ్ ట్రాకర్",
+    "subtitle": "మీ పరికరంలో మీ చక్రాన్ని స్థానికంగా ట్రాక్ చేయండి. మీ డేటా ఎప్పటికీ మీ ఫోన్‌ను విడిచి వెళ్ళదు.",
+    "last_period_label": "చివరి పీరియడ్ యొక్క మొదటి రోజు:",
+    "cycle_length_label": "సగటు చక్రం పొడవు (రోజులు):",
+    "calculate_btn": "లెక్కించు",
+    "next_period": "తదుపరి పీరియడ్",
+    "fertile_window": "అంచనా వేయబడిన ఫెర్టైల్ విండో",
+    "days_away": "రోజుల సమయం ఉంది",
+    "reset_btn": "డేటాను రీసెట్ చేయండి"
+  },
+  "qa": {
+    "title": "అనామక ప్రశ్నోత్తరాలు",
+    "subtitle": "సురక్షితంగా ఏదైనా అడగండి. లాగిన్ అవసరం లేదు.",
+    "placeholder": "మీ ప్రశ్నను ఇక్కడ టైప్ చేయండి...",
+    "category_general": "సాధారణం",
+    "category_hygiene": "పరిశుభ్రత",
+    "category_health": "ఆరోగ్యం",
+    "category_nutrition": "పోషకాహారం",
+    "category_emotional": "భావోద్వేగ",
+    "submit_btn": "అనామకంగా సమర్పించండి",
+    "demo_answer": "సమాధానం",
+    "time_ago": "ఇప్పుడే"
+  },
+  "schemes": {
+    "title": "ప్రభుత్వ పథకాలు & వనరులు",
+    "subtitle": "ఆరోగ్య మరియు కుటుంబ సంక్షేమ మంత్రిత్వ శాఖ (MoHFW) & MWCD నుండి అధికారిక మద్దతును యాక్సెస్ చేయండి."
+  },
+  "insights": {
+    "title": "అంతర్దృష్టులు & బ్లాగ్",
+    "subtitle": "నిజమైన కథనాలు మరియు నిపుణుల సలహా."
+  },
+  "impact": {
+    "title": "మా ప్రభావం",
+    "reached": "మహిళలకు చేరువైంది",
+    "questions": "సమాధానం ఇచ్చిన ప్రశ్నలు",
+    "regions": "ప్రభావిత రాష్ట్రాలు",
+    "urban": "పట్టణ చేరుకోలు",
+    "rural": "గ్రామీణ చేరుకోలు"
+  },
+  "team": {
+    "title": "బృందాన్ని కలవండి",
+    "founder": "వ్యవస్థాపకుడు",
+    "tech": "టెక్నాలజీ లీడ్",
+    "health": "ఆరోగ్య సలహాదారు"
+  },
+  "footer": {
+    "about": "MAA by Rigel గురించి",
+    "contact": "మమ్మల్ని సంప్రదించండి",
+    "disclaimer": "ఈ ప్లాట్‌ఫారమ్ విద్యా సమాచారాన్ని అందిస్తుంది మరియు ఇది వైద్య సలహాకు ప్రత్యామ్నాయం కాదు.",
+    "privacy": "మీ గోప్యత ముఖ్యం. మేము మీ వ్యక్తిగత డేటాను ఏ సర్వర్‌లోనూ ట్రాక్ చేయము లేదా నిల్వ చేయము."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

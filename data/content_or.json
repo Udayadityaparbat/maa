@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ମୁଖ୍ୟପୃଷ୍ଠା",
+    "learn": "ଶିଖନ୍ତୁ",
+    "tracker": "ଟ୍ରାକର୍",
+    "qa": "ପ୍ରଶ୍ନୋତ୍ତର",
+    "schemes": "ଯୋଜନା",
+    "insights": "ତଥ୍ୟ",
+    "impact": "ପ୍ରଭାବ",
+    "research": "ଡାଟା ଏବଂ ଗବେଷଣା",
+    "team": "ଦଳ"
+  },
+  "hero": {
+    "badge": "🌸 ସୁରକ୍ଷିତ · ବ୍ୟକ୍ତିଗତ · ସଶକ୍ତିକରଣ",
+    "headline": "ସଚେତନତା ଏବଂ ଯତ୍ନ ମାଧ୍ୟମରେ ମହିଳାମାନଙ୍କୁ ସଶକ୍ତ କରିବା",
+    "subtext": "ଶିଖିବା, ଟ୍ରାକ୍ କରିବା ଏବଂ ଯୋଡ଼ି ହେବା ପାଇଁ ଏକ ସୁରକ୍ଷିତ, ବ୍ୟକ୍ତିଗତ ସ୍ଥାନ। WHO ମାର୍ଗଦର୍ଶିକା ଏବଂ ଭାରତ ସରକାରଙ୍କ ସମ୍ବଳ ଦ୍ୱାରା ସମର୍ଥିତ।",
+    "cta_track": "ଋତୁସ୍ରାବ ଟ୍ରାକ୍ କରନ୍ତୁ",
+    "cta_ask": "ପ୍ରଶ୍ନ ପଚାରନ୍ତୁ",
+    "cta_learn": "ଅଧିକ ଜାଣନ୍ତୁ",
+    "tagline": "💜 ଆପଣ ଏକୁଟିଆ ନୁହଁନ୍ତି।"
+  },
+  "learn": {
+    "title": "ଋତୁସ୍ରାବ ସ୍ୱାସ୍ଥ୍ୟ ଶିକ୍ଷା",
+    "subtitle": "ବିଶ୍ୱ ସ୍ୱାସ୍ଥ୍ୟ ସଂଗଠନ (WHO) ଅନୁଯାୟୀ, ଋତୁସ୍ରାବ ସ୍ୱାସ୍ଥ୍ୟ ହେଉଛି ଯୌନ ଏବଂ ପ୍ରଜନନ ସ୍ୱାସ୍ଥ୍ୟ ଏବଂ ଅଧିକାରର ଏକ ଅବିଚ୍ଛେଦ୍ୟ ଅଙ୍ଗ।",
+    "source_who": "ଉତ୍ସ: WHO ଫ୍ୟାକ୍ଟ ସିଟ୍",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "ମାସିକ ଧର୍ମର ମୌଳିକ କଥା",
+    "basics_content": "ଏକ ମାସିକ ଧର୍ମ ଚକ୍ର ସାଧାରଣତଃ 21 ରୁ 35 ଦିନ ପର୍ଯ୍ୟନ୍ତ ରହିଥାଏ। ଏହା ଏକ ପ୍ରାକୃତିକ ପ୍ରକ୍ରିୟା ଯେଉଁଠାରେ ଗର୍ଭାଶୟ ନିଜର ଆବରଣ ଛାଡିଥାଏ।",
+    "hygiene_title": "ସ୍ୱଚ୍ଛତା ଅଭ୍ୟାସ",
+    "hygiene_content": "ସଂକ୍ରମଣରୁ ରକ୍ଷା ପାଇବା ପାଇଁ ପ୍ରତି 4-6 ଘଣ୍ଟାରେ ଆପଣଙ୍କ ପ୍ୟାଡ୍ କିମ୍ବା ଟାମ୍ପନ୍ ବଦଳାନ୍ତୁ। ସଫା ପାଣି ଏବଂ ସାମାନ୍ୟ ସାବୁନ୍ ବ୍ୟବହାର କରି ବାହାରୁ ଧୋଇଦିଅନ୍ତୁ।",
+    "myths_title": "ଅନ୍ଧବିଶ୍ୱାସ ଏବଂ ତଥ୍ୟ",
+    "myths_content": "ଅନ୍ଧବିଶ୍ୱାସ: ମାସିକ ଧର୍ମ ସମୟରେ ମୁଣ୍ଡ ଧୋଇବା ଉଚିତ୍ ନୁହେଁ। ତଥ୍ୟ: ବ୍ୟକ୍ତିଗତ ସ୍ୱଚ୍ଛତା ବହୁତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ, ଏବଂ ଗାଧୋଇବା/ମୁଣ୍ଡ ଧୋଇବା ସମ୍ପୂର୍ଣ୍ଣ ସୁରକ୍ଷିତ।",
+    "nutrition_title": "ପୋଷଣ ସମ୍ବନ୍ଧୀୟ ପରାମର୍ଶ",
+    "nutrition_content": "ପାଳଙ୍ଗ ଏବଂ ଡାଲି ଭଳି ଆଇରନ୍ ଯୁକ୍ତ ଖାଦ୍ୟ ରକ୍ତହୀନତା ଦୂର କରିବାରେ ସାହାଯ୍ୟ କରିଥାଏ। ଯନ୍ତ୍ରଣା କମାଇବା ପାଇଁ ପ୍ରଚୁର ପାଣି ପିଅନ୍ତୁ।"
+  },
+  "tracker": {
+    "title": "ବ୍ୟକ୍ତିଗତ ମାସିକ ଧର୍ମ ଟ୍ରାକର୍",
+    "subtitle": "ଆପଣଙ୍କ ଡିଭାଇସରେ ଲୋକାଲ୍ ଭାବରେ ଆପଣଙ୍କ ସାଇକେଲ୍ ଟ୍ରାକ୍ କରନ୍ତୁ। ଆପଣଙ୍କ ଡାଟା କେବେବି ଆପଣଙ୍କ ଫୋନ୍ ବାହାରକୁ ଯାଏ ନାହିଁ।",
+    "last_period_label": "ଶେଷ ମାସିକ ଧର୍ମର ପ୍ରଥମ ଦିନ:",
+    "cycle_length_label": "ହାରାହାରି ସାଇକେଲ୍ ଦୈର୍ଘ୍ୟ (ଦିନ):",
+    "calculate_btn": "ହିସାବ କରନ୍ତୁ",
+    "next_period": "ପରବର୍ତ୍ତୀ ମାସିକ ଧର୍ମ",
+    "fertile_window": "ସମ୍ଭାବ୍ୟ ଗର୍ଭଧାରଣ ସମୟ",
+    "days_away": "ଦିନ ବାକି ଅଛି",
+    "reset_btn": "ଡାଟା ରିସେଟ୍ କରନ୍ତୁ"
+  },
+  "qa": {
+    "title": "ଅଜ୍ଞାତ ପ୍ରଶ୍ନୋତ୍ତର",
+    "subtitle": "ସୁରକ୍ଷିତ ଭାବରେ କିଛି ବି ପଚାରନ୍ତୁ। କୌଣସି ଲଗଇନ୍ ଦରକାର ନାହିଁ।",
+    "placeholder": "ଆପଣଙ୍କ ପ୍ରଶ୍ନ ଏଠାରେ ଟାଇପ୍ କରନ୍ତୁ...",
+    "category_general": "ସାଧାରଣ",
+    "category_hygiene": "ସ୍ୱଚ୍ଛତା",
+    "category_health": "ସ୍ୱାସ୍ଥ୍ୟ",
+    "category_nutrition": "ପୋଷଣ",
+    "category_emotional": "ଭାବନାତ୍ମକ",
+    "submit_btn": "ଅଜ୍ଞାତ ଭାବରେ ଦାଖଲ କରନ୍ତୁ",
+    "demo_answer": "ଉତ୍ତର",
+    "time_ago": "ବର୍ତ୍ତମାନ"
+  },
+  "schemes": {
+    "title": "ସରକାରୀ ଯୋଜନା ଏବଂ ସମ୍ବଳ",
+    "subtitle": "ସ୍ୱାସ୍ଥ୍ୟ ଏବଂ ପରିବାର କଲ୍ୟାଣ ମନ୍ତ୍ରଣାଳୟ (MoHFW) ଏବଂ MWCD ରୁ ସରକାରୀ ସହାୟତା ପ୍ରାପ୍ତ କରନ୍ତୁ।"
+  },
+  "insights": {
+    "title": "ତଥ୍ୟ ଏବଂ ବ୍ଲଗ୍",
+    "subtitle": "ପ୍ରକୃତ କାହାଣୀ ଏବଂ ବିଶେଷଜ୍ଞଙ୍କ ପରାମର୍ଶ।"
+  },
+  "impact": {
+    "title": "ଆମର ପ୍ରଭାବ",
+    "reached": "ମହିଳାଙ୍କ ନିକଟରେ ପହଞ୍ଚିଛି",
+    "questions": "ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଆଯାଇଛି",
+    "regions": "ପ୍ରଭାବିତ ରାଜ୍ୟ",
+    "urban": "ସହରାଞ୍ଚଳରେ ପହଞ୍ଚ",
+    "rural": "ଗ୍ରାମାଞ୍ଚଳରେ ପହଞ୍ଚ"
+  },
+  "team": {
+    "title": "ଦଳକୁ ଭେଟନ୍ତୁ",
+    "founder": "ପ୍ରତିଷ୍ଠାତା",
+    "tech": "ଟେକ୍ନୋଲୋଜି ମୁଖ୍ୟ",
+    "health": "ସ୍ୱାସ୍ଥ୍ୟ ପରାମର୍ଶଦାତା"
+  },
+  "footer": {
+    "about": "MAA by Rigel ବିଷୟରେ",
+    "contact": "ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ",
+    "disclaimer": "ଏହି ପ୍ଲାଟଫର୍ମ ଶିକ୍ଷଣୀୟ ସୂଚନା ପ୍ରଦାନ କରେ ଏବଂ ଏହା ଚିକିତ୍ସା ପରାମର୍ଶର ବିକଳ୍ପ ନୁହେଁ।",
+    "privacy": "ଆପଣଙ୍କ ଗୋପନୀୟତା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ଆମେ କୌଣସି ସର୍ଭରରେ ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ଟ୍ରାକ୍ କିମ୍ବା ଷ୍ଟୋର୍ କରୁନାହୁଁ।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ਪ੍ਰਮੁੱਖ ਪੰਨਾ",
+    "learn": "ਸਿੱਖੋ",
+    "tracker": "ਟਰੈਕਰ",
+    "qa": "ਸਵਾਲ-ਜਵਾਬ",
+    "schemes": "ਸਕੀਮਾਂ",
+    "insights": "ਜਾਣਕਾਰੀ",
+    "impact": "ਪ੍ਰਭਾਵ",
+    "research": "ਡਾਟਾ ਅਤੇ ਖੋਜ",
+    "team": "ਟੀਮ"
+  },
+  "hero": {
+    "badge": "🌸 ਸੁਰੱਖਿਅਤ · ਨਿੱਜੀ · ਸ਼ਕਤੀਕਰਨ",
+    "headline": "ਜਾਗਰੂਕਤਾ ਅਤੇ ਦੇਖਭਾਲ ਦੁਆਰਾ ਔਰਤਾਂ ਨੂੰ ਸ਼ਕਤੀਕਰਨ ਕਰਨਾ",
+    "subtext": "ਸਿੱਖਣ, ਟਰੈਕ ਕਰਨ ਅਤੇ ਜੁੜਨ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਅਤੇ ਨਿੱਜੀ ਜਗ੍ਹਾ। WHO ਦੇ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਅਤੇ ਭਾਰਤ ਸਰਕਾਰ ਦੇ ਸਰੋਤਾਂ ਦੁਆਰਾ ਸਮਰਥਿਤ।",
+    "cta_track": "ਮਾਹਵਾਰੀ ਟਰੈਕ ਕਰੋ",
+    "cta_ask": "ਸਵਾਲ ਪੁੱਛੋ",
+    "cta_learn": "ਹੋਰ ਜਾਣੋ",
+    "tagline": "💜 ਤੁਸੀਂ ਇਕੱਲੇ ਨਹੀਂ ਹੋ।"
+  },
+  "learn": {
+    "title": "ਮਾਹਵਾਰੀ ਸਿਹਤ ਸਿੱਖਿਆ",
+    "subtitle": "ਵਿਸ਼ਵ ਸਿਹਤ ਸੰਗਠਨ (WHO) ਦੇ ਅਨੁਸਾਰ, ਮਾਹਵਾਰੀ ਸਿਹਤ ਜਿਨਸੀ ਅਤੇ ਪ੍ਰਜਨਨ ਸਿਹਤ ਅਤੇ ਅਧਿਕਾਰਾਂ ਦਾ ਇੱਕ ਅਟੁੱਟ ਅੰਗ ਹੈ।",
+    "source_who": "ਸਰੋਤ: WHO ਫੈਕਟ ਸ਼ੀਟ",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "ਚੱਕਰ ਦੀਆਂ ਬੁਨਿਆਦੀ ਗੱਲਾਂ",
+    "basics_content": "ਇੱਕ ਮਾਹਵਾਰੀ ਚੱਕਰ ਆਮ ਤੌਰ 'ਤੇ 21 ਤੋਂ 35 ਦਿਨਾਂ ਤੱਕ ਰਹਿੰਦਾ ਹੈ। ਇਹ ਇੱਕ ਕੁਦਰਤੀ ਪ੍ਰਕਿਰਿਆ ਹੈ ਜਿੱਥੇ ਬੱਚੇਦਾਨੀ ਆਪਣੀ ਪਰਤ ਵਹਾਉਂਦੀ ਹੈ।",
+    "hygiene_title": "ਸਫਾਈ ਅਭਿਆਸ",
+    "hygiene_content": "ਇਨਫੈਕਸ਼ਨਾਂ ਨੂੰ ਰੋਕਣ ਲਈ ਹਰ 4-6 ਘੰਟਿਆਂ ਬਾਅਦ ਆਪਣਾ ਪੈਡ ਜਾਂ ਟੈਂਪੋਨ ਬਦਲੋ। ਸਾਫ਼ ਪਾਣੀ ਅਤੇ ਹਲਕੇ ਸਾਬਣ ਨਾਲ ਬਾਹਰੋਂ ਧੋਵੋ।",
+    "myths_title": "ਮਿੱਥਾਂ ਅਤੇ ਤੱਥ",
+    "myths_content": "ਮਿੱਥ: ਤੁਹਾਨੂੰ ਆਪਣੀ ਮਾਹਵਾਰੀ ਦੌਰਾਨ ਆਪਣੇ ਵਾਲ ਨਹੀਂ ਧੋਣੇ ਚਾਹੀਦੇ। ਤੱਥ: ਨਿੱਜੀ ਸਫਾਈ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ, ਅਤੇ ਨਹਾਉਣਾ/ਵਾਲ ਧੋਣਾ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁਰੱਖਿਅਤ ਹੈ।",
+    "nutrition_title": "ਪੋਸ਼ਣ ਸੁਝਾਅ",
+    "nutrition_content": "ਪਾਲਕ ਅਤੇ ਦਾਲਾਂ ਵਰਗੇ ਆਇਰਨ ਨਾਲ ਭਰਪੂਰ ਭੋਜਨ ਖੂਨ ਦੀ ਕਮੀ ਨੂੰ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ। ਕੜਵੱਲ ਨੂੰ ਘਟਾਉਣ ਲਈ ਹਾਈਡ੍ਰੇਟਿਡ ਰਹੋ।"
+  },
+  "tracker": {
+    "title": "ਨਿੱਜੀ ਮਾਹਵਾਰੀ ਟਰੈਕਰ",
+    "subtitle": "ਆਪਣੀ ਡਿਵਾਈਸ 'ਤੇ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਆਪਣੇ ਚੱਕਰ ਨੂੰ ਟਰੈਕ ਕਰੋ। ਤੁਹਾਡਾ ਡਾਟਾ ਕਦੇ ਵੀ ਤੁਹਾਡੇ ਫ਼ੋਨ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ।",
+    "last_period_label": "ਪਿਛਲੀ ਮਾਹਵਾਰੀ ਦਾ ਪਹਿਲਾ ਦਿਨ:",
+    "cycle_length_label": "ਔਸਤ ਚੱਕਰ ਦੀ ਲੰਬਾਈ (ਦਿਨ):",
+    "calculate_btn": "ਹਿਸਾਬ ਲਗਾਓ",
+    "next_period": "ਅਗਲੀ ਮਾਹਵਾਰੀ",
+    "fertile_window": "ਅਨੁਮਾਨਿਤ ਉਪਜਾਊ ਵਿੰਡੋ",
+    "days_away": "ਦਿਨ ਬਾਕੀ",
+    "reset_btn": "ਡਾਟਾ ਰੀਸੈਟ ਕਰੋ"
+  },
+  "qa": {
+    "title": "ਅਗਿਆਤ ਸਵਾਲ-ਜਵਾਬ",
+    "subtitle": "ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਝ ਵੀ ਪੁੱਛੋ। ਕੋਈ ਲੌਗਇਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "placeholder": "ਆਪਣਾ ਸਵਾਲ ਇੱਥੇ ਟਾਈਪ ਕਰੋ...",
+    "category_general": "ਆਮ",
+    "category_hygiene": "ਸਫਾਈ",
+    "category_health": "ਸਿਹਤ",
+    "category_nutrition": "ਪੋਸ਼ਣ",
+    "category_emotional": "ਭਾਵਨਾਤਮਕ",
+    "submit_btn": "ਅਗਿਆਤ ਰੂਪ ਵਿੱਚ ਜਮ੍ਹਾਂ ਕਰੋ",
+    "demo_answer": "ਜਵਾਬ",
+    "time_ago": "ਹੁਣੇ"
+  },
+  "schemes": {
+    "title": "ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਅਤੇ ਸਰੋਤ",
+    "subtitle": "ਸਿਹਤ ਅਤੇ ਪਰਿਵਾਰ ਭਲਾਈ ਮੰਤਰਾਲੇ (MoHFW) ਅਤੇ MWCD ਤੋਂ ਅਧਿਕਾਰਤ ਸਹਾਇਤਾ ਤੱਕ ਪਹੁੰਚ ਕਰੋ।"
+  },
+  "insights": {
+    "title": "ਜਾਣਕਾਰੀ ਅਤੇ ਬਲੌਗ",
+    "subtitle": "ਅਸਲ ਕਹਾਣੀਆਂ ਅਤੇ ਮਾਹਰ ਸਲਾਹ।"
+  },
+  "impact": {
+    "title": "ਸਾਡਾ ਪ੍ਰਭਾਵ",
+    "reached": "ਔਰਤਾਂ ਤੱਕ ਪਹੁੰਚੇ",
+    "questions": "ਜਵਾਬ ਦਿੱਤੇ ਸਵਾਲ",
+    "regions": "ਪ੍ਰਭਾਵਿਤ ਰਾਜ",
+    "urban": "ਸ਼ਹਿਰੀ ਪਹੁੰਚ",
+    "rural": "ਪੇਂਡੂ ਪਹੁੰਚ"
+  },
+  "team": {
+    "title": "ਟੀਮ ਨੂੰ ਮਿਲੋ",
+    "founder": "ਸੰਸਥਾਪਕ",
+    "tech": "ਤਕਨਾਲੋਜੀ ਲੀਡ",
+    "health": "ਸਿਹਤ ਸਲਾਹਕਾਰ"
+  },
+  "footer": {
+    "about": "MAA by Rigel ਬਾਰੇ",
+    "contact": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+    "disclaimer": "ਇਹ ਪਲੇਟਫਾਰਮ ਵਿਦਿਅਕ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ ਅਤੇ ਇਹ ਡਾਕਟਰੀ ਸਲਾਹ ਦਾ ਬਦਲ ਨਹੀਂ ਹੈ।",
+    "privacy": "ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਮਹੱਤਵਪੂਰਨ ਹੈ। ਅਸੀਂ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਿਸੇ ਵੀ ਸਰਵਰ 'ਤੇ ਟਰੈਕ ਜਾਂ ਸਟੋਰ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

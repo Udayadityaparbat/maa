@@ -1,0 +1,1046 @@
+[
+  {
+    "condition": "PCOD / PCOS",
+    "keywords": [
+      "pcod",
+      "pcos",
+      "irregular periods"
+    ],
+    "description": "Hormonal disorder affecting ovulation",
+    "symptoms": "irregular periods, acne, weight gain",
+    "causes": "insulin resistance, hormones",
+    "recommendation": "exercise, diet, doctor",
+    "risk_level": "medium",
+    "doctor_required": true
+  },
+  {
+    "condition": "IRREGULAR PERIODS",
+    "keywords": [
+      "delayed periods"
+    ],
+    "description": "Inconsistent cycle timing",
+    "symptoms": "late or missed periods",
+    "causes": "stress, hormones",
+    "recommendation": "track cycle",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "DYSMENORRHEA",
+    "keywords": [
+      "period pain"
+    ],
+    "description": "Painful menstruation",
+    "symptoms": "cramps, nausea",
+    "causes": "prostaglandins",
+    "recommendation": "heat therapy",
+    "risk_level": "low"
+  },
+  {
+    "condition": "PMS",
+    "keywords": [
+      "mood swings"
+    ],
+    "description": "Pre-period symptoms",
+    "symptoms": "irritability, bloating",
+    "causes": "hormones",
+    "recommendation": "rest, exercise",
+    "risk_level": "low"
+  },
+  {
+    "condition": "PMDD",
+    "keywords": [
+      "severe pms"
+    ],
+    "description": "Severe emotional symptoms",
+    "symptoms": "depression, anxiety",
+    "causes": "hormone sensitivity",
+    "recommendation": "doctor",
+    "risk_level": "high"
+  },
+  {
+    "condition": "HEAVY BLEEDING",
+    "keywords": [
+      "heavy flow"
+    ],
+    "description": "Excessive menstrual bleeding",
+    "symptoms": "long periods",
+    "causes": "fibroids",
+    "recommendation": "iron, doctor",
+    "risk_level": "high"
+  },
+  {
+    "condition": "LIGHT PERIODS",
+    "keywords": [
+      "low flow"
+    ],
+    "description": "Reduced bleeding",
+    "symptoms": "short periods",
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "low"
+  },
+  {
+    "condition": "AMENORRHEA",
+    "keywords": [
+      "no periods"
+    ],
+    "description": "Absence of menstruation",
+    "symptoms": "missed cycles",
+    "causes": "stress, weight",
+    "recommendation": "doctor",
+    "risk_level": "high"
+  },
+  {
+    "condition": "ENDOMETRIOSIS",
+    "keywords": [
+      "severe cramps"
+    ],
+    "description": "Tissue outside uterus",
+    "symptoms": "pain, infertility",
+    "causes": "unknown",
+    "recommendation": "treatment",
+    "risk_level": "high"
+  },
+  {
+    "condition": "FIBROIDS",
+    "keywords": [
+      "uterine growth"
+    ],
+    "description": "Non-cancerous tumors",
+    "symptoms": "heavy bleeding",
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "OVARIAN CYST",
+    "keywords": [
+      "cyst"
+    ],
+    "description": "Fluid-filled sacs",
+    "symptoms": "pain",
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "THYROID ISSUE",
+    "keywords": [
+      "thyroid"
+    ],
+    "description": "Hormone imbalance",
+    "symptoms": "fatigue, irregular cycle",
+    "causes": "thyroid dysfunction",
+    "recommendation": "test",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "ANEMIA",
+    "keywords": [
+      "low iron"
+    ],
+    "description": "Low hemoglobin",
+    "symptoms": "fatigue",
+    "causes": "blood loss",
+    "recommendation": "iron",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "INFERTILITY",
+    "keywords": [
+      "cannot conceive"
+    ],
+    "description": "Difficulty pregnancy",
+    "symptoms": "irregular ovulation",
+    "causes": "PCOS",
+    "recommendation": "specialist",
+    "risk_level": "high"
+  },
+  {
+    "condition": "VAGINAL INFECTION",
+    "keywords": [
+      "itching"
+    ],
+    "description": "Infection",
+    "symptoms": "discharge",
+    "causes": "bacteria",
+    "recommendation": "hygiene",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "YEAST INFECTION",
+    "keywords": [
+      "fungal"
+    ],
+    "description": "Fungal infection",
+    "symptoms": "itching",
+    "causes": "imbalance",
+    "recommendation": "antifungal",
+    "risk_level": "low"
+  },
+  {
+    "condition": "BACTERIAL VAGINOSIS",
+    "keywords": [
+      "odor"
+    ],
+    "description": "Bacterial imbalance",
+    "symptoms": "smell",
+    "causes": "bacteria",
+    "recommendation": "antibiotics",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "PELVIC PAIN",
+    "keywords": [
+      "lower pain"
+    ],
+    "description": "Pain in pelvis",
+    "symptoms": "discomfort",
+    "causes": "infection",
+    "recommendation": "diagnosis",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "STRESS EFFECT",
+    "keywords": [
+      "stress delay"
+    ],
+    "description": "Stress affects cycle",
+    "symptoms": "late period",
+    "causes": "cortisol",
+    "recommendation": "relax",
+    "risk_level": "low"
+  },
+  {
+    "condition": "WEIGHT GAIN",
+    "keywords": [
+      "weight increase"
+    ],
+    "description": "Hormonal weight gain",
+    "symptoms": "fat gain",
+    "causes": "PCOS",
+    "recommendation": "diet",
+    "risk_level": "medium"
+  },
+  {
+    "condition": "ACNE",
+    "keywords": [
+      "pimples"
+    ],
+    "description": "Hormonal acne",
+    "symptoms": "breakouts",
+    "causes": "hormones",
+    "recommendation": "skincare",
+    "risk_level": "low"
+  },
+  {
+    "condition": "HAIR LOSS",
+    "keywords": [
+      "hair fall"
+    ],
+    "description": "Hair thinning",
+    "symptoms": "hair loss",
+    "causes": "hormones",
+    "recommendation": "nutrition",
+    "risk_level": "low"
+  },
+  {
+    "condition": "MOOD SWINGS",
+    "keywords": [
+      "emotional"
+    ],
+    "description": "Emotional fluctuation",
+    "symptoms": "irritability",
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low"
+  },
+  {
+    "condition": "FATIGUE",
+    "keywords": [
+      "tired"
+    ],
+    "description": "Low energy",
+    "symptoms": "weakness",
+    "causes": "blood loss",
+    "recommendation": "rest",
+    "risk_level": "low"
+  },
+  {
+    "condition": "SLEEP ISSUES",
+    "keywords": [
+      "insomnia"
+    ],
+    "description": "Sleep disturbance",
+    "symptoms": "poor sleep",
+    "causes": "hormones",
+    "recommendation": "routine",
+    "risk_level": "low"
+  },
+  {
+    "condition": "BLOATING",
+    "keywords": [
+      "swelling"
+    ],
+    "description": "Fluid retention",
+    "symptoms": "stomach swelling",
+    "causes": "hormones",
+    "recommendation": "reduce salt",
+    "risk_level": "low"
+  },
+  {
+    "condition": "BREAST PAIN",
+    "keywords": [
+      "tenderness"
+    ],
+    "description": "Breast soreness",
+    "symptoms": "pain",
+    "causes": "hormones",
+    "recommendation": "support",
+    "risk_level": "low"
+  },
+  {
+    "condition": "BACK PAIN",
+    "keywords": [
+      "back ache"
+    ],
+    "description": "Pain during cycle",
+    "symptoms": "lower back pain",
+    "causes": "cramps",
+    "recommendation": "heat",
+    "risk_level": "low"
+  },
+  {
+    "condition": "NAUSEA",
+    "keywords": [
+      "vomiting"
+    ],
+    "description": "Nausea during period",
+    "symptoms": "vomiting",
+    "causes": "hormones",
+    "recommendation": "light diet",
+    "risk_level": "low"
+  },
+  {
+    "condition": "DIARRHEA",
+    "keywords": [
+      "loose motion"
+    ],
+    "description": "Digestive change",
+    "symptoms": "diarrhea",
+    "causes": "prostaglandins",
+    "recommendation": "hydration",
+    "risk_level": "low"
+  },
+  {
+    "condition": "CONSTIPATION",
+    "keywords": [
+      "hard stool"
+    ],
+    "description": "Slow digestion",
+    "symptoms": "constipation",
+    "causes": "hormones",
+    "recommendation": "fiber",
+    "risk_level": "low"
+  },
+  {
+    "condition": "SPOTTING",
+    "keywords": [
+      "light bleeding"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "SPOTTING"
+  },
+  {
+    "condition": "EARLY PERIOD",
+    "keywords": [
+      "early cycle"
+    ],
+    "causes": "stress",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "EARLY PERIOD"
+  },
+  {
+    "condition": "LATE PERIOD",
+    "keywords": [
+      "delayed"
+    ],
+    "causes": "stress",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "LATE PERIOD"
+  },
+  {
+    "condition": "OVULATION PAIN",
+    "keywords": [
+      "mid pain"
+    ],
+    "causes": "ovulation",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "OVULATION PAIN"
+  },
+  {
+    "condition": "LOW LIBIDO",
+    "keywords": [
+      "low sex drive"
+    ],
+    "causes": "hormones",
+    "recommendation": "lifestyle",
+    "risk_level": "low",
+    "description": "LOW LIBIDO"
+  },
+  {
+    "condition": "HIGH LIBIDO",
+    "keywords": [
+      "high drive"
+    ],
+    "causes": "hormones",
+    "recommendation": "normal",
+    "risk_level": "low",
+    "description": "HIGH LIBIDO"
+  },
+  {
+    "condition": "NIGHT SWEATS",
+    "keywords": [
+      "sweating"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "NIGHT SWEATS"
+  },
+  {
+    "condition": "HOT FLASHES",
+    "keywords": [
+      "heat waves"
+    ],
+    "causes": "hormones",
+    "recommendation": "lifestyle",
+    "risk_level": "low",
+    "description": "HOT FLASHES"
+  },
+  {
+    "condition": "CHILLS",
+    "keywords": [
+      "cold feeling"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "CHILLS"
+  },
+  {
+    "condition": "HEADACHE",
+    "keywords": [
+      "pain"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "HEADACHE"
+  },
+  {
+    "condition": "MIGRAINE",
+    "keywords": [
+      "severe headache"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "MIGRAINE"
+  },
+  {
+    "condition": "DIZZINESS",
+    "keywords": [
+      "lightheaded"
+    ],
+    "causes": "low iron",
+    "recommendation": "nutrition",
+    "risk_level": "medium",
+    "description": "DIZZINESS"
+  },
+  {
+    "condition": "CRAVINGS",
+    "keywords": [
+      "food craving"
+    ],
+    "causes": "hormones",
+    "recommendation": "diet",
+    "risk_level": "low",
+    "description": "CRAVINGS"
+  },
+  {
+    "condition": "LOSS OF APPETITE",
+    "keywords": [
+      "low hunger"
+    ],
+    "causes": "stress",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "LOSS OF APPETITE"
+  },
+  {
+    "condition": "WATER RETENTION",
+    "keywords": [
+      "swelling"
+    ],
+    "causes": "hormones",
+    "recommendation": "hydration",
+    "risk_level": "low",
+    "description": "WATER RETENTION"
+  },
+  {
+    "condition": "SKIN DARKENING",
+    "keywords": [
+      "pigmentation"
+    ],
+    "causes": "hormones",
+    "recommendation": "care",
+    "risk_level": "low",
+    "description": "SKIN DARKENING"
+  },
+  {
+    "condition": "BODY ODOR",
+    "keywords": [
+      "smell change"
+    ],
+    "causes": "hormones",
+    "recommendation": "hygiene",
+    "risk_level": "low",
+    "description": "BODY ODOR"
+  },
+  {
+    "condition": "SWEATING",
+    "keywords": [
+      "excess sweat"
+    ],
+    "causes": "hormones",
+    "recommendation": "care",
+    "risk_level": "low",
+    "description": "SWEATING"
+  },
+  {
+    "condition": "ANXIETY",
+    "keywords": [
+      "nervousness"
+    ],
+    "causes": "hormones",
+    "recommendation": "relax",
+    "risk_level": "medium",
+    "description": "ANXIETY"
+  },
+  {
+    "condition": "DEPRESSION",
+    "keywords": [
+      "sadness"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "DEPRESSION"
+  },
+  {
+    "condition": "IRRITABILITY",
+    "keywords": [
+      "anger"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "IRRITABILITY"
+  },
+  {
+    "condition": "LOW FOCUS",
+    "keywords": [
+      "distraction"
+    ],
+    "causes": "hormones",
+    "recommendation": "sleep",
+    "risk_level": "low",
+    "description": "LOW FOCUS"
+  },
+  {
+    "condition": "MEMORY ISSUES",
+    "keywords": [
+      "forgetfulness"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "MEMORY ISSUES"
+  },
+  {
+    "condition": "JOINT PAIN",
+    "keywords": [
+      "pain"
+    ],
+    "causes": "hormones",
+    "recommendation": "exercise",
+    "risk_level": "low",
+    "description": "JOINT PAIN"
+  },
+  {
+    "condition": "MUSCLE PAIN",
+    "keywords": [
+      "soreness"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "MUSCLE PAIN"
+  },
+  {
+    "condition": "LOW IMMUNITY",
+    "keywords": [
+      "weak immune"
+    ],
+    "causes": "stress",
+    "recommendation": "nutrition",
+    "risk_level": "medium",
+    "description": "LOW IMMUNITY"
+  },
+  {
+    "condition": "FREQUENT URINATION",
+    "keywords": [
+      "urination"
+    ],
+    "causes": "infection",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "FREQUENT URINATION"
+  },
+  {
+    "condition": "URINARY INFECTION",
+    "keywords": [
+      "UTI"
+    ],
+    "causes": "bacteria",
+    "recommendation": "antibiotics",
+    "risk_level": "medium",
+    "description": "URINARY INFECTION"
+  },
+  {
+    "condition": "PELVIC INFLAMMATION",
+    "keywords": [
+      "inflammation"
+    ],
+    "causes": "infection",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "PELVIC INFLAMMATION"
+  },
+  {
+    "condition": "CERVICAL ISSUES",
+    "keywords": [
+      "cervix problem"
+    ],
+    "causes": "infection",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "CERVICAL ISSUES"
+  },
+  {
+    "condition": "HORMONAL IMBALANCE",
+    "keywords": [
+      "imbalance"
+    ],
+    "causes": "endocrine",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "HORMONAL IMBALANCE"
+  },
+  {
+    "condition": "DELAYED OVULATION",
+    "keywords": [
+      "late ovulation"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "DELAYED OVULATION"
+  },
+  {
+    "condition": "NO OVULATION",
+    "keywords": [
+      "anovulation"
+    ],
+    "causes": "PCOS",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "NO OVULATION"
+  },
+  {
+    "condition": "SHORT CYCLE",
+    "keywords": [
+      "<21 days"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "SHORT CYCLE"
+  },
+  {
+    "condition": "LONG CYCLE",
+    "keywords": [
+      ">35 days"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "LONG CYCLE"
+  },
+  {
+    "condition": "BLEEDING BETWEEN PERIODS",
+    "keywords": [
+      "spotting"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "BLEEDING BETWEEN PERIODS"
+  },
+  {
+    "condition": "POST PERIOD PAIN",
+    "keywords": [
+      "pain after"
+    ],
+    "causes": "inflammation",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "POST PERIOD PAIN"
+  },
+  {
+    "condition": "PRE PERIOD PAIN",
+    "keywords": [
+      "pain before"
+    ],
+    "causes": "PMS",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "PRE PERIOD PAIN"
+  },
+  {
+    "condition": "LOW ESTROGEN",
+    "keywords": [
+      "hormone low"
+    ],
+    "causes": "fatigue",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "LOW ESTROGEN"
+  },
+  {
+    "condition": "HIGH ESTROGEN",
+    "keywords": [
+      "hormone high"
+    ],
+    "causes": "weight",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "HIGH ESTROGEN"
+  },
+  {
+    "condition": "LOW PROGESTERONE",
+    "keywords": [
+      "hormone low"
+    ],
+    "causes": "irregular",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "LOW PROGESTERONE"
+  },
+  {
+    "condition": "HIGH PROGESTERONE",
+    "keywords": [
+      "hormone high"
+    ],
+    "causes": "mood",
+    "recommendation": "monitor",
+    "risk_level": "low",
+    "description": "HIGH PROGESTERONE"
+  },
+  {
+    "condition": "HIGH LH",
+    "keywords": [
+      "ovulation issue"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "HIGH LH"
+  },
+  {
+    "condition": "LOW LH",
+    "keywords": [
+      "ovulation issue"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "LOW LH"
+  },
+  {
+    "condition": "INSULIN RESISTANCE",
+    "keywords": [
+      "metabolism"
+    ],
+    "causes": "PCOS",
+    "recommendation": "diet",
+    "risk_level": "high",
+    "description": "INSULIN RESISTANCE"
+  },
+  {
+    "condition": "METABOLIC ISSUE",
+    "keywords": [
+      "metabolism"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "METABOLIC ISSUE"
+  },
+  {
+    "condition": "OBESITY",
+    "keywords": [
+      "weight"
+    ],
+    "causes": "lifestyle",
+    "recommendation": "exercise",
+    "risk_level": "medium",
+    "description": "OBESITY"
+  },
+  {
+    "condition": "UNDERWEIGHT",
+    "keywords": [
+      "low weight"
+    ],
+    "causes": "nutrition",
+    "recommendation": "diet",
+    "risk_level": "medium",
+    "description": "UNDERWEIGHT"
+  },
+  {
+    "condition": "EATING DISORDER",
+    "keywords": [
+      "unhealthy eating"
+    ],
+    "causes": "stress",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "EATING DISORDER"
+  },
+  {
+    "condition": "DEHYDRATION",
+    "keywords": [
+      "low water"
+    ],
+    "causes": "fatigue",
+    "recommendation": "hydrate",
+    "risk_level": "low",
+    "description": "DEHYDRATION"
+  },
+  {
+    "condition": "OVEREXERCISE",
+    "keywords": [
+      "too much workout"
+    ],
+    "causes": "hormones",
+    "recommendation": "rest",
+    "risk_level": "low",
+    "description": "OVEREXERCISE"
+  },
+  {
+    "condition": "NO EXERCISE",
+    "keywords": [
+      "inactivity"
+    ],
+    "causes": "health",
+    "recommendation": "exercise",
+    "risk_level": "low",
+    "description": "NO EXERCISE"
+  },
+  {
+    "condition": "POOR DIET",
+    "keywords": [
+      "junk food"
+    ],
+    "causes": "health",
+    "recommendation": "improve",
+    "risk_level": "low",
+    "description": "POOR DIET"
+  },
+  {
+    "condition": "LOW IRON",
+    "keywords": [
+      "deficiency"
+    ],
+    "causes": "anemia",
+    "recommendation": "iron",
+    "risk_level": "medium",
+    "description": "LOW IRON"
+  },
+  {
+    "condition": "VITAMIN DEFICIENCY",
+    "keywords": [
+      "lack nutrients"
+    ],
+    "causes": "fatigue",
+    "recommendation": "supplements",
+    "risk_level": "medium",
+    "description": "VITAMIN DEFICIENCY"
+  },
+  {
+    "condition": "SLEEP DEPRIVATION",
+    "keywords": [
+      "less sleep"
+    ],
+    "causes": "fatigue",
+    "recommendation": "sleep",
+    "risk_level": "low",
+    "description": "SLEEP DEPRIVATION"
+  },
+  {
+    "condition": "SHIFT WORK IMPACT",
+    "keywords": [
+      "irregular routine"
+    ],
+    "causes": "hormones",
+    "recommendation": "adjust",
+    "risk_level": "low",
+    "description": "SHIFT WORK IMPACT"
+  },
+  {
+    "condition": "TRAVEL IMPACT",
+    "keywords": [
+      "jet lag"
+    ],
+    "causes": "cycle shift",
+    "recommendation": "adjust",
+    "risk_level": "low",
+    "description": "TRAVEL IMPACT"
+  },
+  {
+    "condition": "MEDICATION EFFECT",
+    "keywords": [
+      "drug impact"
+    ],
+    "causes": "hormones",
+    "recommendation": "consult",
+    "risk_level": "medium",
+    "description": "MEDICATION EFFECT"
+  },
+  {
+    "condition": "CONTRACEPTIVE EFFECT",
+    "keywords": [
+      "pills impact"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "CONTRACEPTIVE EFFECT"
+  },
+  {
+    "condition": "POST PILL EFFECT",
+    "keywords": [
+      "after pills"
+    ],
+    "causes": "irregular",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "POST PILL EFFECT"
+  },
+  {
+    "condition": "PREGNANCY POSSIBILITY",
+    "keywords": [
+      "missed period"
+    ],
+    "causes": "test",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "PREGNANCY POSSIBILITY"
+  },
+  {
+    "condition": "MISCARRIAGE RISK",
+    "keywords": [
+      "bleeding"
+    ],
+    "causes": "pregnancy",
+    "recommendation": "doctor",
+    "risk_level": "high",
+    "description": "MISCARRIAGE RISK"
+  },
+  {
+    "condition": "POST PREGNANCY IRREGULARITY",
+    "keywords": [
+      "after birth"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "POST PREGNANCY IRREGULARITY"
+  },
+  {
+    "condition": "BREASTFEEDING IMPACT",
+    "keywords": [
+      "cycle delay"
+    ],
+    "causes": "hormones",
+    "recommendation": "normal",
+    "risk_level": "low",
+    "description": "BREASTFEEDING IMPACT"
+  },
+  {
+    "condition": "MENOPAUSE START",
+    "keywords": [
+      "end of cycle"
+    ],
+    "causes": "hormones",
+    "recommendation": "doctor",
+    "risk_level": "medium",
+    "description": "MENOPAUSE START"
+  },
+  {
+    "condition": "PERIMENOPAUSE",
+    "keywords": [
+      "transition"
+    ],
+    "causes": "hormones",
+    "recommendation": "monitor",
+    "risk_level": "medium",
+    "description": "PERIMENOPAUSE"
+  },
+  {
+    "condition": "LOW AWARENESS",
+    "keywords": [
+      "lack knowledge"
+    ],
+    "causes": "education",
+    "recommendation": "improve",
+    "risk_level": "low",
+    "description": "LOW AWARENESS"
+  },
+  {
+    "condition": "HYGIENE ISSUE",
+    "keywords": [
+      "poor hygiene"
+    ],
+    "causes": "infection",
+    "recommendation": "improve",
+    "risk_level": "medium",
+    "description": "HYGIENE ISSUE"
+  },
+  {
+    "condition": "SOCIAL STIGMA",
+    "keywords": [
+      "taboo"
+    ],
+    "causes": "mental impact",
+    "recommendation": "awareness",
+    "risk_level": "low",
+    "description": "SOCIAL STIGMA"
+  }
+]

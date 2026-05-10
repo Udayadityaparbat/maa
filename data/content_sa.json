@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "गृहम्",
+    "learn": "अधीष्व",
+    "tracker": "अन्वेषकः",
+    "qa": "प्रश्नोत्तराणि",
+    "schemes": "योजनाः",
+    "insights": "अन्तर्दृष्टिः",
+    "impact": "प्रभावः",
+    "research": "दत्तांशः शोधञ्च",
+    "team": "समूहः"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षितम् · वैयक्तिकम् · सशक्तिकरणम्",
+    "headline": "जागरूकतया परिचर्यया च महिलानां सशक्तिकरणम्",
+    "subtext": "ज्ञातुम्, अन्वेष्टुम्, संयोजयितुं च एकं सुरक्षितं, वैयक्तिकं स्थानम्। विश्वस्वास्थ्यसङ्गठनस्य मार्गदर्शनेन भारतसर्वकारस्य च संसाधनेन समर्थितम्।",
+    "cta_track": "ऋतुचक्रम् अन्वेषय",
+    "cta_ask": "प्रश्नं पृच्छ",
+    "cta_learn": "अधिकं जानीहि",
+    "tagline": "💜 त्वम् एकाकिनी नासि।"
+  },
+  "learn": {
+    "title": "ऋतुस्रावस्वास्थ्यशिक्षा",
+    "subtitle": "विश्वस्वास्थ्यसङ्गठनस्य (WHO) अनुसारं, ऋतुस्रावस्वास्थ्यं यौनप्रजननस्वास्थ्यस्य अधिकाराणां च अभिन्नम् अङ्गम् अस्ति।",
+    "source_who": "स्रोतः: WHO तथ्यपत्रम्",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "ऋतुचक्रस्य आधाराः",
+    "basics_content": "एकं ऋतुचक्रं सामान्यतया २१ तः ३५ दिनानि यावत् भवति। इयं एका प्राकृतिकी प्रक्रिया यस्यां गर्भाशयः स्वस्य आवरणं त्यजति।",
+    "hygiene_title": "स्वच्छतायाः अभ्यासाः",
+    "hygiene_content": "सङ्क्रमणं निवारयितुं प्रति ४-६ होरासु भवती स्वस्य प्याड् अथवा ट्याम्पोन परिवर्तयतु। स्वच्छजलेन मृदुसाबुनेन च बहिः प्रक्षालयतु।",
+    "myths_title": "भ्रमाः तथ्यानि च",
+    "myths_content": "भ्रमः: भवती ऋतुस्रावसमये केशान् न क्षालयेत्। तथ्यम्: व्यक्तिगतस्वच्छता अतीव महत्त्वपूर्णा अस्ति, तथा च स्नानं/केशक्षालनं पूर्णतया सुरक्षितम् अस्ति।",
+    "nutrition_title": "पोषणपरामर्शाः",
+    "nutrition_content": "पालक्याः सूपस्य च सदृशाणि लौहयुक्तानि अन्नानि रक्तक्षयं पूरयितुं साहाय्यं कुर्वन्ति। वेदनां न्यूनीकर्तुं जलं पिबतु।"
+  },
+  "tracker": {
+    "title": "वैयक्तिकः ऋतुस्रावान्वेषकः",
+    "subtitle": "स्वयन्त्रे स्वस्य ऋतुचक्रम् अन्वेषयतु। भवत्याः दत्तांशः कदापि भवत्याः दूरभाषयन्त्रात् बहिः न गच्छति।",
+    "last_period_label": "अन्तिमस्य ऋतुस्रावस्य प्रथमं दिनम्:",
+    "cycle_length_label": "ऋतुचक्रस्य साधारणी लम्बता (दिनानि):",
+    "calculate_btn": "गणयतु",
+    "next_period": "आगामी ऋतुस्रावः",
+    "fertile_window": "अनुमानितः गर्भाधानसमयः",
+    "days_away": "दिनानि अवशिष्टानि",
+    "reset_btn": "दत्तांशं पुनः स्थापयतु"
+  },
+  "qa": {
+    "title": "अनामप्रश्नोत्तराणि",
+    "subtitle": "सुरक्षिततया किमपि पृच्छतु। प्रवेशस्य (Login) आवश्यकता नास्ति।",
+    "placeholder": "अत्र भवत्याः प्रश्नं लिखतु...",
+    "category_general": "सामान्यम्",
+    "category_hygiene": "स्वच्छता",
+    "category_health": "स्वास्थ्यम्",
+    "category_nutrition": "पोषणम्",
+    "category_emotional": "भावनात्मकम्",
+    "submit_btn": "अनामतया प्रेषयतु",
+    "demo_answer": "उत्तरम्",
+    "time_ago": "इदानीमेव"
+  },
+  "schemes": {
+    "title": "सर्वकारीययोजनाः संसाधनानि च",
+    "subtitle": "स्वास्थ्य-परिवारकल्याणमन्त्रालयात् (MoHFW) MWCD तः च आधिकारिकं समर्थनं प्राप्नोतु।"
+  },
+  "insights": {
+    "title": "अन्तर्दृष्टिः ब्लग् च",
+    "subtitle": "वास्तविक्यः कथाः विशेषज्ञपरामर्शाः च।"
+  },
+  "impact": {
+    "title": "अस्माकं प्रभावः",
+    "reached": "महिलाः प्राप्ताः",
+    "questions": "प्रश्नानाम् उत्तराणि दत्तानि",
+    "regions": "प्रभावितानि राज्यानि",
+    "urban": "नगरप्राप्तिः",
+    "rural": "ग्रामप्राप्तिः"
+  },
+  "team": {
+    "title": "समूहं मिलतु",
+    "founder": "संस्थापकः",
+    "tech": "प्रौद्योगिकीप्रमुखः",
+    "health": "स्वास्थ्यपरामर्शदाता"
+  },
+  "footer": {
+    "about": "MAA by Rigel विषये",
+    "contact": "अस्मान् सम्पर्कयतु",
+    "disclaimer": "इदं मञ्चं शैक्षिकतथ्यानि प्रदाति, इदं वैद्यकीयपरामर्शस्य विकल्पः नास्ति।",
+    "privacy": "भवत्याः गोपनीयता महत्त्वपूर्णा। वयं भवत्याः व्यक्तिगतदत्तांशं कस्मिंश्चित् सर्वरमध्ये न अन्वेषयामः न वा सङ्ग्रहीयामः।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

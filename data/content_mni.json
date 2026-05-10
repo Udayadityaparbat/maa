@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ময়ুম",
+    "learn": "তম্বী",
+    "tracker": "ট্রেকার",
+    "qa": "ৱাহং-পাউখুম",
+    "schemes": "স্কিমশিং",
+    "insights": "ইনসাইটশিং",
+    "impact": "ইমপেক্ট",
+    "research": "দ্যাতা অমসুং রিসর্স",
+    "team": "তীম"
+  },
+  "hero": {
+    "badge": "🌸 সেফ · প্রাইভেত · এম্পাৱারিং",
+    "headline": "এৱারনেস অমসুং কেয়ারগী থোংদা নুপীশিংবু এম্পাৱার তৌবা",
+    "subtext": "তম্বা, ট্রেকিং তৌবা অমসুং কনেক্ত তৌনবা সেফ ওইবা, প্রাইভেত স্পেস অমা। WHO গী গাইডলাইন অমসুং ভারত লৈঙাক্কী রিসোর্সশিংনা শৌগৎপা।",
+    "cta_track": "পিরিয়দ ট্রেক তৌবিয়ু",
+    "cta_ask": "ৱাহং অমা হংবিয়ু",
+    "cta_learn": "মখা তানা খংবিয়ু",
+    "tagline": "💜 নহাক অতোপ্পা নত্তে।"
+  },
+  "learn": {
+    "title": "মেন্সট্রুয়েল হেলথ ইদুকেশন",
+    "subtitle": "ৱার্ল্ড হেলথ ওর্গানাইজেশন (WHO) গী মতুং ইন্না, মেন্সট্রুয়েল হেলথ অসি সেক্সুয়েল অমসুং রিপ্রোডাক্টিভ হেলথ অমসুং রাইটশিংগী মরুওইবা শরুক অমনি।",
+    "source_who": "সোর্স: WHO ফেক্ট শীট",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "সাইকলগী বেসিকশিং",
+    "basics_content": "পিরিয়দ সাইকল অমা মহৌশানা নুমিৎ ২১দগী ৩৫ ফাওবা চৎলি। মসি নেচরেল ওইবা থৌওং অমনি মদুদা য়ুটেরসনা মসিগী লাইনিং অদু থাদোকই।",
+    "hygiene_title": "হাইজিনগী থৌওংশিং",
+    "hygiene_content": "ইনফেকশনশিং থিংনবা পুং ৪-৬ খুদিংগী নহাক্কী পেদ নত্রগা তেম্পোন অদু ওন্থোকউ। লু-নানবা ঈশিং অমসুং মাইল্ড শাপোন শিজিন্নদুনা মপান্দা হামথোকউ।",
+    "myths_title": "মিথশিং বনাম ফেক্টশিং",
+    "myths_content": "মিথ: নহাক্কী পিরিয়দ মনুংদা সম হামথোকপা য়াদে। ফেক্ট: পর্সনেল হাইজিন য়াম্না মরুওই, অমসুং লু-নানা লৈবা/সম হামথোকপা অসি মপুংফানা সেফ ওই।",
+    "nutrition_title": "ন্যুট্রিশনগী টিপশিং",
+    "nutrition_content": "পালং অমসুং দালগুম্বা আয়রন য়াম্না য়াওবা চিঞ্জাকশিংনা ঈ মাংখৈবা অদু মেনখৎপদা মতেং ওই। ক্রেংপশিং হন্থনবা ঈশিং য়াম্না থকউ।"
+  },
+  "tracker": {
+    "title": "প্রাইভেত পিরিয়দ ট্রেকার",
+    "subtitle": "নহাক্কী সাইকল অদু নহাক্কী দিভাইসতা লোকেল ওইনা ট্রেক তৌবিয়ু। নহাক্কী দ্যাতা অদু নহাক্কী ফোনদগী কদাইদসু চৎতে।",
+    "last_period_label": "অরোইবা পিরিয়দকী অহানবা নুমিৎ:",
+    "cycle_length_label": "এভারেজ সাইকলগী অশাংবা (নুমিৎশিং):",
+    "calculate_btn": "কেলকুলেট তৌবিয়ু",
+    "next_period": "মথংগী পিরিয়দ",
+    "fertile_window": "এস্টিমেটেড ফর্টাইল উইন্দো",
+    "days_away": "নুমিৎশিং লৈরি",
+    "reset_btn": "দ্যাতা রিসেট তৌবিয়ু"
+  },
+  "qa": {
+    "title": "এনোনিমস ৱাহং-পাউখুম",
+    "subtitle": "সেফ ওইনা করিগুম্বা অমহেক হংবিয়ু। লোগইন তৌবা মথৌ তাদে।",
+    "placeholder": "নহাক্কী ৱাহং অদু মফম অসিদা টাইপ তৌবিয়ু...",
+    "category_general": "জেনেরেল",
+    "category_hygiene": "হাইজিন",
+    "category_health": "হেলথ",
+    "category_nutrition": "ন্যুট্রিশন",
+    "category_emotional": "ইমোশনেল",
+    "submit_btn": "এনোনিমস ওইনা থাজিনবিয়ু",
+    "demo_answer": "পাউখুম",
+    "time_ago": "হৌজিকমক"
+  },
+  "schemes": {
+    "title": "গভর্নমেন্ট স্কিমশিং অমসুং রিসোর্সশিং",
+    "subtitle": "মিনিস্ট্রি ওফ হেলথ এন্দ ফেমিলি ৱেলফেয়ার (MoHFW) অমসুং MWCD দগী ওফিসিয়েল সপোর্ত ফংবিয়ু।"
+  },
+  "insights": {
+    "title": "ইনসাইটশিং অমসুং ব্লগ",
+    "subtitle": "অশেংবা ৱারীশিং অমসুং এক্সপার্তকী পাউতাক।"
+  },
+  "impact": {
+    "title": "ঐখোয়গী ইমপেক্ট",
+    "reached": "নুপীশিং য়ৌখ্রে",
+    "questions": "ৱাহংশিং পাউখুম পীখ্রে",
+    "regions": "ইমপেক্ট ফংলবা ষ্টেটশিং",
+    "urban": "অর্বান য়ৌখ্রে",
+    "rural": "রুরেল য়ৌখ্রে"
+  },
+  "team": {
+    "title": "তীম অদু উনবিয়ু",
+    "founder": "ফাউন্দর",
+    "tech": "টেকনোলজি লীদ",
+    "health": "হেলথ এদভাইজর"
+  },
+  "footer": {
+    "about": "MAA by Rigel গী মতাংদা",
+    "contact": "ঐখোয়গা কনেক্ত তৌবিয়ু",
+    "disclaimer": "প্লাটফর্ম অসিনা ইদুকেশনেল ইনফরমেশন পীরি অমসুং মসি মেদিকেল এদভাইসকী মহুৎ নত্তে।",
+    "privacy": "নহাক্কী প্রাইভেসি মরুওই। ঐখোয়না নহাক্কী পর্সনেল দ্যাতা অদু সর্ভর অমত্তদা ট্রেক তৌদে নত্রগা স্তোর তৌদে।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "مُک صفحو",
+    "learn": "سِکو",
+    "tracker": "ٽريڪر",
+    "qa": "سوال ۽ جواب",
+    "schemes": "اسڪيمون",
+    "insights": "معلومات",
+    "impact": "اثر",
+    "research": "ڊيٽا ۽ ريسرچ",
+    "team": "ٽيم"
+  },
+  "hero": {
+    "badge": "🌸 محفوظ · ذاتي · بااختيار",
+    "headline": "آگاهي ۽ خيال سان عورتن کي بااختيار بڻائڻ",
+    "subtext": "سِکڻ، ٽريڪ ڪرڻ، ۽ ڳنڍڻ لاءِ هڪ محفوظ، ذاتي جڳهه. WHO جي هدايتن ۽ حڪومت هند جي وسيلن جي مدد سان.",
+    "cta_track": "پيريڊ ٽريڪ ڪريو",
+    "cta_ask": "سوال پڇو",
+    "cta_learn": "وڌيڪ ڄاڻو",
+    "tagline": "💜 توهان اڪيلا نه آهيو."
+  },
+  "learn": {
+    "title": "حيض جي صحت جي تعليم",
+    "subtitle": "ورلڊ هيلٿ آرگنائيزيشن (WHO) جي مطابق، حيض جي صحت جنسي ۽ پيدائشي صحت ۽ حقن جو هڪ لازمي حصو آهي.",
+    "source_who": "ذريعو: WHO فيڪٽ شيٽ",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "سائيڪل جي بنيادي ڄاڻ",
+    "basics_content": "هڪ حيض جو دور عام طور تي 21 کان 35 ڏينهن تائين هوندو آهي. اهو هڪ قدرتي عمل آهي جتي رحم پنهنجي استر کي ڇڏي ڏيندو آهي.",
+    "hygiene_title": "صفائي جا اصول",
+    "hygiene_content": "انفيڪشن کان بچڻ لاءِ هر 4-6 ڪلاڪن کانپوءِ پنهنجو پيڊ يا ٽيمپون تبديل ڪريو. صاف پاڻي ۽ هلڪي صابڻ سان ٻاهران ڌوئي ڇڏيو.",
+    "myths_title": "غلط فهميون ۽ حقيقتون",
+    "myths_content": "غلط فهمي: توهان کي پنهنجي پيريڊ دوران وار نه ڌوئڻ گهرجن. حقيقت: ذاتي صفائي تمام ضروري آهي، ۽ وهنجڻ/وار ڌوئڻ مڪمل طور تي محفوظ آهي.",
+    "nutrition_title": "غذائيت لاءِ مشورا",
+    "nutrition_content": "آئرن سان ڀرپور کاڌا جيئن پالڪ ۽ دال رت جي ڪمي کي پورو ڪرڻ ۾ مدد ڪن ٿا. سور گهٽائڻ لاءِ گهڻو پاڻي پيئو."
+  },
+  "tracker": {
+    "title": "پرائيويٽ پيريڊ ٽريڪر",
+    "subtitle": "پنهنجي ڊيوائس تي مقامي طور تي پنهنجي سائيڪل کي ٽريڪ ڪريو. توهان جو ڊيٽا ڪڏهن به توهان جي فون کان ٻاهر نه ٿو وڃي.",
+    "last_period_label": "آخري پيريڊ جو پهريون ڏينهن:",
+    "cycle_length_label": "سائيڪل جي سراسري ڊيگهه (ڏينهن):",
+    "calculate_btn": "حساب لڳايو",
+    "next_period": "ايندڙ پيريڊ",
+    "fertile_window": "حمل جي امڪان جا ڏينهن",
+    "days_away": "ڏينهن باقي",
+    "reset_btn": "ڊيٽا ري سيٽ ڪريو"
+  },
+  "qa": {
+    "title": "گمنام سوال ۽ جواب",
+    "subtitle": "محفوظ طريقي سان ڪجهه به پڇو. لاگ ان جي ضرورت ناهي.",
+    "placeholder": "پنهنجو سوال هتي ٽائپ ڪريو...",
+    "category_general": "عام",
+    "category_hygiene": "صفائي",
+    "category_health": "صحت",
+    "category_nutrition": "غذائيت",
+    "category_emotional": "جذبباتي",
+    "submit_btn": "گمنام طور جمع ڪرايو",
+    "demo_answer": "جواب",
+    "time_ago": "هاڻي ئي"
+  },
+  "schemes": {
+    "title": "سرڪاري اسڪيمون ۽ وسيلا",
+    "subtitle": "صحت ۽ خانداني ڀلائي واري وزارت (MoHFW) ۽ MWCD کان سرڪاري مدد تائين رسائي حاصل ڪريو."
+  },
+  "insights": {
+    "title": "معلومات ۽ بلاگ",
+    "subtitle": "حقيقي ڪهاڻيون ۽ ماهرن جا مشورا."
+  },
+  "impact": {
+    "title": "اسان جو اثر",
+    "reached": "عورتن تائين پهچ",
+    "questions": "سوالن جا جواب ڏنا ويا",
+    "regions": "متاثر رياستون",
+    "urban": "شهري پهچ",
+    "rural": "ٻهراڙيءَ جي پهچ"
+  },
+  "team": {
+    "title": "ٽيم سان ملو",
+    "founder": "باني",
+    "tech": "ٽيڪنالاجي ليڊ",
+    "health": "صحت جو صلاحڪار"
+  },
+  "footer": {
+    "about": "MAA by Rigel بابت",
+    "contact": "اسان سان رابطو ڪريو",
+    "disclaimer": "هي پليٽ فارم تعليمي معلومات فراهم ڪري ٿو ۽ اهو طبي مشوري جو متبادل ناهي.",
+    "privacy": "توهان جي پرائيويسي اهم آهي. اسان توهان جي ذاتي ڊيٽا کي ڪنهن به سرور تي ٽريڪ يا محفوظ نه ٿا ڪريون."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

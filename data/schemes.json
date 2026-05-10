@@ -1,0 +1,156 @@
+{
+  "schemes": [
+    {
+      "id": "mission-shakti",
+      "title": "Mission Shakti",
+      "ministry": "Ministry of Women & Child Development",
+      "type": "Umbrella Scheme",
+      "tags": ["MoWCD", "Safety", "Empowerment"],
+      "icon": "🛡️",
+      "description": "India's flagship umbrella scheme for the safety, security, and empowerment of women across their entire life cycle. Operates through two sub-schemes: Sambal (safety) and Samarthya (empowerment).",
+      "benefits": [
+        "One Stop Centres (Sakhi) — integrated support for women in distress",
+        "Women Helpline 181 — 24×7 toll-free emergency response",
+        "Beti Bachao Beti Padhao — awareness & girl-child protection",
+        "Nari Adalat — community-level grievance redressal",
+        "SANKALP Hubs — single-window information access"
+      ],
+      "eligibility": "All women and girls across India. Priority to those facing violence, distress, or marginalisation.",
+      "helpline": "181",
+      "link": "https://wcd.gov.in/mission-shakti"
+    },
+    {
+      "id": "sag",
+      "title": "Scheme for Adolescent Girls (SAG)",
+      "ministry": "Ministry of Women & Child Development",
+      "type": "Nutrition & Development",
+      "tags": ["MoWCD", "Adolescent", "Nutrition"],
+      "icon": "🌱",
+      "description": "Focuses on multi-dimensional development of adolescent girls (11–18 years) including nutrition, health, hygiene, life skills, and mainstreaming school dropouts. Delivered through Anganwadi Centres under Mission Poshan 2.0.",
+      "benefits": [
+        "Supplementary nutrition for out-of-school girls",
+        "Iron & folic acid supplementation",
+        "Menstrual hygiene awareness sessions",
+        "Life skills and vocational guidance",
+        "Health check-ups and referral services"
+      ],
+      "eligibility": "Girls aged 11–18 years, especially out-of-school girls in select districts.",
+      "helpline": "011-23388074",
+      "link": "https://wcd.gov.in"
+    },
+    {
+      "id": "bbbp",
+      "title": "Beti Bachao Beti Padhao (BBBP)",
+      "ministry": "Ministry of Women & Child Development",
+      "type": "Awareness Campaign",
+      "tags": ["MoWCD", "Girl Child", "Education"],
+      "icon": "👧",
+      "description": "A national campaign under Mission Shakti to address gender discrimination, prevent female foeticide, ensure girl child education, and promote menstrual hygiene management awareness at the community level.",
+      "benefits": [
+        "Community campaigns against menstrual stigma",
+        "Sanitary napkin awareness drives in schools",
+        "Incentives for girl child education",
+        "District-level awareness programmes",
+        "Convergence with MoHFW and MoE"
+      ],
+      "eligibility": "All families with girl children. Focus on districts with low Child Sex Ratio (CSR).",
+      "helpline": "181",
+      "link": "https://wcd.gov.in/beti-bachao-beti-padhao"
+    },
+    {
+      "id": "pmmvy",
+      "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "ministry": "Ministry of Women & Child Development",
+      "type": "Maternity Benefit",
+      "tags": ["MoWCD", "Maternity", "Financial Aid"],
+      "icon": "🤱",
+      "description": "Provides ₹5,000 cash incentive in three instalments to pregnant and lactating women for the first live birth, to compensate for wage loss and improve health and nutrition outcomes.",
+      "benefits": [
+        "₹5,000 maternity benefit in 3 instalments",
+        "Encourages institutional delivery",
+        "Improves maternal and infant nutrition",
+        "Facilitates rest before and after delivery",
+        "Linked to ASHA worker visits"
+      ],
+      "eligibility": "Pregnant and lactating women, 19+ years, for first live birth. Excludes those in regular employment of Central/State Govt.",
+      "helpline": "011-23388074",
+      "link": "https://pmmvy.wcd.gov.in"
+    },
+    {
+      "id": "mhs",
+      "title": "Menstrual Hygiene Scheme (MHS)",
+      "ministry": "Ministry of Health & Family Welfare (NHM)",
+      "type": "Health Programme",
+      "tags": ["MoHFW", "NHM", "Hygiene"],
+      "icon": "🩺",
+      "description": "Part of the National Health Mission, this scheme distributes affordable sanitary napkins (brand: 'Freedays') at ₹6 for a pack of 6 via ASHA workers to adolescent girls (10–19 years) in rural areas across India.",
+      "benefits": [
+        "Subsidised sanitary napkins via ASHA workers",
+        "Menstrual hygiene education sessions",
+        "Safe disposal awareness",
+        "Reduced school absenteeism",
+        "Covers all 29 States + UTs"
+      ],
+      "eligibility": "Adolescent girls aged 10–19 years in rural areas. Free/subsidised through ASHA workers.",
+      "helpline": "104",
+      "link": "https://nhm.gov.in"
+    },
+    {
+      "id": "pmbjp-suvidha",
+      "title": "Suvidha Sanitary Napkins — PMBJP",
+      "ministry": "Ministry of Chemicals & Fertilizers",
+      "type": "Subsidised Product",
+      "tags": ["PMBJP", "Affordable", "Access"],
+      "icon": "📦",
+      "description": "Oxo-biodegradable sanitary napkins called 'Suvidha' available at just ₹1 per pad (pack of 4 for ₹4) through 10,000+ Pradhan Mantri Bhartiya Janaushadhi Kendras (PMBJK) across India.",
+      "benefits": [
+        "₹1 per sanitary napkin — most affordable in India",
+        "Available at 10,000+ Janaushadhi Kendras",
+        "Eco-friendly oxo-biodegradable material",
+        "No prescription required",
+        "Accessible in rural & semi-urban areas"
+      ],
+      "eligibility": "Any woman or girl. No eligibility restriction — walk-in purchase at Janaushadhi Kendra.",
+      "helpline": "1800-180-8080",
+      "link": "https://janaushadhi.gov.in"
+    },
+    {
+      "id": "samagra-shiksha",
+      "title": "Samagra Shiksha — School Sanitation",
+      "ministry": "Ministry of Education",
+      "type": "School Infrastructure",
+      "tags": ["MoE", "Schools", "WASH"],
+      "icon": "🏫",
+      "description": "Funds state-specific projects in schools including installation of sanitary pad vending machines, incinerators for safe disposal, and gender-segregated toilets with running water to support menstrual health management in schools.",
+      "benefits": [
+        "Sanitary pad vending machines in schools",
+        "Safe incinerators for disposal",
+        "Gender-segregated toilets with water",
+        "MHM training for female teachers",
+        "Menstrual health in school curriculum"
+      ],
+      "eligibility": "Government and government-aided schools. Benefit available to all girl students enrolled.",
+      "helpline": "011-26517521",
+      "link": "https://samagra.education.gov.in"
+    },
+    {
+      "id": "one-stop-centre",
+      "title": "One Stop Centre (Sakhi)",
+      "ministry": "Ministry of Women & Child Development",
+      "type": "Crisis Support",
+      "tags": ["MoWCD", "Violence", "Crisis Support"],
+      "icon": "🏥",
+      "description": "Sakhi centres provide integrated, immediate support to women affected by violence — private, medical, legal, psychological and shelter support under one roof. Over 700+ Sakhi centres operational across India.",
+      "benefits": [
+        "Emergency shelter (up to 5 days)",
+        "Medical aid and referral",
+        "Legal aid and counselling",
+        "Police assistance on-site",
+        "Psycho-social counselling"
+      ],
+      "eligibility": "Any woman affected by violence, abuse, or in distress. Services are free and confidential.",
+      "helpline": "181",
+      "link": "https://wcd.gov.in/one-stop-centre"
+    }
+  ]
+}

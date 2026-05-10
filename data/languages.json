@@ -1,0 +1,7 @@
+{
+  "languages": [
+    { "code": "en", "label": "English", "nativeLabel": "English", "rtl": false },
+    { "code": "hi", "label": "Hindi",   "nativeLabel": "हिंदी",    "rtl": false },
+    { "code": "bn", "label": "Bengali", "nativeLabel": "বাংলা",    "rtl": false }
+  ]
+}

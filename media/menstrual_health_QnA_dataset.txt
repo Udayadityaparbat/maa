@@ -1,0 +1,571 @@
+================================================================
+MENSTRUAL HEALTH DATASET — Q&A WITH KEYWORDS & SOURCES
+For Student Q&A Sessions | Menstrual Hygiene Education
+Total: 60 Questions across 6 Categories
+================================================================
+
+================================================================
+CATEGORY 1: MENSTRUAL CYCLE BASICS
+================================================================
+
+---
+Q1: What is menstruation?
+ANSWER: Menstruation, also called a "period," is the monthly shedding of the inner lining of the uterus (called the endometrium) through the vagina. It happens when an egg released from the ovary is not fertilized. The shed lining, along with some blood and mucus, flows out of the body over a few days. It is a completely normal and healthy process in females.
+KEYWORDS: menstruation, period, uterus, endometrium, uterine lining, monthly cycle, vagina, egg, ovary
+SOURCE: World Health Organization (WHO); NIH MedlinePlus
+---
+
+Q2: What is the normal length of a menstrual cycle?
+ANSWER: A normal menstrual cycle is between 21 to 35 days long. The average is 28 days. The cycle is counted from the first day of one period to the first day of the next period. Some variation from month to month (a few days shorter or longer) is normal.
+KEYWORDS: cycle length, 28 days, normal cycle, menstrual cycle duration, irregular, regular period
+SOURCE: American College of Obstetricians and Gynecologists (ACOG)
+---
+
+Q3: What are the 4 phases of the menstrual cycle?
+ANSWER:
+Phase 1 – Menstrual Phase (Days 1–5): The uterine lining sheds, causing bleeding (your period).
+Phase 2 – Follicular Phase (Days 1–13): The brain signals the ovaries to grow egg follicles. Estrogen rises and the uterine lining rebuilds.
+Phase 3 – Ovulation (Around Day 14): A mature egg is released from the ovary. This is when a woman is most fertile.
+Phase 4 – Luteal Phase (Days 15–28): If the egg is not fertilized, hormone levels drop and the lining begins to shed again, starting a new cycle.
+KEYWORDS: menstrual phases, follicular phase, ovulation, luteal phase, estrogen, progesterone, fertile window, cycle phases
+SOURCE: Endocrine Society; NIH
+---
+
+Q4: What hormones control the menstrual cycle?
+ANSWER: Four main hormones control the menstrual cycle:
+1. Estrogen – builds the uterine lining and triggers egg release
+2. Progesterone – prepares and maintains the uterine lining after ovulation
+3. FSH (Follicle-Stimulating Hormone) – stimulates egg follicle growth in the ovary
+4. LH (Luteinizing Hormone) – triggers ovulation (egg release)
+These hormones are controlled by the brain (hypothalamus and pituitary gland).
+KEYWORDS: hormones, estrogen, progesterone, FSH, LH, luteinizing hormone, follicle stimulating hormone, hypothalamus, pituitary
+SOURCE: Endocrine Society
+---
+
+Q5: At what age does the first period start?
+ANSWER: The first menstrual period is called menarche. It usually happens between ages 11 and 14, with an average of about 12–13 years. It typically begins 2–3 years after breast development starts. In India, studies show the average age of first period is 12.5 to 13 years. Factors like nutrition, body weight, and family history can influence when it starts.
+KEYWORDS: menarche, first period, age of puberty, puberty, first menstruation, 12 years, 13 years, India
+SOURCE: WHO; Indian Journal of Pediatrics 2010
+---
+
+Q6: At what age does menstruation stop?
+ANSWER: Menstruation permanently stops at menopause. Menopause is confirmed when a woman has had no period for 12 months in a row. It typically occurs between ages 45 and 55. The average age of menopause in India is 46–47 years, which is slightly earlier than the global average of 51 years.
+KEYWORDS: menopause, periods stop, end of menstruation, age 50, perimenopause, India menopause age
+SOURCE: WHO; Menopause Society of India
+---
+
+Q7: How much blood is lost during a normal period?
+ANSWER: During a normal period, a woman loses about 30 to 80 mL of blood in total — roughly 2 to 6 tablespoons. This is spread across the entire period, not all at once. Losing more than 80 mL per cycle is considered heavy bleeding (menorrhagia). A practical sign of heavy bleeding is soaking through more than 1 pad or tampon every hour for several hours in a row.
+KEYWORDS: blood loss, heavy period, menorrhagia, how much blood, 80 mL, pad soaking, blood amount
+SOURCE: ACOG; BMJ 2007
+---
+
+Q8: How many days does a normal period last?
+ANSWER: A normal period lasts between 2 to 7 days. Most women bleed most heavily on the first 1–2 days, and lighter toward the end. A period shorter than 2 days or longer than 7 days may need medical attention if it happens repeatedly.
+KEYWORDS: period duration, how many days, 5 days, 7 days, period length, short period, long period
+SOURCE: NIH MedlinePlus
+---
+
+Q9: What is ovulation?
+ANSWER: Ovulation is when a mature egg is released from one of the ovaries. It usually happens around day 14 of a 28-day cycle, though this varies. The egg travels down the fallopian tube toward the uterus. If the egg is not fertilized by sperm within 12–24 hours, it dissolves and the uterine lining sheds — causing the next period. Ovulation is the most fertile time in the cycle.
+KEYWORDS: ovulation, egg release, fertile, fertility, fallopian tube, day 14, ovary, sperm, conception
+SOURCE: Endocrine Society; ACOG
+---
+
+Q10: Can the menstrual cycle change from month to month?
+ANSWER: Yes. It is completely normal for the cycle to vary slightly from month to month — by a few days earlier or later. Stress, illness, changes in diet, weight changes, travel, or heavy exercise can cause temporary changes. However, very irregular cycles (varying by more than 7–9 days each month) or missed periods should be discussed with a doctor.
+KEYWORDS: irregular cycle, cycle variation, month to month, stress and period, missed period, cycle change
+SOURCE: ACOG; NIH
+---
+
+================================================================
+CATEGORY 2: MENSTRUAL HYGIENE
+================================================================
+
+---
+Q11: What menstrual products are available?
+ANSWER: Common menstrual hygiene products include:
+1. Sanitary Napkins (Pads) – external absorbent pads; most commonly used in India
+2. Tampons – absorbent tubes inserted into the vagina to collect blood inside
+3. Menstrual Cups – reusable silicone cups that are inserted to collect blood; eco-friendly and economical
+4. Period Underwear – absorbent underwear worn like normal underwear
+5. Cloth Pads – washable and reusable fabric pads used in rural areas
+6. Menstrual Discs – disposable discs placed near the cervix
+All are safe when used correctly and changed regularly.
+KEYWORDS: sanitary napkin, pad, tampon, menstrual cup, period underwear, cloth pad, hygiene products, menstrual products
+SOURCE: WHO WASH Report 2022; MoHFW India
+---
+
+Q12: How often should a sanitary pad be changed?
+ANSWER: A sanitary pad should be changed every 4 to 6 hours, even if it does not look completely full. On heavy flow days, change it more often. Leaving a pad on for more than 8 hours can cause bacterial and fungal infections, skin rash, and bad odor. Always wash your hands before and after changing a pad.
+KEYWORDS: pad change, how often change pad, 4 hours, 6 hours, sanitary napkin, infection from pad, hygiene
+SOURCE: MoHFW India Menstrual Hygiene Guidelines 2019; ACOG
+---
+
+Q13: How often should a tampon be changed?
+ANSWER: A tampon must be changed every 4 to 8 hours. It should NEVER be left in for more than 8 hours. Leaving a tampon in too long can cause Toxic Shock Syndrome (TSS) — a rare but very serious and life-threatening bacterial infection. Always use the lowest absorbency suitable for your flow.
+KEYWORDS: tampon change, toxic shock syndrome, TSS, 8 hours, tampon safety, tampon risk
+SOURCE: FDA; CDC
+---
+
+Q14: How should you clean the vaginal area during menstruation?
+ANSWER: During menstruation, proper cleaning involves:
+1. Wash the external area (vulva) with clean water 2–3 times a day.
+2. Use mild, unscented soap only on the outer area — never inside the vagina.
+3. The vagina is self-cleaning — never use internal washes, scented sprays, or douches inside.
+4. Always wipe from front to back after using the toilet to prevent bacteria from spreading.
+5. Dry the area gently with a clean cloth.
+Avoid harsh soaps or chemical products as they disturb the natural pH and good bacteria.
+KEYWORDS: vaginal hygiene, how to clean, vulva, vagina, douching, front to back, wipe, pH balance, washing
+SOURCE: WHO; ACOG; MoHFW India
+---
+
+Q15: Is menstrual blood dirty or impure?
+ANSWER: No. Menstrual blood is NOT dirty or impure. It is made of blood, cells from the uterine lining, mucus, and vaginal secretions — all normal biological substances. Menstruation is a completely natural and healthy body process. The idea that it is "impure" or "dirty" is a cultural and social belief, not a medical or scientific fact. WHO and UNICEF clearly state that menstruation is normal and healthy.
+KEYWORDS: menstrual blood dirty, impure, menstruation taboo, stigma, myth, cultural belief, clean, normal
+SOURCE: WHO; UNICEF; MoHFW India
+---
+
+Q16: How should used sanitary pads be disposed of?
+ANSWER: Used sanitary pads should be:
+1. Wrapped in newspaper or paper/packaging before disposal.
+2. Placed in a covered dustbin — NOT flushed down the toilet (they block pipes and damage sanitation systems).
+3. Where available, used in designated sanitary disposal bins.
+4. Incinerated in school/health center incinerators (recommended method in India by MoHFW).
+Do NOT throw them in open fields or burn them in open air, as this is a health and environmental hazard.
+KEYWORDS: pad disposal, how to dispose sanitary napkin, incinerator, dustbin, flush toilet, waste, sanitation, environment
+SOURCE: MoHFW India 2019; CPCB India
+---
+
+Q17: Can you use cloth during menstruation?
+ANSWER: Yes, clean cloth can be used safely if:
+1. It is washed thoroughly with soap after each use.
+2. It is dried completely in direct sunlight (sunlight kills bacteria).
+3. It is stored in a clean, dry place.
+Using unclean cloth that is damp or not properly dried increases the risk of reproductive tract infections (RTIs). Studies in rural India show that improperly maintained cloth is linked to higher rates of vaginal infections in adolescent girls.
+KEYWORDS: cloth pad, cloth hygiene, reusable cloth, RTI, reproductive tract infection, rural, hygiene risk
+SOURCE: Indian Journal of Community Medicine 2016; UNICEF WASH Report
+---
+
+Q18: Can you bathe or shower during your period?
+ANSWER: Yes — absolutely. Bathing and showering during menstruation is not only safe but strongly recommended. Warm water can relax muscles and reduce period cramps. Regular bathing keeps the area clean, reduces odor, and helps prevent infections. There is no medical or scientific reason to avoid bathing during menstruation. This restriction is a myth.
+KEYWORDS: bath during period, shower, bathe, menstruation hygiene, cramps, safe to bathe, water during period
+SOURCE: ACOG; MoHFW India
+---
+
+Q19: What is TSS (Toxic Shock Syndrome)?
+ANSWER: Toxic Shock Syndrome (TSS) is a rare but potentially life-threatening infection caused by toxins produced by bacteria (usually Staphylococcus aureus). It is associated with leaving tampons in for too long (more than 8 hours). Symptoms include sudden high fever, rash, vomiting, dizziness, and low blood pressure. It requires immediate medical treatment. To prevent TSS: change tampons every 4–8 hours and never leave one in overnight.
+KEYWORDS: TSS, toxic shock syndrome, tampon danger, bacterial infection, staphylococcus, tampon risk, fever, emergency
+SOURCE: CDC; FDA
+---
+
+Q20: What is the proper way to use a menstrual cup?
+ANSWER: A menstrual cup is a reusable silicone or rubber cup inserted into the vagina to collect menstrual blood (not absorb it). Steps for safe use:
+1. Wash hands thoroughly.
+2. Fold the cup and insert it into the vagina — it opens up and creates a seal.
+3. Empty the cup every 8–12 hours (no risk of TSS like with tampons).
+4. Rinse the cup with clean water and reinsert.
+5. At the end of your period, sterilize the cup by boiling it for 5 minutes.
+A properly maintained menstrual cup can last up to 10 years, making it affordable and eco-friendly.
+KEYWORDS: menstrual cup, how to use cup, silicone cup, reusable, eco-friendly, affordable, 12 hours, cup hygiene
+SOURCE: WHO; Reproductive Health journal
+---
+
+================================================================
+CATEGORY 3: MENSTRUAL HEALTH & DISORDERS
+================================================================
+
+---
+Q21: What are period cramps and why do they happen?
+ANSWER: Period cramps (medically called dysmenorrhea) are painful muscle contractions in the uterus before or during menstruation. They are caused by chemicals called prostaglandins, which make the uterus contract to shed its lining. Higher levels of prostaglandins cause stronger cramps. Cramps usually feel like throbbing or cramping pain in the lower abdomen and may spread to the lower back and thighs. They are most common in the first 1–2 days of a period.
+KEYWORDS: period cramps, dysmenorrhea, prostaglandins, uterus contractions, lower abdomen pain, cramping, painful periods
+SOURCE: ACOG; Obstetrics & Gynecology Journal 2006
+---
+
+Q22: What is dysmenorrhea?
+ANSWER: Dysmenorrhea means painful menstruation. There are two types:
+1. Primary Dysmenorrhea – common period cramps with no underlying disease; caused by prostaglandins. Affects 45–90% of menstruating women.
+2. Secondary Dysmenorrhea – pain caused by an underlying medical condition such as endometriosis, uterine fibroids, or pelvic inflammatory disease (PID). This type requires medical diagnosis and treatment.
+Primary dysmenorrhea is the leading cause of school and work absenteeism in adolescent girls worldwide.
+KEYWORDS: dysmenorrhea, painful periods, primary dysmenorrhea, secondary dysmenorrhea, endometriosis, fibroids, PID, school absence
+SOURCE: ACOG; Lancet 2006; Journal of Pediatric and Adolescent Gynecology
+---
+
+Q23: What can help reduce period cramps?
+ANSWER: Evidence-based ways to reduce period cramps:
+1. Pain relief medicines: Ibuprofen or naproxen (NSAIDs) work best when taken at the start of cramps.
+2. Heat: Applying a hot water bottle or heating pad on the lower abdomen is effective.
+3. Exercise: Light walking, yoga, or stretching releases endorphins that reduce pain.
+4. Diet: Omega-3-rich foods (fish, flaxseeds) reduce prostaglandin production.
+5. Hydration: Drinking warm water helps.
+6. Hormonal contraceptives: Can reduce cramping when prescribed by a doctor.
+Avoid: excessive caffeine and salty foods, which can worsen bloating and cramps.
+KEYWORDS: reduce cramps, heat pad, ibuprofen, NSAIDs, yoga for period, exercise, home remedies, cramp relief
+SOURCE: Cochrane Review 2015; Journal of Education and Health Promotion 2018
+---
+
+Q24: What is heavy menstrual bleeding (menorrhagia)?
+ANSWER: Menorrhagia is abnormally heavy or prolonged menstrual bleeding. It is defined as:
+- Losing more than 80 mL of blood per cycle (roughly 6+ tablespoons), OR
+- Periods lasting more than 7 days
+Practical signs: soaking a pad or tampon every hour for several hours, passing large blood clots (larger than a 50-rupee coin), or feeling very tired and pale. Menorrhagia can cause iron-deficiency anemia and needs medical evaluation. Causes include uterine fibroids, polyps, hormonal imbalance, thyroid disorders, or bleeding disorders.
+KEYWORDS: menorrhagia, heavy period, heavy bleeding, blood clots, anemia, iron deficiency, fibroid, heavy flow
+SOURCE: ACOG; NIH; BMJ 2007
+---
+
+Q25: What is PCOS (Polycystic Ovary Syndrome)?
+ANSWER: PCOS is a common hormonal disorder affecting the ovaries. It is one of the leading causes of irregular periods in women of reproductive age.
+Main features (at least 2 of 3 needed for diagnosis):
+1. Irregular or absent periods
+2. High androgen levels (male hormones) — causing acne, excess facial/body hair, thinning scalp hair
+3. Polycystic ovaries visible on ultrasound (multiple small fluid-filled sacs)
+PCOS is also associated with insulin resistance and increased risk of type 2 diabetes. It affects 1 in 10 women globally. In India, prevalence is estimated at 9–36%. Treatment includes lifestyle changes, diet, exercise, and hormonal medicines.
+KEYWORDS: PCOS, polycystic ovary syndrome, irregular periods, hormonal disorder, acne, facial hair, insulin resistance, diabetes, ultrasound
+SOURCE: ASRM/ESHRE 2023; Indian Journal of Endocrinology and Metabolism
+---
+
+Q26: What is endometriosis?
+ANSWER: Endometriosis is a chronic condition where tissue similar to the uterine lining grows outside the uterus — on the ovaries, fallopian tubes, bladder, or other organs. This tissue behaves like the uterine lining: it thickens and bleeds during each period, but has no way to exit the body, causing pain and inflammation.
+Symptoms: severe period pain, pain during or after sex, heavy periods, pain during urination/bowel movements, and infertility.
+It affects about 10% of reproductive-age women worldwide (~190 million). There is no permanent cure, but it is managed with pain relief, hormonal therapy, and surgery.
+KEYWORDS: endometriosis, uterine tissue, ovaries, chronic pain, infertility, painful periods, surgery, hormonal therapy
+SOURCE: WHO 2023; The Lancet
+---
+
+Q27: What is PMS (Premenstrual Syndrome)?
+ANSWER: PMS refers to a group of physical and emotional symptoms that occur in the 1–2 weeks before a period (during the luteal phase) and usually go away once the period begins.
+Common physical symptoms: bloating, breast tenderness, headaches, fatigue, food cravings, acne.
+Common emotional symptoms: mood swings, irritability, anxiety, sadness, difficulty concentrating.
+Up to 75% of menstruating women experience some PMS. When symptoms are severe enough to interfere with daily life, it is called PMDD (Premenstrual Dysphoric Disorder), which is a recognized medical condition.
+KEYWORDS: PMS, premenstrual syndrome, mood swings, bloating, PMDD, irritability, before period, luteal phase, breast tenderness
+SOURCE: ACOG; DSM-5; NIH
+---
+
+Q28: What is amenorrhea (missing periods)?
+ANSWER: Amenorrhea means the absence of menstrual periods.
+Primary amenorrhea: no period by age 15 in someone who has started puberty development.
+Secondary amenorrhea: periods stop for 3 or more consecutive months in someone who previously had periods.
+Common causes: pregnancy (most common), excessive exercise, very low body weight, stress, PCOS, thyroid disorders, and premature ovarian insufficiency. Any case of missed periods for 3+ months (when not pregnant) should be evaluated by a doctor.
+KEYWORDS: amenorrhea, missed period, no period, absent menstruation, pregnancy, underweight, exercise, PCOS, thyroid
+SOURCE: ACOG; Endocrine Society
+---
+
+Q29: What is spotting?
+ANSWER: Spotting refers to very light vaginal bleeding that occurs outside of the regular menstrual period. It appears as small spots of blood — pink, light red, or brown — and is not enough to fill a pad. It can happen for normal reasons (ovulation spotting, early pregnancy implantation) or may signal issues like hormonal imbalance, infection, or in rare cases, cervical problems. Occasional spotting is usually not serious, but frequent or unexplained spotting should be checked by a doctor.
+KEYWORDS: spotting, light bleeding, pink discharge, brown discharge, implantation bleeding, between periods, ovulation spotting
+SOURCE: ACOG; Mayo Clinic
+---
+
+Q30: How does iron deficiency relate to menstruation?
+ANSWER: During each period, blood is lost along with iron. If blood loss is heavy or the diet is low in iron, iron-deficiency anemia can develop. Anemia causes fatigue, weakness, dizziness, pale skin, and difficulty concentrating — symptoms sometimes wrongly dismissed as "just period problems."
+In India, anemia affects over 57% of adolescent girls (NFHS-5), and menstrual blood loss is a significant contributing factor. Iron-rich foods like green leafy vegetables, lentils, beans, sesame seeds, and jaggery can help. Doctors may prescribe iron supplements in moderate to severe cases.
+KEYWORDS: iron deficiency, anemia, blood loss, menstruation anemia, fatigue, weakness, iron rich food, green vegetables, NFHS-5
+SOURCE: NFHS-5 2021; WHO; Journal of Family Welfare India
+---
+
+================================================================
+CATEGORY 4: MYTHS, STIGMA & FACTS
+================================================================
+
+---
+Q31: Can you exercise during your period?
+ANSWER: Yes — exercise during menstruation is not only safe but actually beneficial. Light to moderate exercise (walking, yoga, swimming, cycling) can:
+- Release endorphins that act as natural painkillers and reduce cramps
+- Improve mood and reduce PMS symptoms
+- Improve blood circulation
+Multiple studies confirm that exercise reduces the severity of dysmenorrhea. There is absolutely no medical reason to avoid physical activity during periods. Feeling tired on heavy days is normal — rest if needed, but gentle movement is encouraged.
+KEYWORDS: exercise during period, yoga, walking, swimming, cramps and exercise, endorphins, safe to exercise, sports
+SOURCE: Journal of Education and Health Promotion 2018; Cochrane Review
+---
+
+Q32: Can you swim during your period?
+ANSWER: Yes, swimming during menstruation is completely safe. Water pressure temporarily slows the flow of menstrual blood while you are submerged, so there is generally no leakage while swimming. Use a tampon or menstrual cup for comfortable swimming. Period blood does not "contaminate" or "pollute" swimming water. This restriction is a common myth with no scientific basis.
+KEYWORDS: swimming during period, pool, water, tampon swimming, safe to swim, menstruation and water
+SOURCE: ACOG; Planned Parenthood
+---
+
+Q33: Does menstruation affect a girl's ability to study or concentrate?
+ANSWER: Menstruation itself does NOT impair intelligence, memory, or learning ability. A 2022 landmark study (Science Advances, the largest of its kind with over 1,700 participants) found no consistent reduction in working memory, attention, or cognitive performance across menstrual cycle phases. Pain, fatigue, and discomfort from severe cramps or heavy flow may temporarily affect concentration — but this is due to pain, not menstruation itself. Managing symptoms with pain relief and rest helps maintain academic performance.
+KEYWORDS: study during period, concentration, memory, cognitive ability, learning, school, period brain, Science Advances 2022
+SOURCE: Science Advances 2022; Psychological Bulletin
+---
+
+Q34: Is it true menstruating girls should not enter kitchens or temples?
+ANSWER: This is a cultural belief, not a medical or scientific fact. There is no biological or medical basis for restricting menstruating women from kitchens, temples, or any public place. WHO and human rights organizations classify such restrictions as harmful traditional practices that violate dignity and rights. Menstruation does not make a person impure, unclean, or spiritually contaminated in any biological sense.
+KEYWORDS: temple restriction, kitchen restriction, menstruation taboo, cultural belief, impure, restriction, human rights, WHO
+SOURCE: WHO; UNICEF; UN Human Rights Council
+---
+
+Q35: Does menstrual blood have a bad smell?
+ANSWER: Menstrual blood has a mild, slightly metallic smell due to its iron content — this is normal. It does not have a strong or foul smell when products are changed regularly (every 4–6 hours). A strong, fishy, or very unpleasant odor may indicate bacterial vaginosis or another infection and should be checked by a doctor — it is NOT a normal smell of menstruation.
+KEYWORDS: period smell, odor, menstrual blood smell, bad smell, fishy odor, bacterial vaginosis, normal odor
+SOURCE: ACOG; Planned Parenthood
+---
+
+Q36: Can eating sour or cold food harm you during your period?
+ANSWER: No. There is no scientific evidence that sour foods (tamarind, pickle, lemon), cold foods (ice cream, cold water), or any specific food causes harm during menstruation. These are widespread cultural beliefs in South Asia but have no medical basis. In fact, a balanced diet with iron, calcium, and omega-3 fatty acids during menstruation is recommended to replenish nutrients and reduce symptoms.
+KEYWORDS: sour food period, cold food myth, tamarind, ice cream, diet myths, food restriction, cultural myth, South Asia
+SOURCE: ACOG; MoHFW India
+---
+
+Q37: Can menstrual blood spoil food or affect plants?
+ANSWER: This is a myth with no scientific basis. Menstrual blood contains no chemical or biological property that could spoil food, harm plants, or contaminate objects. These beliefs are social and cultural in origin. Studies in India show that such myths are major drivers of menstrual stigma and prevent girls from accessing hygiene facilities and education.
+KEYWORDS: menstrual blood plants, spoil food, contaminate, myth, stigma, India, cultural belief, false
+SOURCE: Reproductive Health Matters 2013; UNICEF
+---
+
+Q38: Is menstruation a disease or illness?
+ANSWER: No. Menstruation is NOT a disease, illness, or disorder. It is a normal and healthy part of the female reproductive cycle. Most girls and women live their daily lives normally during their periods. However, severe pain, very heavy bleeding, or other significant symptoms may indicate an underlying condition and should be evaluated medically. The period itself is healthy and natural.
+KEYWORDS: period disease, illness, sick during period, normal menstruation, healthy, not a disease, medical condition
+SOURCE: WHO; ACOG
+---
+
+Q39: Do girls become "impure" during menstruation?
+ANSWER: No. Menstruation does not make a girl or woman impure, dirty, or less capable in any way. This belief is rooted in cultural and religious traditions but has no biological or medical basis. Global health organizations including WHO, UNICEF, and the UN affirm that menstruation is a normal body function and that stigma around it harms girls' health, education, and dignity.
+KEYWORDS: impure, purity, menstruation stigma, religion and period, taboo, discrimination, cultural myth, WHO UNICEF
+SOURCE: WHO; UNICEF; UN
+---
+
+Q40: Can you get pregnant during your period?
+ANSWER: While it is unlikely for most women, pregnancy during menstruation is technically possible — especially for women with shorter or irregular cycles. Sperm can survive inside the body for up to 5 days. If ovulation happens earlier than usual (close to the end of a period), sperm may still be present. For reliable contraception, use contraceptive methods consistently — not tracking alone.
+KEYWORDS: pregnant during period, contraception, sperm survival, fertility, pregnancy risk, irregular cycle, ovulation
+SOURCE: ACOG; Planned Parenthood
+---
+
+================================================================
+CATEGORY 5: MENSTRUAL ACCESS, POLICY & INDIA-SPECIFIC DATA
+================================================================
+
+---
+Q41: What is the status of menstrual hygiene in India?
+ANSWER: According to NFHS-5 (National Family Health Survey 2019–21):
+- 77.3% of women aged 15–24 in India now use hygienic methods of menstrual protection (up from 57.6% in NFHS-4).
+- Significant gaps remain between rural and urban areas, and across states.
+- West Bengal: approximately 73–75% of adolescent girls use sanitary products, with rural areas showing lower rates.
+- Main barriers: cost of products, lack of private toilets, cultural stigma, and poor awareness.
+KEYWORDS: India menstrual hygiene, NFHS-5, rural urban gap, West Bengal, sanitary napkin use, hygiene access, statistics
+SOURCE: NFHS-5 2021; MoHFW India
+---
+
+Q42: What government programs support menstrual hygiene in India?
+ANSWER: Key Indian government schemes for menstrual hygiene:
+1. Menstrual Hygiene Scheme (MHS, 2011): Subsidized sanitary napkins distributed to adolescent girls in rural areas through ASHA workers at ₹6 per pack.
+2. ASHA Workers: Community health workers provide menstrual health education and product access.
+3. Swachh Bharat Mission: Includes building toilets with proper sanitation in schools for girls.
+4. National Health Mission (NHM): Funds menstrual health programs and awareness.
+5. State Schemes: Several states (including West Bengal) provide free sanitary pads to school girls and install pad vending machines in schools.
+KEYWORDS: MHS, government scheme, ASHA worker, subsidized pads, Swachh Bharat, NHM, free sanitary napkin, school program, India
+SOURCE: MoHFW India; NRHM; NHM
+---
+
+Q43: Is GST charged on sanitary napkins in India?
+ANSWER: No. Since July 27, 2018, sanitary napkins are fully exempt from GST (Goods and Services Tax) in India. Before this, they were taxed at 12%. This change was achieved through large-scale advocacy campaigns including the "Not a Luxury" movement and efforts by menstrual health activists. However, affordability remains a challenge for the poorest communities in rural areas, where even GST-free products can be financially out of reach.
+KEYWORDS: GST sanitary napkin, tax exemption, not a luxury campaign, affordable, 2018, sanitary pad price India
+SOURCE: GST Council Notification July 2018
+---
+
+Q44: How does lack of menstrual hygiene affect girls' school attendance?
+ANSWER: Research and government data show:
+- 23–28% of adolescent girls in India miss school during menstruation (MoHFW data).
+- Reasons include: no private toilets, no safe disposal facilities, no access to products, and fear and embarrassment.
+- Girls without proper MHM (Menstrual Hygiene Management) miss an average of 5 school days per month during their period.
+- Improved school WASH infrastructure (water, sanitation, hygiene) + MHM education has been shown to significantly improve school attendance rates for girls.
+KEYWORDS: school attendance, girl education, menstruation and school, absenteeism, dropout, WASH, toilet in school, MHM, India
+SOURCE: MoHFW India; UNICEF; Plan India; Journal of School Health
+---
+
+Q45: What is Menstrual Hygiene Day?
+ANSWER: Menstrual Hygiene Day (MH Day) is observed every year on May 28. The date is meaningful: the average menstrual cycle is 28 days (the 28th of the month), and May is the 5th month (representing the average 5-day period length). MH Day was started in 2014 by the organization WASH United. It is now a global campaign to raise awareness about the importance of menstrual hygiene management (MHM) for girls' and women's health, dignity, and equality.
+KEYWORDS: May 28, menstrual hygiene day, MH Day, WASH United, awareness day, menstruation awareness, global campaign
+SOURCE: WASH United; WHO
+---
+
+Q46: What are the biggest barriers to menstrual hygiene in rural India?
+ANSWER: The main barriers to menstrual hygiene in rural India are:
+1. Cost: Sanitary products remain unaffordable for many low-income families even after GST exemption.
+2. No private toilets: Girls cannot change products safely at school or work.
+3. No disposal facilities: Leads to embarrassment and unhygienic practices.
+4. Cultural taboos and stigma: Menstruation is treated as a secret; open discussion is discouraged.
+5. Lack of education: Many girls are not informed about menstruation before their first period.
+6. Water scarcity: Limits proper washing of self and reusable products.
+Studies show these barriers together cause girls to miss school, drop out early, and suffer preventable health problems.
+KEYWORDS: rural India, barriers, taboo, cost, toilet access, water, disposal, stigma, school dropout, MHM barriers
+SOURCE: UNICEF 2019; WaterAid India; Journal of Family Welfare India
+---
+
+Q47: What is MHM (Menstrual Hygiene Management)?
+ANSWER: MHM stands for Menstrual Hygiene Management. According to UNICEF and WHO, MHM means that women and girls use a clean menstrual management material to absorb or collect blood that can be changed in privacy as often as necessary for the duration of the menstrual period, using soap and water for washing the body as required, and having access to facilities to dispose of used menstrual management materials.
+MHM is considered a basic human right and is linked to dignity, health, education, and gender equality.
+KEYWORDS: MHM, menstrual hygiene management, UNICEF, WHO, definition, human right, privacy, access, dignity
+SOURCE: UNICEF/WHO Joint Monitoring Programme
+---
+
+================================================================
+CATEGORY 6: REPRODUCTIVE HEALTH & RELATED TOPICS
+================================================================
+
+---
+Q48: What is vaginal discharge and is it normal?
+ANSWER: Vaginal discharge is a fluid produced by glands in the vagina and cervix. It is completely normal and healthy. It cleans the vagina, keeps it moist, and prevents infections. Normal discharge is:
+- White or clear in color
+- Odorless or slightly mild smelling
+- Changes in amount and consistency throughout the menstrual cycle (thicker and stretchy around ovulation)
+Abnormal discharge that may indicate infection is: yellow/green, thick, chunky, or has a strong/fishy smell, often with itching or burning. This should be seen by a doctor.
+KEYWORDS: vaginal discharge, white discharge, normal discharge, healthy, cervical mucus, infection, ovulation discharge, color, smell
+SOURCE: ACOG; NHS
+---
+
+Q49: What is Reproductive Tract Infection (RTI)?
+ANSWER: Reproductive Tract Infections (RTIs) are infections in the reproductive organs. They can be caused by:
+- Poor menstrual hygiene (using unclean cloth, not changing products regularly)
+- Bacterial infections (bacterial vaginosis)
+- Fungal infections (yeast infection/candidiasis)
+- Sexually transmitted infections (STIs)
+Symptoms include abnormal discharge, itching, burning, pain, and odor. RTIs are common among adolescent girls in India who lack access to clean hygiene products and facilities. They are preventable with proper hygiene and treatable with medical care.
+KEYWORDS: RTI, reproductive tract infection, vaginal infection, bacterial vaginosis, yeast infection, hygiene and infection, itching, discharge
+SOURCE: WHO; Indian Journal of Community Medicine 2016
+---
+
+Q50: What is the connection between menstruation and fertility?
+ANSWER: The menstrual cycle is directly connected to fertility. The cycle exists to prepare the body for potential pregnancy each month. Ovulation (egg release) is the fertile window of the cycle — about 5 days before to 1 day after ovulation. Regular menstrual cycles generally indicate that ovulation is occurring and the reproductive system is healthy. Irregular, absent, or very painful periods can sometimes be signs of conditions that affect fertility (like PCOS or endometriosis).
+KEYWORDS: menstruation and fertility, ovulation, fertile window, pregnancy, conception, cycle and fertility, PCOS fertility
+SOURCE: ACOG; Endocrine Society
+---
+
+Q51: What is puberty in girls and how does it relate to menstruation?
+ANSWER: Puberty is the period of physical development that transforms a girl's body into an adult capable of reproduction. In girls, puberty typically begins between ages 8 and 13. The sequence of changes:
+1. Breast development (first sign, usually)
+2. Growth of pubic and underarm hair
+3. Growth spurt (height increase)
+4. Hip widening
+5. First menstrual period (menarche) — usually 2–3 years after breast development begins
+Menarche signals that the reproductive system is maturing. It is a normal and healthy milestone.
+KEYWORDS: puberty, breast development, menarche, first period, body changes, adolescence, growth, pubic hair, girl puberty
+SOURCE: WHO; AAP (American Academy of Pediatrics)
+---
+
+Q52: Can stress affect your period?
+ANSWER: Yes. Stress has a significant effect on the menstrual cycle. When the body experiences physical or emotional stress, it increases production of the hormone cortisol. High cortisol can disrupt the hypothalamic-pituitary-ovarian axis — the hormonal system that controls the cycle. This can result in:
+- Late or missed periods
+- Shorter or longer cycles
+- Heavier or lighter than usual flow
+- Worsened PMS symptoms
+This is usually temporary. If stress is managed, the cycle typically returns to normal. Chronic stress over a long period may need medical attention.
+KEYWORDS: stress and period, cortisol, missed period due to stress, late period, anxiety and menstruation, emotional stress, cycle change
+SOURCE: NIH; ACOG
+---
+
+Q53: What foods are good to eat during menstruation?
+ANSWER: During menstruation, these foods are especially helpful:
+1. Iron-rich foods: Spinach, lentils, beans, tofu, sesame seeds, jaggery — replace iron lost through blood.
+2. Calcium-rich foods: Milk, yogurt, ragi, sesame — reduce cramps and PMS.
+3. Omega-3 fatty acids: Fish, flaxseeds, walnuts — reduce prostaglandins and ease cramping.
+4. Magnesium-rich foods: Bananas, dark chocolate, nuts — reduce bloating and mood swings.
+5. Warm fluids: Warm water, herbal teas (ginger, chamomile) — soothe cramps and improve circulation.
+Foods to limit: Excess salt (worsens bloating), caffeine (worsens anxiety and cramps), and highly processed foods.
+KEYWORDS: diet during period, iron food, calcium, omega 3, ginger tea, food for cramps, spinach, lentils, period diet, nutrition
+SOURCE: American Journal of Clinical Nutrition; ACOG
+---
+
+Q54: What is the difference between sanitary napkins and tampons?
+ANSWER:
+SANITARY NAPKINS (PADS):
+- Worn outside the body, attached to underwear
+- Absorb blood externally
+- Easy to use, no insertion needed
+- Must be changed every 4–6 hours
+- Most widely used in India
+- Cannot be used for swimming
+
+TAMPONS:
+- Inserted inside the vagina to absorb blood internally
+- Changed every 4–8 hours (max 8 hours — TSS risk)
+- Can be used for swimming
+- Not recommended for very young girls who are unfamiliar with internal products
+- Less commonly available/used in rural India
+
+Both are safe when used correctly and changed on time.
+KEYWORDS: pad vs tampon, sanitary napkin vs tampon, difference, internal external, swimming, comparison, which is better
+SOURCE: FDA; ACOG; MoHFW India
+---
+
+Q55: How can schools support menstrual hygiene for girls?
+ANSWER: Schools can support menstrual hygiene by:
+1. Providing private, clean, and lockable girls' toilets with water supply.
+2. Installing sanitary pad vending machines or distribution points.
+3. Providing safe disposal bins/incinerators for used products.
+4. Including menstrual health in the school curriculum (for all genders).
+5. Training teachers, especially female teachers, to discuss menstruation openly without stigma.
+6. Ensuring female school counselors are available.
+7. Having an emergency supply of pads for girls who are caught off-guard.
+8. Creating a non-judgmental environment where girls can ask for help.
+KEYWORDS: school menstrual hygiene, girl toilet, vending machine, pad disposal, curriculum, teacher training, WASH school, absenteeism
+SOURCE: UNICEF; UNESCO; MoHFW India; Journal of School Health
+---
+
+================================================================
+CATEGORY 7: ADDITIONAL IMPORTANT QUESTIONS
+================================================================
+
+---
+Q56: What should a girl do when she gets her first period at school?
+ANSWER: If a girl gets her first period at school:
+1. Stay calm — it is completely normal and happens to nearly all girls.
+2. Go to the school toilet as soon as possible.
+3. If no pad is available: fold clean toilet paper and place it in the underwear temporarily.
+4. Ask a trusted female teacher, school counselor, or friend for a pad.
+5. Call or inform a parent or guardian if needed.
+Schools should have emergency pads available. Girls should be taught in advance what to expect so they are not frightened when menarche occurs.
+KEYWORDS: first period at school, menarche at school, emergency period, what to do first period, school guidance
+SOURCE: UNICEF; School Health Guidelines
+---
+
+Q57: Is it normal to have irregular periods as a teenager?
+ANSWER: Yes. Irregular periods are very common in the first 1–3 years after menarche (first period). This is because the hormonal system is still maturing, and the hypothalamic-pituitary-ovarian axis takes time to establish a regular pattern. Cycles may be shorter, longer, or skip months entirely during this time. This is normal. However, if periods remain very irregular beyond 2–3 years after the first period, or if periods are completely absent for 3+ months, a doctor should be consulted.
+KEYWORDS: teenage irregular period, first few years, puberty, irregular cycle, adolescent menstruation, normal variation
+SOURCE: ACOG; AAP
+---
+
+Q58: What is the best way to track the menstrual cycle?
+ANSWER: Tracking the cycle helps girls understand their bodies and detect any irregularities early. Ways to track:
+1. Paper calendar: Mark the first day of each period. After a few months, patterns become clear.
+2. Period tracking apps: Apps like Clue, Flo, or Period Tracker are easy to use and track symptoms too.
+3. Note symptoms: Record cramps, mood changes, discharge, energy levels — helps identify PMS patterns.
+Why track? To know when to expect the next period, identify irregular patterns, and provide useful information when visiting a doctor.
+KEYWORDS: track period, menstrual calendar, period app, cycle tracking, Clue app, Flo, symptoms diary, irregular tracking
+SOURCE: ACOG; Reproductive Health
+---
+
+Q59: How does menstrual hygiene relate to overall health?
+ANSWER: Menstrual hygiene is directly connected to overall physical and mental health:
+Physical health: Poor hygiene during menstruation can lead to reproductive tract infections (RTIs), urinary tract infections (UTIs), skin rashes, and in severe cases, pelvic inflammatory disease (PID) which can affect fertility.
+Mental health: Shame, secrecy, and stigma around menstruation contribute to anxiety, low self-esteem, and school avoidance in adolescent girls.
+Social health: Poor MHM causes school absenteeism, reduces participation in daily activities, and reinforces gender inequality.
+Good menstrual hygiene is therefore an important part of a girl's overall well-being, education, and dignity.
+KEYWORDS: menstrual hygiene and health, RTI, UTI, PID, mental health, stigma, school, self esteem, wellbeing, gender equality
+SOURCE: WHO; UNICEF; Reproductive Health journal
+---
+
+Q60: What should every girl know about menstruation before her first period?
+ANSWER: Every girl should know before her first period:
+1. What menstruation is and why it happens — it is normal and healthy.
+2. That the first period usually occurs between ages 11–14.
+3. What menstrual products are available and how to use them.
+4. That cramps and discomfort are common and manageable.
+5. How to maintain proper hygiene during the period.
+6. That menstruation does not make her sick, impure, or restricted in activities.
+7. Who she can talk to — a trusted adult, mother, sister, teacher, or doctor.
+8. That irregular periods in the beginning are normal.
+9. How to track her cycle.
+10. That she can come to her teacher or school nurse if she needs help.
+KEYWORDS: what to know first period, menstrual education, puberty education, girl health, menarche preparation, school girl, awareness
+SOURCE: WHO; UNICEF; MoHFW India; ACOG
+---
+
+================================================================
+END OF DATASET
+Total Q&A Entries: 60
+Categories: 7 (Cycle Basics, Hygiene, Disorders, Myths, India Policy, Reproductive Health, Additional)
+Primary Sources: WHO, ACOG, NIH, MoHFW India, NFHS-5, Endocrine Society, UNICEF, CDC, FDA
+Last Updated: May 2026
+================================================================

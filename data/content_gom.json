@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "मुखपृष्ठ",
+    "learn": "शिका",
+    "tracker": "ट्रॅकर",
+    "qa": "प्रश्नोत्तरी",
+    "schemes": "येवजणी",
+    "insights": "म्हायती",
+    "impact": "प्रभाव",
+    "research": "डेटा आनी संशोधन",
+    "team": "पंगड"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षित · खाजगी · सक्षमीकरण",
+    "headline": "जागरूकताय आनी काळजी वरवीं बायलांचें सक्षमीकरण",
+    "subtext": "शिकपाखातीर, ट्रॅक करपाखातीर आनी जोडपाखातीर एक सुरक्षित, खाजगी सुवात. WHO मार्गदर्शक तत्त्वां आनी भारत सरकाराच्या संसाधनांचो आदार.",
+    "cta_track": "पाळी ट्रॅक करात",
+    "cta_ask": "प्रस्न विचारात",
+    "cta_learn": "आनीक जाणून घेयात",
+    "tagline": "💜 तुमी एकटे नात."
+  },
+  "learn": {
+    "title": "मासिक पाळी भलायकी शिक्षण",
+    "subtitle": "जागतिक भलायकी संघटनेच्या (WHO) मतान, मासिक पाळीची भलायकी हो लैंगीक आनी प्रजोत्पादन भलायकी आनी अधिकारांचो एक अविभाज्य भाग आसा.",
+    "source_who": "स्त्रोत: WHO फॅक्ट शीट",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "पाळीच्यो मुळाव्यो गजाली",
+    "basics_content": "मासिक पाळी सामान्यपणान 21 ते 35 दीस चलता. ही एक सैमीक प्रक्रिया आसा जंय गर्भाशय आपलें अस्तर सोडटा.",
+    "hygiene_title": "नितळसाणीच्यो पद्दती",
+    "hygiene_content": "संसर्ग टाळपाखातीर दर 4-6 वरांनी तुमचो पॅड वा टॅम्पोन बदलात. नितळ उदक आनी सौम्य साबाणान भायल्यान धुयात.",
+    "myths_title": "गैरसमज आनी तथ्यां",
+    "myths_content": "गैरसमज: तुमी तुमच्या पाळीवेळार केंस धुवंक फावना. तथ्य: वैयक्तीक नितळसाण म्हत्वाची आसा, आनी न्हावप/केंस धुवप पुरायपणान सुरक्षित आसा.",
+    "nutrition_title": "पोषक तत्त्वांच्यो टिपो",
+    "nutrition_content": "पालक आनी मसूर सारकिले लोखणयुक्त पदार्थ रक्ताची हानी भरून काडपाक मजत करतात. क्रॅम्प उणे करपाखातीर हायड्रेटेड रावात."
+  },
+  "tracker": {
+    "title": "खाजगी मासिक पाळी ट्रॅकर",
+    "subtitle": "तुमच्या उपकरणाचेर तुमच्या सायकलीचो मागोवा घेयात. तुमचो डेटा केन्नाच तुमच्या फोन भायर वचना.",
+    "last_period_label": "फाटले पाळीचो पयलो दीस:",
+    "cycle_length_label": "सायकलीची सरासरी लांबाय (दीस):",
+    "calculate_btn": "गणन करात",
+    "next_period": "मुखारची पाळी",
+    "fertile_window": "अंदाजीत सुपीक काळ",
+    "days_away": "दीस उरल्यात",
+    "reset_btn": "डेटा रीसेट करात"
+  },
+  "qa": {
+    "title": "अनामिक प्रश्नोत्तरी",
+    "subtitle": "सुरक्षितपणान कांयच पुचात. लॉगिन करपाची गरज ना.",
+    "placeholder": "तुमचो प्रस्न हांगा टायप करात...",
+    "category_general": "सामान्य",
+    "category_hygiene": "नितळसाण",
+    "category_health": "भलायकी",
+    "category_nutrition": "पोषण",
+    "category_emotional": "भावनीक",
+    "submit_btn": "अनामिकपणान सबमिट करात",
+    "demo_answer": "जाप",
+    "time_ago": "आताच"
+  },
+  "schemes": {
+    "title": "सरकारी येवजणी आनी संसाधनां",
+    "subtitle": "भलायकी आनी कुटूंब कल्याण मंत्रालय (MoHFW) आनी MWCD कडल्यान अधिकृत आदार मेळयात."
+  },
+  "insights": {
+    "title": "म्हायती आनी ब्लॉग",
+    "subtitle": "खऱ्यो काणयो आनी तज्ञांचो सल्लो."
+  },
+  "impact": {
+    "title": "आमचो प्रभाव",
+    "reached": "बायलांमेरेन पावले",
+    "questions": "प्रस्नांच्यो जापो दिल्यो",
+    "regions": "प्रभावीत राज्यां",
+    "urban": "शहरी वाठार",
+    "rural": "ग्रामीण वाठार"
+  },
+  "team": {
+    "title": "पंगडाक मेळात",
+    "founder": "संस्थापक",
+    "tech": "तंत्रज्ञान फुडारी",
+    "health": "भलायकी सल्लगार"
+  },
+  "footer": {
+    "about": "MAA by Rigel बद्दल",
+    "contact": "आमच्याक संपर्क करात",
+    "disclaimer": "हें प्लॅटफॉर्म शिक्षणीक म्हायती दिता आनी हो वैजकी सल्ल्याक पर्याय न्हय.",
+    "privacy": "तुमची गुप्तताय म्हत्वाची आसा. आमी तुमचो वैयक्तीक डेटा खंयच्याच सर्व्हराचेर ट्रॅक वा स्टोअर करिनांत."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

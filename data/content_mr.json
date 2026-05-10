@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "मुख्यपृष्ठ",
+    "learn": "शिका",
+    "tracker": "ट्रॅकर",
+    "qa": "प्रश्नोत्तरे",
+    "schemes": "योजना",
+    "insights": "माहिती",
+    "impact": "प्रभाव",
+    "research": "डेटा आणि संशोधन",
+    "team": "टीम"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षित · खाजगी · सक्षमीकरण",
+    "headline": "जागरूकता आणि काळजी याद्वारे महिलांचे सक्षमीकरण",
+    "subtext": "शिकण्यासाठी, ट्रॅक करण्यासाठी आणि जोडण्यासाठी एक सुरक्षित, खाजगी जागा. WHO मार्गदर्शक तत्त्वे आणि भारत सरकारच्या संसाधनांचा पाठिंबा.",
+    "cta_track": "मासिक पाळी ट्रॅक करा",
+    "cta_ask": "प्रश्न विचारा",
+    "cta_learn": "अधिक जाणून घ्या",
+    "tagline": "💜 तुम्ही एकटे नाही आहात."
+  },
+  "learn": {
+    "title": "मासिक पाळी आरोग्य शिक्षण",
+    "subtitle": "जागतिक आरोग्य संघटनेच्या (WHO) मते, मासिक पाळीचे आरोग्य हा लैंगिक आणि प्रजनन आरोग्य आणि अधिकारांचा एक अविभाज्य भाग आहे.",
+    "source_who": "स्रोत: WHO फॅक्ट शीट",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "पाळीच्या मूलभूत गोष्टी",
+    "basics_content": "मासिक पाळी सामान्यतः 21 ते 35 दिवस टिकते. ही एक नैसर्गिक प्रक्रिया आहे जिथे गर्भाशय आपले अस्तर सोडते.",
+    "hygiene_title": "स्वच्छता पद्धती",
+    "hygiene_content": "संसर्ग टाळण्यासाठी दर 4-6 तासांनी तुमचा पॅड किंवा टॅम्पोन बदला. स्वच्छ पाणी आणि सौम्य साबणाने बाहेरून धुवा.",
+    "myths_title": "गैरसमज आणि तथ्ये",
+    "myths_content": "गैरसमज: तुम्ही तुमच्या पाळीदरम्यान केस धुवू नयेत. तथ्य: वैयक्तिक स्वच्छता महत्त्वपूर्ण आहे आणि आंघोळ करणे/केस धुणे पूर्णपणे सुरक्षित आहे.",
+    "nutrition_title": "पोषक तत्त्वांच्या टिप्स",
+    "nutrition_content": "पालक आणि मसूर यांसारखे लोहयुक्त पदार्थ रक्ताची हानी भरून काढण्यास मदत करतात. क्रॅम्प कमी करण्यासाठी हायड्रेटेड रहा."
+  },
+  "tracker": {
+    "title": "खाजगी मासिक पाळी ट्रॅकर",
+    "subtitle": "तुमच्या डिव्हाइसवर तुमच्या सायकलचा मागोवा घ्या. तुमचा डेटा तुमच्या फोनवरच सुरक्षित राहील.",
+    "last_period_label": "मागील मासिक पाळीचा पहिला दिवस:",
+    "cycle_length_label": "सायकलची सरासरी लांबी (दिवस):",
+    "calculate_btn": "गणना करा",
+    "next_period": "पुढील पाळी",
+    "fertile_window": "अंदाजित सुपीक काळ",
+    "days_away": "दिवस बाकी",
+    "reset_btn": "डेटा रीसेट करा"
+  },
+  "qa": {
+    "title": "अनामिक प्रश्नोत्तरे",
+    "subtitle": "सुरक्षितपणे काहीही विचारा. लॉगिनची आवश्यकता नाही.",
+    "placeholder": "तुमचा प्रश्न येथे टाइप करा...",
+    "category_general": "सामान्य",
+    "category_hygiene": "स्वच्छता",
+    "category_health": "आरोग्य",
+    "category_nutrition": "पोषण",
+    "category_emotional": "भावनिक",
+    "submit_btn": "अनामिकपणे सबमिट करा",
+    "demo_answer": "उत्तर",
+    "time_ago": "नुकतेच"
+  },
+  "schemes": {
+    "title": "सरकारी योजना आणि संसाधने",
+    "subtitle": "आरोग्य आणि कुटुंब कल्याण मंत्रालय (MoHFW) आणि MWCD कडून अधिकृत समर्थन मिळवा."
+  },
+  "insights": {
+    "title": "माहिती आणि ब्लॉग",
+    "subtitle": "खऱ्या कथा आणि तज्ञांचा सल्ला."
+  },
+  "impact": {
+    "title": "आमचा प्रभाव",
+    "reached": "महिलांपर्यंत पोहोचलो",
+    "questions": "प्रश्नांची उत्तरे दिली",
+    "regions": "प्रभावित राज्ये",
+    "urban": "शहरी पोहोच",
+    "rural": "ग्रामीण पोहोच"
+  },
+  "team": {
+    "title": "टीम ला भेटा",
+    "founder": "संस्थापक",
+    "tech": "तंत्रज्ञान प्रमुख",
+    "health": "आरोग्य सल्लागार"
+  },
+  "footer": {
+    "about": "MAA by Rigel बद्दल",
+    "contact": "आमच्याशी संपर्क साधा",
+    "disclaimer": "हे प्लॅटफॉर्म शैक्षणिक माहिती प्रदान करते आणि हा वैद्यकीय सल्ल्याला पर्याय नाही.",
+    "privacy": "तुमची गोपनीयता महत्त्वाची आहे. आम्ही तुमचा वैयक्तिक डेटा कोणत्याही सर्व्हरवर ट्रॅक किंवा स्टोअर करत नाही."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

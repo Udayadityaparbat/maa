@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ہوم",
+    "learn": "سیکھیں",
+    "tracker": "ٹریکر",
+    "qa": "سوال و جواب",
+    "schemes": "اسکیمیں",
+    "insights": "معلومات",
+    "impact": "اثر",
+    "research": "تحقیق اور ڈیٹا",
+    "team": "ٹیم"
+  },
+  "hero": {
+    "badge": "🌸 محفوظ · نجی · بااختیار",
+    "headline": "بیداری اور دیکھ بھال کے ذریعے خواتین کو بااختیار بنانا",
+    "subtext": "سیکھنے، ٹریک کرنے، اور رابطہ کرنے کے لیے ایک محفوظ اور نجی جگہ۔ ڈبلیو ایچ او کی گائیڈ لائنز اور حکومت ہند کے وسائل کے تعاون سے۔",
+    "cta_track": "پیریڈ ٹریک کریں",
+    "cta_ask": "سوال پوچھیں",
+    "cta_learn": "مزید جانیں",
+    "tagline": "💜 آپ اکیلی نہیں ہیں۔"
+  },
+  "learn": {
+    "title": "حیض کی صحت کی تعلیم",
+    "subtitle": "ورلڈ ہیلتھ آرگنائزیشن (WHO) کے مطابق، حیض کی صحت جنسی اور تولیدی صحت اور حقوق کا ایک لازمی حصہ ہے۔",
+    "source_who": "ماخذ: WHO فیکٹ شیٹ",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "سائیکل کی بنیادی معلومات",
+    "basics_content": "ایک ماہواری کا دورانیہ عام طور پر 21 سے 35 دن کا ہوتا ہے۔ یہ ایک قدرتی عمل ہے جہاں بچہ دانی اپنی استر اتارتی ہے۔",
+    "hygiene_title": "حفظان صحت کے اصول",
+    "hygiene_content": "انفیکشن سے بچنے کے لیے ہر 4-6 گھنٹے بعد اپنا پیڈ یا ٹیمپون تبدیل کریں۔ صاف پانی اور ہلکے صابن سے بیرونی طور پر دھو لیں۔",
+    "myths_title": "غلط فہمیاں اور حقائق",
+    "myths_content": "غلط فہمی: آپ کو اپنے پیریڈ کے دوران بال نہیں دھونے چاہئیں۔ حقیقت: ذاتی حفظان صحت بہت اہم ہے، اور نہانا/بال دھونا مکمل طور پر محفوظ ہے۔",
+    "nutrition_title": "غذائیت کے مشورے",
+    "nutrition_content": "آئرن سے بھرپور غذائیں جیسے پالک اور دالیں خون کی کمی کو پورا کرنے میں مدد کرتی ہیں۔ درد کو کم کرنے کے لیے ہائیڈریٹڈ رہیں۔"
+  },
+  "tracker": {
+    "title": "پرائیویٹ پیریڈ ٹریکر",
+    "subtitle": "اپنے ڈیوائس پر مقامی طور پر اپنے سائیکل کو ٹریک کریں۔ آپ کا ڈیٹا کبھی آپ کے فون سے باہر نہیں جاتا۔",
+    "last_period_label": "آخری ماہواری کا پہلا دن:",
+    "cycle_length_label": "سائیکل کی اوسط لمبائی (دن):",
+    "calculate_btn": "حساب لگائیں",
+    "next_period": "اگلی ماہواری",
+    "fertile_window": "حمل ٹھہرنے کے ممکنہ دن",
+    "days_away": "دن باقی",
+    "reset_btn": "ڈیٹا ری سیٹ کریں"
+  },
+  "qa": {
+    "title": "گمنام سوال و جواب",
+    "subtitle": "محفوظ طریقے سے کچھ بھی پوچھیں۔ لاگ ان کی ضرورت نہیں ہے۔",
+    "placeholder": "اپنا سوال یہاں ٹائپ کریں...",
+    "category_general": "عام",
+    "category_hygiene": "حفظان صحت",
+    "category_health": "صحت",
+    "category_nutrition": "غذائیت",
+    "category_emotional": "جذباتی",
+    "submit_btn": "گمنام طور پر جمع کریں",
+    "demo_answer": "جواب",
+    "time_ago": "ابھی"
+  },
+  "schemes": {
+    "title": "سرکاری اسکیمیں اور وسائل",
+    "subtitle": "وزارت صحت و خاندانی بہبود (MoHFW) اور MWCD سے سرکاری تعاون تک رسائی حاصل کریں۔"
+  },
+  "insights": {
+    "title": "معلومات اور بلاگ",
+    "subtitle": "حقیقی کہانیاں اور ماہرین کے مشورے۔"
+  },
+  "impact": {
+    "title": "ہمارا اثر",
+    "reached": "خواتین تک رسائی",
+    "questions": "سوالات کے جوابات",
+    "regions": "ریاستیں متاثر ہوئیں",
+    "urban": "شہری رسائی",
+    "rural": "دیہی رسائی"
+  },
+  "team": {
+    "title": "ٹیم سے ملیں",
+    "founder": "بانی اور وژنری",
+    "tech": "ٹیکنالوجی لیڈ",
+    "health": "ہیلتھ ایڈوائزر"
+  },
+  "footer": {
+    "about": "MAA by Rigel کے بارے میں",
+    "contact": "ہم سے رابطہ کریں",
+    "disclaimer": "یہ پلیٹ فارم تعلیمی معلومات فراہم کرتا ہے اور یہ طبی مشورے کا متبادل نہیں ہے۔",
+    "privacy": "آپ کی پرائیویسی اہم ہے۔ ہم آپ کا ذاتی ڈیٹا کسی بھی سرور پر ٹریک یا محفوظ نہیں کرتے۔"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

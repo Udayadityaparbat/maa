@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "गृहपृष्ठ",
+    "learn": "सिक्नुहोस्",
+    "tracker": "ट्रयाकर",
+    "qa": "प्रश्न र उत्तर",
+    "schemes": "योजनाहरू",
+    "insights": "जानकारी",
+    "impact": "प्रभाव",
+    "research": "डाटा र अनुसन्धान",
+    "team": "टोली"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षित · निजी · सशक्तिकरण",
+    "headline": "जागरूकता र हेरचाह मार्फत महिलाहरूलाई सशक्त गर्दै",
+    "subtext": "सिक्न, ट्र्याक गर्न र जडान गर्न एक सुरक्षित, निजी ठाउँ। WHO दिशानिर्देशहरू र भारत सरकारको स्रोतहरू द्वारा समर्थित।",
+    "cta_track": "महिनावारी ट्र्याक गर्नुहोस्",
+    "cta_ask": "प्रश्न सोध्नुहोस्",
+    "cta_learn": "थप जान्नुहोस्",
+    "tagline": "💜 तपाईं एक्लो हुनुहुन्न।"
+  },
+  "learn": {
+    "title": "महिनावारी स्वास्थ्य शिक्षा",
+    "subtitle": "विश्व स्वास्थ्य संगठन (WHO) का अनुसार महिनावारी स्वास्थ्य यौन र प्रजनन स्वास्थ्य र अधिकारको अभिन्न अंग हो।",
+    "source_who": "स्रोत: WHO तथ्य पाना",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "चक्रको आधारभूत कुराहरू",
+    "basics_content": "महिनावारी चक्र सामान्यतया २१ देखि ३५ दिनसम्म रहन्छ। यो एक प्राकृतिक प्रक्रिया हो जहाँ पाठेघरले आफ्नो भित्री तह फाल्छ।",
+    "hygiene_title": "सरसफाई अभ्यासहरू",
+    "hygiene_content": "संक्रमण रोक्न हरेक ४-६ घण्टामा आफ्नो प्याड वा ट्याम्पोन परिवर्तन गर्नुहोस्। सफा पानी र हल्का साबुनले बाहिर मात्र धुनुहोस्।",
+    "myths_title": "भ्रम र तथ्यहरू",
+    "myths_content": "भ्रम: महिनावारीको बेला कपाल धुनु हुँदैन। तथ्य: व्यक्तिगत सरसफाइ महत्त्वपूर्ण छ, र नुहाउनु/कपाल धुनु पूर्ण रूपमा सुरक्षित छ।",
+    "nutrition_title": "पोषण सम्बन्धी सुझावहरू",
+    "nutrition_content": "पालक र दाल जस्ता फलामयुक्त खानेकुराहरूले रगतको कमी पूरा गर्न मद्दत गर्छ। पेट दुख्ने समस्या कम गर्न प्रशस्त पानी पिउनुहोस्।"
+  },
+  "tracker": {
+    "title": "निजी महिनावारी ट्रयाकर",
+    "subtitle": "तपाईंको उपकरणमा तपाईंको चक्र ट्र्याक गर्नुहोस्। तपाईंको डाटा कहिल्यै तपाईंको फोन बाहिर जाँदैन।",
+    "last_period_label": "पछिल्लो महिनावारीको पहिलो दिन:",
+    "cycle_length_label": "औसत चक्रको लम्बाइ (दिनहरू):",
+    "calculate_btn": "हिसाब गर्नुहोस्",
+    "next_period": "अर्को महिनावारी",
+    "fertile_window": "अनुमानित उर्वर समय",
+    "days_away": "दिन बाँकी छ",
+    "reset_btn": "डाटा रिसेट गर्नुहोस्"
+  },
+  "qa": {
+    "title": "अज्ञात प्रश्नोत्तर",
+    "subtitle": "सुरक्षित रूपमा केहि पनि सोध्नुहोस्। लगइन आवश्यक छैन।",
+    "placeholder": "तपाईंको प्रश्न यहाँ टाइप गर्नुहोस्...",
+    "category_general": "सामान्य",
+    "category_hygiene": "सरसफाई",
+    "category_health": "स्वास्थ्य",
+    "category_nutrition": "पोषण",
+    "category_emotional": "भावनात्मक",
+    "submit_btn": "अज्ञात रूपमा पेश गर्नुहोस्",
+    "demo_answer": "उत्तर",
+    "time_ago": "भर्खरै"
+  },
+  "schemes": {
+    "title": "सरकारी योजनाहरू र स्रोतहरू",
+    "subtitle": "स्वास्थ्य र परिवार कल्याण मन्त्रालय (MoHFW) र MWCD बाट आधिकारिक समर्थन पहुँच गर्नुहोस्।"
+  },
+  "insights": {
+    "title": "जानकारी र ब्लग",
+    "subtitle": "वास्तविक कथाहरू र विशेषज्ञ सल्लाह।"
+  },
+  "impact": {
+    "title": "हाम्रो प्रभाव",
+    "reached": "महिलाहरूसम्म पुग्यो",
+    "questions": "प्रश्नहरूको उत्तर दिइयो",
+    "regions": "प्रभावित राज्यहरू",
+    "urban": "शहरी पहुँच",
+    "rural": "ग्रामीण पहुँच"
+  },
+  "team": {
+    "title": "टोलीलाई भेट्नुहोस्",
+    "founder": "संस्थापक",
+    "tech": "टेक्नोलोजी प्रमुख",
+    "health": "स्वास्थ्य सल्लाहकार"
+  },
+  "footer": {
+    "about": "MAA by Rigel को बारेमा",
+    "contact": "हामीलाई सम्पर्क गर्नुहोस",
+    "disclaimer": "यस प्लेटफर्मले शैक्षिक जानकारी प्रदान गर्दछ र यो चिकित्सा सल्लाहको विकल्प होइन।",
+    "privacy": "तपाईंको गोपनीयता महत्त्वपूर्ण छ। हामी तपाईंको व्यक्तिगत डाटा कुनै पनि सर्भरमा ट्र्याक वा भण्डार गर्दैनौं।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

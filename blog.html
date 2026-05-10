@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | Maa by Rigel</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background-color: var(--color-bg);
+      font-family: var(--font-family);
+    }
+    .blog-article {
+      max-width: 800px;
+      margin: 120px auto var(--space-16) auto;
+      background: #fff;
+      padding: var(--space-8);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow-md);
+      border: 1px solid var(--red-200);
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: var(--space-6);
+      color: var(--color-text-muted);
+      font-weight: 600;
+      font-size: 0.95rem;
+      text-decoration: none;
+    }
+    .back-link:hover { color: var(--color-crimson); }
+    #blog-image {
+      width: 100%;
+      height: auto;
+      max-height: 450px;
+      object-fit: cover;
+      border-radius: var(--radius-lg);
+      margin-bottom: var(--space-6);
+    }
+    #blog-title {
+      color: var(--color-crimson);
+      font-family: var(--font-display);
+      font-size: 2.5rem;
+      margin-bottom: var(--space-6);
+      line-height: 1.2;
+    }
+    #blog-content {
+      line-height: 1.8;
+      color: var(--color-text);
+      font-size: 1.1rem;
+    }
+    .loading-state, .error-state {
+      text-align: center;
+      padding: var(--space-16) 0;
+    }
+    .error-state {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="site-header">
+    <div class="header-container">
+      <a href="index.html" class="logo">
+        <img src="media/Rigel%20Logo.png" alt="Rigel Logo" style="height: 64px; width: auto; object-fit: contain;">
+      </a>
+      <nav id="desktop-nav">
+        <ul>
+          <li><a href="index.html">← Back to Home</a></li>
+          <li><a href="donate.html" style="color: var(--color-crimson); font-weight: 800;">❤️ Donate</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <article class="blog-article container">
+      <a href="index.html" id="back-to-home-link" class="back-link">← Back to Home</a>
+      
+      <div id="loading" class="loading-state">
+        <h2>Loading...</h2>
+      </div>
+
+      <div id="error-msg" class="error-state">
+        <h2 style="color: var(--color-crimson);">Article Not Found</h2>
+        <p>The blog post you're looking for doesn't exist or has been removed.</p>
+        <a href="blog.html" class="btn btn-primary" style="margin-top: 1rem;">View All Blogs</a>
+      </div>
+
+      <!-- Single Blog View -->
+      <div id="blog-container" style="display: none;">
+        <img id="blog-image" src="" alt="Blog Cover">
+        <h1 id="blog-title"></h1>
+        <div id="blog-content"></div>
+      </div>
+
+      <!-- All Blogs List View -->
+      <div id="all-blogs-container" style="display: none;">
+        <h1 style="color: var(--color-crimson); font-family: var(--font-display); font-size: 2.5rem; margin-bottom: var(--space-2); text-align: center;">All Research & Blogs</h1>
+        <p style="text-align: center; color: var(--color-text-muted); margin-bottom: var(--space-8);">Explore our latest insights and stories from the field.</p>
+        <div id="all-blogs-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--space-6);">
+        </div>
+      </div>
+    </article>
+  </main>
+
+  <!-- Footer -->
+  <footer id="site-footer" style="background:var(--red-900); padding:3rem 0 1.5rem 0; color:var(--red-100);">
+    <div class="container" style="text-align: center;">
+      <p class="copyright">&copy; 2025 Maa by Rigel. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      // Use hash for routing (e.g., blog.html#1) because some local dev servers
+      // drop query parameters during URL rewrites.
+      const hashString = window.location.hash.substring(1);
+      const blogId = parseInt(hashString);
+
+      const loadingDiv = document.getElementById('loading');
+      const errorDiv = document.getElementById('error-msg');
+      const containerDiv = document.getElementById('blog-container');
+      const allBlogsDiv = document.getElementById('all-blogs-container');
+      const allBlogsGrid = document.getElementById('all-blogs-grid');
+      const backLink = document.getElementById('back-to-home-link');
+
+      try {
+        const response = await fetch('data/blog.json');
+        if (!response.ok) throw new Error('Failed to fetch blogs');
+        
+        const blogs = await response.json();
+
+        // If no ID is provided, show ALL blogs
+        if (!blogId || isNaN(blogId)) {
+          backLink.style.display = 'none'; // Hide back link on main listing
+          
+          allBlogsGrid.innerHTML = blogs.map(blog => `
+            <a href="blog.html#${blog.id}" onclick="setTimeout(() => window.location.reload(), 50)" class="card blog-card" style="text-align: left; text-decoration: none; display: block; border: 1px solid var(--red-200); border-radius: var(--radius-lg); padding: var(--space-4); transition: transform 0.3s ease;">
+              <img src="${blog.image}" alt="${blog.title}" style="width: 100%; height: 200px; object-fit: cover; border-radius: var(--radius-sm); margin-bottom: 1rem;">
+              <h3 style="color: var(--color-crimson); margin-bottom: 0.5rem; font-family: var(--font-display);">${blog.title}</h3>
+              <p style="color: var(--color-text-muted); font-size: 0.95rem; margin-bottom: 1rem;">${blog.excerpt}</p>
+              <span style="font-weight: 600; color: var(--color-crimson); font-size: 0.9rem;">Read More →</span>
+            </a>
+          `).join('');
+
+          loadingDiv.style.display = 'none';
+          allBlogsDiv.style.display = 'block';
+          return;
+        }
+
+        // Show specific blog
+        const blog = blogs.find(b => b.id === blogId);
+
+        if (!blog) {
+          loadingDiv.style.display = 'none';
+          errorDiv.style.display = 'block';
+          return;
+        }
+
+        // Populate content
+        document.title = `${blog.title} | Maa by Rigel`;
+        document.getElementById('blog-image').src = blog.image;
+        document.getElementById('blog-image').alt = blog.title;
+        document.getElementById('blog-title').textContent = blog.title;
+        document.getElementById('blog-content').innerHTML = blog.content.replace(/\n\n/g, '<br><br>');
+
+        loadingDiv.style.display = 'none';
+        containerDiv.style.display = 'block';
+      } catch (error) {
+        console.error('Error loading blog:', error);
+        loadingDiv.style.display = 'none';
+        errorDiv.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>

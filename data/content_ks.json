@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "مُکھ صَفحہ",
+    "learn": "ہؠچھو",
+    "tracker": "ٹریکر",
+    "qa": "سَوال-جَواب",
+    "schemes": "سِکیمہٕ",
+    "insights": "معلومات",
+    "impact": "اَثر",
+    "research": "ڈیٹا تہٕ تحقیق",
+    "team": "ٹیم"
+  },
+  "hero": {
+    "badge": "🌸 مَحفوٗظ · نجی · بااِختیار",
+    "headline": "بیداری تہٕ دؠکھ بھال ذٔریعہٕ زنانن بااِختیار بناوُن",
+    "subtext": "ہؠچھنہٕ، ٹریک کرنہٕ تہٕ جُڑنہٕ خٲطرٕ اَکھ مَحفوٗظ تہٕ نجی جاے۔ WHO ہٕنٛدیو ہِدایاتو تہٕ بَہارَت سَرکار کیو وَسیٖلو سٟتؠ تَعاوُن یافتہٕ۔",
+    "cta_track": "پیٖریڈ ٹریک کٔرِو",
+    "cta_ask": "سَوال پٕرژھِو",
+    "cta_learn": "مزید زٲنِو",
+    "tagline": "💜 تُہؠ چھِو نہٕ کُنۍ زَن۔"
+  },
+  "learn": {
+    "title": "حیضٕچ صِحَتٕچ تٔعلیٖم",
+    "subtitle": "ورلڈ ہیلتھ آرگنائزیشن (WHO) مُطٲبِق، حیضٕچ صِحَت چھِ جِنسی تہٕ تَولیٖدی صِحَت تہٕ حُقوٗقُک اَکھ اَہَم حِصہٕ۔",
+    "source_who": "حَوالہٕ: WHO فیکٹ شیٹ",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "سائیکلٕک بُنیاد",
+    "basics_content": "اَکھ حیضُک دَور چھُ عام پٲٹھؠ 21 پیٚٹھٕ 35 دۄہو تام روزان۔ یِہ چھُ اَکھ قُدرَتی عَمل یَتھ مَنٛز رَحَم پَنٕنؠ أنٛدرِم پَرٕژ ترٛاوان چھُ۔",
+    "hygiene_title": "صَفٲیی ہٕنٛدؠ اُصوٗل",
+    "hygiene_content": "اِنفیکشن نِش بَچنہٕ خٲطرٕ بَدلٲوِو پَنُن پیڈ یا ٹیمپون پرَٛتھ 4-6 گَنٛٹو پَتہٕ۔ صاف آب تہٕ ہَلکہٕ صابنہٕ سٟتؠ نؠبرٕ کِنہِ چھَلِو۔",
+    "myths_title": "غَلَط فَہمی تہٕ حٔقیٖقَت",
+    "myths_content": "غَلَط فَہمی: تُہؠ پَزِو نہٕ پَننِس پیٖریڈس دَوران مَس چھَلُن۔ حٔقیٖقَت: ذٲتی صَفٲیی چَھ واریاہ ضروٗری، تہٕ سِران کرُن/مَس چھَلُن چھُ مُکَمَل مَحفوٗظ۔",
+    "nutrition_title": "غِذٲیِتٕک مَشورٕ",
+    "nutrition_content": "آئرن سٟتؠ بَھرپوٗر کھؠن یِتھ کٔنؠ زَن پالَک تہٕ دال چھِ خوٗنٕچ کَمی پوٗرٕ کرَن۔ دَگ کَم کرنہٕ خٲطرٕ چیٚو واریاہ آب۔"
+  },
+  "tracker": {
+    "title": "پرٛایویٹ پیٖریڈ ٹریکر",
+    "subtitle": "پَننِس ٲلَس پیٚٹھ کٔرِو پَنُن سائیکل ٹریک مَقٲمی پٲٹھؠ۔ تُہُنٛد ڈیٹا چھُنہٕ زانٛہہ تُہنٛدِس فونَس نؠبر گَژھان۔",
+    "last_period_label": "ٲخٕری پیٖریڈُک گۄڈنیُٛک دۄہ:",
+    "cycle_length_label": "سائیکلٕچ اَوسط زیٖٹھَر (دۄہ):",
+    "calculate_btn": "حِساب کٔرِو",
+    "next_period": "آیَندٕ پیٖریڈ",
+    "fertile_window": "حَمَل ٹَہرنٕک تۄقَع دار دۄہ",
+    "days_away": "دۄہ باقی",
+    "reset_btn": "ڈیٹا رِسیٹ کٔرِو"
+  },
+  "qa": {
+    "title": "گُمنام سَوال-جَواب",
+    "subtitle": "مَحفوٗظ پٲٹھؠ پٕرژھِو کینٛہہ تِہ۔ لاگ اِنٕچ ضروٗرَت چھِ نہٕ۔",
+    "placeholder": "پَنُن سَوال کٔرِو ییٚتہِ ٹائپ...",
+    "category_general": "عام",
+    "category_hygiene": "صَفٲیی",
+    "category_health": "صِحَت",
+    "category_nutrition": "غِذٲیِت",
+    "category_emotional": "جَذباتی",
+    "submit_btn": "گُمنام پٲٹھؠ جَمَع کٔرِو",
+    "demo_answer": "جَواب",
+    "time_ago": "وُنِکیٚن"
+  },
+  "schemes": {
+    "title": "سَرکٲرؠ سِکیمہٕ تہٕ وَسیٖلہٕ",
+    "subtitle": "وزارت صحت تہٕ خاندانی بہبود (MoHFW) تہٕ MWCD پؠٹھٕ کٔرِو رَسٲیی حٲصِل سَرکٲرؠ تَعاوُنَس۔"
+  },
+  "insights": {
+    "title": "معلومات تہٕ بلاگ",
+    "subtitle": "اَصلی دٔلیٖلہٕ تہٕ ماہِرؠن ہِنٛد مَشورٕ۔"
+  },
+  "impact": {
+    "title": "سٲنؠ اَثر",
+    "reached": "زنانن تام رَسٲیی",
+    "questions": "سَوالن ہِنٛد جَواب دِتؠ",
+    "regions": "مُتٲثِر رِیاسَتھ",
+    "urban": "شَہَری رَسٲیی",
+    "rural": "گامٕچ رَسٲیی"
+  },
+  "team": {
+    "title": "ٹیمَس سٟتؠ مِلِو",
+    "founder": "بانی",
+    "tech": "ٹیکنالوجی لیڈ",
+    "health": "ہیلتھ ایڈوائزر"
+  },
+  "footer": {
+    "about": "MAA by Rigel مُتعلِق",
+    "contact": "أِسؠ سٟتؠ کٔرِو رٲبطہٕ",
+    "disclaimer": "یِہ پلیٹ فارم چھُ تٔعلیٖمی معلومات فَراہَم کران تہٕ یِہ چھُنہٕ طِبی مَشورُک مُتبادِل۔",
+    "privacy": "تُہنٛز پرٛایویسی چَھ ضروٗری۔ أِسؠ چھِنہٕ تُہُنٛد ذٲتی ڈیٹا کُنہِ تِہ سَرورَس پیٚٹھ ٹریک یا مَحفوٗظ کران۔"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

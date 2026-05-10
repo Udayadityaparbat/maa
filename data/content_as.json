@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "গৃহ",
+    "learn": "শিকা",
+    "tracker": "ট্ৰেকাৰ",
+    "qa": "প্ৰশ্নোত্তৰ",
+    "schemes": "আঁচনি",
+    "insights": "অন্তৰ্দৃষ্টি",
+    "impact": "প্ৰভাৱ",
+    "research": "তথ্য আৰু গৱেষণা",
+    "team": "দল"
+  },
+  "hero": {
+    "badge": "🌸 নিৰাপদ · ব্যক্তিগত · সবলীকৰণ",
+    "headline": "সজাগতা আৰু যত্নৰ জৰিয়তে মহিলাসকলক সবলীকৰণ কৰা",
+    "subtext": "শিকিবলৈ, অনুসৰণ কৰিবলৈ আৰু সংযোগ কৰিবলৈ এটা নিৰাপদ, ব্যক্তিগত স্থান। বিশ্ব স্বাস্থ্য সংস্থাৰ নিৰ্দেশনা আৰু ভাৰত চৰকাৰৰ সম্পদৰ দ্বাৰা সমৰ্থিত।",
+    "cta_track": "ট্ৰেক পিৰিয়ড",
+    "cta_ask": "এটা প্ৰশ্ন কৰক",
+    "cta_learn": "অধিক জানক",
+    "tagline": "💜 তুমি অকলশৰীয়া নহয়।"
+  },
+  "learn": {
+    "title": "ঋতুস্ৰাৱ স্বাস্থ্য শিক্ষা",
+    "subtitle": "বিশ্ব স্বাস্থ্য সংস্থা (WHO)ৰ তথ্য অনুসৰি ঋতুস্ৰাৱৰ স্বাস্থ্য যৌন আৰু প্ৰজনন স্বাস্থ্য আৰু অধিকাৰৰ এক অবিচ্ছেদ্য অংগ।",
+    "source_who": "উৎস: ডব্লিউ এইচ অ’ৰ তথ্য পত্ৰ",
+    "source_who_link": "https://www.who.int/health-topics/ঋতুস্ৰাৱ-স্বাস্থ্য",
+    "basics_title": "চক্ৰৰ মূল কথা",
+    "basics_content": "ঋতুচক্ৰ সাধাৰণতে ২১ৰ পৰা ৩৫ দিনলৈকে থাকে। ই এক স্বাভাৱিক প্ৰক্ৰিয়া য’ত জৰায়ুৱে নিজৰ আৱৰণখন ঢালি দিয়ে।",
+    "hygiene_title": "পৰিষ্কাৰ-পৰিচ্ছন্নতাৰ পদ্ধতি",
+    "hygiene_content": "সংক্ৰমণ ৰোধ কৰিবলৈ প্ৰতি ৪-৬ ঘণ্টাৰ মূৰে মূৰে পেড বা টেম্পন সলনি কৰক। পৰিষ্কাৰ পানী আৰু মৃদু চাবোনেৰে বাহিৰৰ পৰা ধুব লাগে।",
+    "myths_title": "মিথ বনাম তথ্য",
+    "myths_content": "মিথ: মাহেকীয়াৰ সময়ত চুলি ধুব নালাগে। সত্য: ব্যক্তিগত পৰিষ্কাৰ-পৰিচ্ছন্নতা অতি গুৰুত্বপূৰ্ণ, আৰু চুলি গা ধুই/ধোৱাটো একেবাৰে নিৰাপদ।",
+    "nutrition_title": "পুষ্টিৰ টিপছ",
+    "nutrition_content": "কচু আৰু মচুৰ দাইলৰ দৰে আইৰণ সমৃদ্ধ খাদ্যই তেজৰ ক্ষয় পুনৰ পূৰণ কৰাত সহায় কৰে। ক্ৰেম্প কম কৰিবলৈ হাইড্ৰেটেড হৈ থাকিব।"
+  },
+  "tracker": {
+    "title": "ব্যক্তিগত পিৰিয়ড ট্ৰেকাৰ",
+    "subtitle": "আপোনাৰ ডিভাইচত স্থানীয়ভাৱে আপোনাৰ চক্ৰ অনুসৰণ কৰক। আপোনাৰ ডাটা কেতিয়াও আপোনাৰ ফোনটোৰ পৰা ওলাই নাযায়।",
+    "last_period_label": "শেষৰ পিৰিয়ডৰ প্ৰথম দিন:",
+    "cycle_length_label": "গড় চক্ৰৰ দৈৰ্ঘ্য (দিন):",
+    "calculate_btn": "গণনা কৰক",
+    "next_period": "পৰৱৰ্তী সময়ছোৱা",
+    "fertile_window": "আনুমানিক উৰ্বৰ উইণ্ড'",
+    "days_away": "দিন দূৰত",
+    "reset_btn": "তথ্য পুনৰায় সেট কৰক"
+  },
+  "qa": {
+    "title": "বেনামী প্ৰশ্নোত্তৰ",
+    "subtitle": "যিকোনো বস্তু নিৰাপদে সুধিব। কোনো লগইনৰ প্ৰয়োজন নাই।",
+    "placeholder": "আপোনাৰ প্ৰশ্ন ইয়াত টাইপ কৰক...",
+    "category_general": "সাধাৰণ",
+    "category_hygiene": "পৰিচ্ছন্নতা",
+    "category_health": "স্বাস্থ্য",
+    "category_nutrition": "পুষ্টি",
+    "category_emotional": "আবেগিক",
+    "submit_btn": "বেনামীভাৱে জমা দিয়ক",
+    "demo_answer": "ডেমো উত্তৰ",
+    "time_ago": "মাত্ৰ এতিয়াই"
+  },
+  "schemes": {
+    "title": "চৰকাৰী আঁচনি আৰু সম্পদ",
+    "subtitle": "স্বাস্থ্য আৰু পৰিয়াল কল্যাণ মন্ত্ৰালয় (MoHFW) & MWCD ৰ পৰা চৰকাৰী সহায় লাভ কৰক।"
+  },
+  "insights": {
+    "title": "অন্তৰ্দৃষ্টি আৰু ব্লগ",
+    "subtitle": "বাস্তৱ কাহিনী আৰু বিশেষজ্ঞৰ পৰামৰ্শ।"
+  },
+  "impact": {
+    "title": "আমাৰ প্ৰভাৱ",
+    "reached": "মহিলা ৰিচড",
+    "questions": "প্ৰশ্নৰ উত্তৰ",
+    "regions": "প্ৰভাৱিত ৰাজ্যসমূহ",
+    "urban": "নগৰীয়া ৰিচ",
+    "rural": "গ্ৰাম্য ৰিচ"
+  },
+  "team": {
+    "title": "দলটোক লগ কৰক",
+    "founder": "প্ৰতিষ্ঠাপক আৰু দূৰদৰ্শী",
+    "tech": "প্ৰযুক্তিৰ নেতৃত্ব",
+    "health": "স্বাস্থ্য উপদেষ্টা"
+  },
+  "footer": {
+    "about": "ৰিগেলৰ দ্বাৰা মাৰ বিষয়ে",
+    "contact": "আমাৰ সৈতে যোগাযোগ কৰক",
+    "disclaimer": "এই মঞ্চই শিক্ষামূলক তথ্য প্ৰদান কৰে আৰু চিকিৎসা পৰামৰ্শৰ বিকল্প নহয়।",
+    "privacy": "আপোনাৰ গোপনীয়তা গুৰুত্বপূৰ্ণ। আমি আপোনাৰ ব্যক্তিগত তথ্য কোনো চাৰ্ভাৰত অনুসৰণ বা সংৰক্ষণ নকৰো।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "হোম",
+    "learn": "জানুন",
+    "tracker": "ট্র্যাকার",
+    "qa": "প্রশ্নোত্তর",
+    "schemes": "স্কিম",
+    "insights": "ব্লগ",
+    "impact": "প্রভাব",
+    "research": "ডেটা এবং গবেষণা",
+    "team": "দল"
+  },
+  "hero": {
+    "badge": "🌸 নিরাপদ · ব্যক্তিগত · ক্ষমতায়ন",
+    "headline": "সচেতনতা ও যত্নের মাধ্যমে নারীদের ক্ষমতায়ন",
+    "subtext": "শিখতে, ট্র্যাক করতে এবং সংযোগ করার জন্য একটি নিরাপদ, ব্যক্তিগত স্থান। বিশ্ব স্বাস্থ্য সংস্থা (WHO) এবং ভারত সরকারের সম্পদ দ্বারা সমর্থিত।",
+    "cta_track": "পিরিয়ড ট্র্যাক করুন",
+    "cta_ask": "প্রশ্ন জিজ্ঞাসা করুন",
+    "cta_learn": "আরও জানুন",
+    "tagline": "💜 আপনি একা নন।"
+  },
+  "learn": {
+    "title": "ঋতুস্রাব স্বাস্থ্য শিক্ষা",
+    "subtitle": "বিশ্ব স্বাস্থ্য সংস্থার (WHO) মতে, ঋতুস্রাব স্বাস্থ্য যৌন ও প্রজনন স্বাস্থ্যের একটি অবিচ্ছেদ্য অঙ্গ।",
+    "source_who": "সূত্র: WHO ফ্যাক্ট শিট",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "চক্রের মূল কথা",
+    "basics_content": "একটি ঋতুস্রাব চক্র সাধারণত ২১ থেকে ৩৫ দিন স্থায়ী হয়। এটি একটি স্বাভাবিক প্রক্রিয়া।",
+    "hygiene_title": "পরিচ্ছন্নতা অভ্যাস",
+    "hygiene_content": "সংক্রমণ রোধ করতে প্রতি ৪-৬ ঘন্টা পর পর প্যাড পরিবর্তন করুন। পরিষ্কার জল এবং হালকা সাবান দিয়ে ধুয়ে নিন।",
+    "myths_title": "ভুল ধারণা বনাম বাস্তব",
+    "myths_content": "ভুল ধারণা: পিরিয়ডের সময় চুল ধোয়া উচিত নয়। বাস্তব: ব্যক্তিগত পরিচ্ছন্নতা অত্যন্ত গুরুত্বপূর্ণ এবং স্নান করা সম্পূর্ণ নিরাপদ।",
+    "nutrition_title": "পুষ্টির টিপস",
+    "nutrition_content": "পালং শাক এবং ডালের মতো আয়রন সমৃদ্ধ খাবার রক্তাল্পতা রোধে সাহায্য করে। ব্যথা কমাতে হাইড্রেটেড থাকুন।"
+  },
+  "tracker": {
+    "title": "ব্যক্তিগত পিরিয়ড ট্র্যাকার",
+    "subtitle": "আপনার ডিভাইসে স্থানীয়ভাবে আপনার চক্র ট্র্যাক করুন। আপনার ডেটা কখনও আপনার ফোন ছাড়বে না।",
+    "last_period_label": "শেষ পিরিয়ডের প্রথম দিন:",
+    "cycle_length_label": "গড় চক্রের দৈর্ঘ্য (দিন):",
+    "calculate_btn": "হিসাব করুন",
+    "next_period": "পরবর্তী পিরিয়ড",
+    "fertile_window": "আনুমানিক উর্বর সময়সীমা",
+    "days_away": "দিন বাকি",
+    "reset_btn": "ডেটা রিসেট করুন"
+  },
+  "qa": {
+    "title": "বেনামী প্রশ্নোত্তর",
+    "subtitle": "নিরাপদে যেকোনো কিছু জিজ্ঞাসা করুন। লগইনের প্রয়োজন নেই।",
+    "placeholder": "আপনার প্রশ্ন এখানে টাইপ করুন...",
+    "category_general": "সাধারণ",
+    "category_hygiene": "পরিচ্ছন্নতা",
+    "category_health": "স্বাস্থ্য",
+    "category_nutrition": "পুষ্টি",
+    "category_emotional": "আবেগগত",
+    "submit_btn": "বেনামে জমা দিন",
+    "demo_answer": "ডেমো উত্তর",
+    "time_ago": "এইমাত্র"
+  },
+  "schemes": {
+    "title": "সরকারি স্কিম ও সংস্থান",
+    "subtitle": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রক (MoHFW) এবং MWCD থেকে সরকারি সহায়তা পান।"
+  },
+  "insights": {
+    "title": "ইনসাইটস ও ব্লগ",
+    "subtitle": "বাস্তব গল্প এবং বিশেষজ্ঞের পরামর্শ।"
+  },
+  "impact": {
+    "title": "আমাদের প্রভাব",
+    "reached": "পৌঁছানো নারী",
+    "questions": "উত্তর দেওয়া প্রশ্ন",
+    "regions": "প্রভাবিত রাজ্য",
+    "urban": "শহরে পৌঁছানো",
+    "rural": "গ্রামে পৌঁছানো"
+  },
+  "team": {
+    "title": "দলের সাথে পরিচিত হন",
+    "founder": "প্রতিষ্ঠাতা ও দূরদর্শী",
+    "tech": "প্রযুক্তি প্রধান",
+    "health": "স্বাস্থ্য উপদেষ্টা"
+  },
+  "footer": {
+    "about": "মা বাই রিগেল সম্পর্কে",
+    "contact": "যোগাযোগ করুন",
+    "disclaimer": "এই প্ল্যাটফর্ম শিক্ষামূলক তথ্য প্রদান করে এবং চিকিৎসা পরামর্শের বিকল্প নয়।",
+    "privacy": "আপনার গোপনীয়তা গুরুত্বপূর্ণ। আমরা কোনও সার্ভারে আপনার ব্যক্তিগত ডেটা ট্র্যাক বা সংরক্ষণ করি না।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

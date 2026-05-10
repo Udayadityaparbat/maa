@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Home",
+    "learn": "Learn",
+    "tracker": "Tracker",
+    "qa": "Q&A",
+    "schemes": "Schemes",
+    "insights": "Insights",
+    "impact": "Impact",
+    "research": "Data & Research",
+    "team": "Team"
+  },
+  "hero": {
+    "badge": "🌸 Safe · Private · Empowering",
+    "headline": "Empowering Women Through Awareness & Care",
+    "subtext": "A safe, private space to learn, track, and connect. Backed by WHO guidelines and Government of India resources.",
+    "cta_track": "Track Period",
+    "cta_ask": "Ask a Question",
+    "cta_learn": "Learn More",
+    "tagline": "💜 You're not alone."
+  },
+  "learn": {
+    "title": "Menstrual Health Education",
+    "subtitle": "According to the World Health Organization (WHO), menstrual health is an integral part of sexual and reproductive health and rights.",
+    "source_who": "Source: WHO Fact Sheets",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "Cycle Basics",
+    "basics_content": "A menstrual cycle typically lasts 21 to 35 days. It is a natural process where the uterus sheds its lining.",
+    "hygiene_title": "Hygiene Practices",
+    "hygiene_content": "Change your pad or tampon every 4-6 hours to prevent infections. Wash externally with clean water and mild soap.",
+    "myths_title": "Myths vs Facts",
+    "myths_content": "Myth: You shouldn't wash your hair during your period. Fact: Personal hygiene is crucial, and showering/washing hair is perfectly safe.",
+    "nutrition_title": "Nutrition Tips",
+    "nutrition_content": "Iron-rich foods like spinach and lentils help replenish blood loss. Stay hydrated to reduce cramps."
+  },
+  "tracker": {
+    "title": "Private Period Tracker",
+    "subtitle": "Track your cycle locally on your device. Your data never leaves your phone.",
+    "last_period_label": "First day of last period:",
+    "cycle_length_label": "Average cycle length (days):",
+    "calculate_btn": "Calculate",
+    "next_period": "Next Period",
+    "fertile_window": "Estimated Fertile Window",
+    "days_away": "days away",
+    "reset_btn": "Reset Data"
+  },
+  "qa": {
+    "title": "Anonymous Q&A",
+    "subtitle": "Ask anything safely. No login required.",
+    "placeholder": "Type your question here...",
+    "category_general": "General",
+    "category_hygiene": "Hygiene",
+    "category_health": "Health",
+    "category_nutrition": "Nutrition",
+    "category_emotional": "Emotional",
+    "submit_btn": "Submit Anonymously",
+    "demo_answer": "Demo Answer",
+    "time_ago": "Just now"
+  },
+  "schemes": {
+    "title": "Government Schemes & Resources",
+    "subtitle": "Access official support from the Ministry of Health and Family Welfare (MoHFW) & MWCD."
+  },
+  "insights": {
+    "title": "Insights & Blog",
+    "subtitle": "Real stories and expert advice."
+  },
+  "impact": {
+    "title": "Our Impact",
+    "reached": "Women Reached",
+    "questions": "Questions Answered",
+    "regions": "States Impacted",
+    "urban": "Urban Reach",
+    "rural": "Rural Reach"
+  },
+  "team": {
+    "title": "Meet the Team",
+    "founder": "Founder & Visionary",
+    "tech": "Technology Lead",
+    "health": "Health Advisor"
+  },
+  "footer": {
+    "about": "About Maa by Rigel",
+    "contact": "Contact Us",
+    "disclaimer": "This platform provides educational information and is not a substitute for medical advice.",
+    "privacy": "Your privacy matters. We do not track or store your personal data on any servers."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

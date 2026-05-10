@@ -1,0 +1,35 @@
+import json
+
+blogs = [
+  {
+    "id": 1,
+    "title": "The Day No One Prepared Her For",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "excerpt": "She woke up one morning and her world changed — but no one had told her it would. For millions of girls across the world...",
+    "content": "She woke up one morning and her world changed — but no one had told her it would. For millions of girls across the world, the first period arrives without warning, without explanation, and without comfort. No one sat them down. No one said this is normal, this is healthy, this is yours. Instead, they felt fear. Some thought they were dying. Some hid in bathrooms for hours. Some never told anyone at all.\n\nMenstrual education is not an optional extra — it is a foundation. A single honest conversation before menarche can transform a frightening, isolating moment into one of understanding and confidence. Research consistently shows that girls who receive information before their first period experience significantly less shame, less fear, and less disruption to their daily lives.\n\nYet across homes and schools worldwide, that conversation never happens. The chapter gets skipped. The question goes unanswered. The silence is passed from one generation to the next like an inheritance no one chose.\n\nGirls deserve better than that. They deserve truth before they need it, language before they are confused by it, and support before they are afraid. Preparation is not a privilege. It is a right."
+  },
+  {
+    "id": 2,
+    "title": "We Don't Talk About That Here",
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "excerpt": "In classrooms across South Asia, Sub-Saharan Africa, Latin America, and even in wealthy nations, teachers skip the chapter...",
+    "content": "In classrooms across South Asia, Sub-Saharan Africa, Latin America, and even in wealthy nations, teachers skip the chapter on reproductive health. At home, mothers whisper warnings in private moments. Fathers are never part of the conversation at all. And girls absorb the loudest lesson of all — your body is something to be hidden, managed quietly, and never discussed.\n\nMenstrual stigma is not simply embarrassment. It is a system, and it is everywhere. It lives in the gaps of school curricula, in the coded language families use instead of correct words, in the ridicule a girl faces when a stain is spotted, in the shame that keeps her from asking for help. Month after month, the message is reinforced: you are less, and this part of you is shameful.\n\nThe consequences are not abstract. Girls miss school. They avoid seeking medical help. They carry the weight of that shame well into adulthood, affecting how they see themselves and how they raise their own daughters.\n\nBreaking the silence does not require a revolution. It requires a teacher who teaches without flinching, a parent who speaks before they are asked, and a community that actively chooses dignity over shame. That choice is available to all of us, right now."
+  },
+  {
+    "id": 3,
+    "title": "A Pad Should Not Be a Luxury",
+    "image": "https://images.unsplash.com/photo-1631558296726-25b42d72551a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "excerpt": "In many low-income communities around the world, a single packet of sanitary pads costs the equivalent of a full day's wages...",
+    "content": "In many low-income communities around the world, a single packet of sanitary pads costs the equivalent of a full day's wages. For families already living at the margins, this is not a small inconvenience — it is an impossible choice. Food or hygiene. Dignity or survival.\n\nSo girls improvise. They use rags, newspaper, torn cloth, leaves, or ash. They wear a single pad for twelve hours or more because they cannot afford a replacement. They sit still in class, afraid to move. And when the anxiety becomes too great, they simply do not go to school.\n\nPeriod poverty is real, it is global, and it is entirely preventable. It is not a natural condition — it is the result of policy choices. Choices to tax menstrual products as luxury goods. Choices to exclude them from social safety nets. Choices to treat menstrual health as a private matter rather than a public responsibility.\n\nWhen Scotland passed legislation making period products free and universally accessible in schools, absenteeism dropped and reported wellbeing improved. The evidence is not complicated. When girls have what they need, they show up — for school, for life, for themselves. The question has never been whether we can solve this. It is whether we choose to."
+  },
+  {
+    "id": 4,
+    "title": "The Pad Was There. She Wasn't.",
+    "image": "https://images.unsplash.com/photo-1596482161205-01584282e7ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "excerpt": "Through fieldwork in government schools across West Bengal and Odisha, a pattern emerged that was quietly devastating...",
+    "content": "Through fieldwork in government schools across West Bengal and Odisha, a pattern emerged that was quietly devastating. The sanitary pads had been procured. The distribution programme was in place. Officials could point to the numbers — products delivered, boxes ticked, scheme declared successful.\n\nBut when we looked closer, we found that many girls were not coming forward to collect them. Not because the products weren't there. Not because they didn't need them. But because they were too ashamed to be seen taking one.\n\nTo be seen walking up. To be seen accepting. To have anyone know.\n\nThis is the gap that no supply chain, no government scheme, and no distribution network can fix on its own. Physical availability is not the same as genuine access. A pad sitting in a storeroom that a girl is too humiliated to collect has helped no one.\n\nUntil we address the shame, the stigma, and the deep-rooted silence that keeps girls from simply raising their hand — products alone will never be enough. Real access means a girl who feels safe enough, confident enough, and respected enough to come forward without fear. That is the work that remains. And it begins with us."
+  }
+]
+
+with open('data/blogs.json', 'w') as f:
+    json.dump(blogs, f, indent=2)

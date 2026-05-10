@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "முகப்பு",
+    "learn": "கற்றுக்கொள்",
+    "tracker": "டிராக்கர்",
+    "qa": "கேள்வி-பதில்",
+    "schemes": "திட்டங்கள்",
+    "insights": "பார்வைகள்",
+    "impact": "தாக்கம்",
+    "research": "தரவு & ஆராய்ச்சி",
+    "team": "குழு"
+  },
+  "hero": {
+    "badge": "🌸 பாதுகாப்பானது · ரகசியமானது · அதிகாரமளிப்பது",
+    "headline": "விழிப்புணர்வு மற்றும் கவனிப்பு மூலம் பெண்களை மேம்படுத்துதல்",
+    "subtext": "கற்றுக்கொள்ள, கண்காணிக்க மற்றும் தொடர்புகொள்ள பாதுகாப்பான இடம். WHO வழிகாட்டுதல்கள் மற்றும் இந்திய அரசாங்கத்தின் ஆதரவுடன்.",
+    "cta_track": "விடாய்காலத்தை ட்ராக் செய்",
+    "cta_ask": "கேள்வி கேள்",
+    "cta_learn": "மேலும் அறிக",
+    "tagline": "💜 நீங்கள் தனியாக இல்லை."
+  },
+  "learn": {
+    "title": "மாதவிடாய் சுகாதார கல்வி",
+    "subtitle": "உலக சுகாதார அமைப்பின் (WHO) கூற்றுப்படி, மாதவிடாய் சுகாதாரம் என்பது பாலியல் மற்றும் இனப்பெருக்க சுகாதாரம் மற்றும் உரிமைகளின் ஒருங்கிணைந்த பகுதியாகும்.",
+    "source_who": "ஆதாரம்: WHO உண்மைத் தாள்",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "சுழற்சியின் அடிப்படைகள்",
+    "basics_content": "ஒரு மாதவிடாய் சுழற்சி பொதுவாக 21 முதல் 35 நாட்கள் நீடிக்கும். இது கருப்பை அதன் அடுக்கை உதிர்க்கும் ஒரு இயற்கையான செயல்முறையாகும்.",
+    "hygiene_title": "சுகாதார நடைமுறைகள்",
+    "hygiene_content": "தொற்றுகளைத் தடுக்க ஒவ்வொரு 4-6 மணி நேரத்திற்கும் உங்கள் பேட் அல்லது டம்போனை மாற்றவும். சுத்தமான நீர் மற்றும் மிதமான சோப்பைப் பயன்படுத்தி வெளிப்புறமாக கழுவவும்.",
+    "myths_title": "கட்டுக்கதைகள் மற்றும் உண்மைகள்",
+    "myths_content": "கட்டுக்கதை: மாதவிடாயின் போது தலைக்கு குளிக்கக்கூடாது. உண்மை: தனிப்பட்ட சுகாதாரம் மிகவும் முக்கியமானது, குளிப்பது/தலைமுடியை கழுவுவது முற்றிலும் பாதுகாப்பானது.",
+    "nutrition_title": "ஊட்டச்சத்து குறிப்புகள்",
+    "nutrition_content": "கீரை மற்றும் பருப்பு வகைகள் போன்ற இரும்புச்சத்து நிறைந்த உணவுகள் இரத்த இழப்பை ஈடுசெய்ய உதவுகின்றன. வலியை குறைக்க நீர்ச்சத்துடன் இருக்கவும்."
+  },
+  "tracker": {
+    "title": "தனியார் மாதவிடாய் டிராக்கர்",
+    "subtitle": "உங்கள் சுழற்சியை உங்கள் சாதனத்திலேயே ட்ராக் செய்யுங்கள். உங்கள் தரவு உங்கள் போனை விட்டு வெளியேறாது.",
+    "last_period_label": "கடைசி மாதவிடாயின் முதல் நாள்:",
+    "cycle_length_label": "சராசரி சுழற்சி நீளம் (நாட்கள்):",
+    "calculate_btn": "கணக்கிடு",
+    "next_period": "அடுத்த மாதவிடாய்",
+    "fertile_window": "மதிப்பிடப்பட்ட கருவுறும் நாட்கள்",
+    "days_away": "நாட்கள் உள்ளன",
+    "reset_btn": "தரவை மீட்டமை"
+  },
+  "qa": {
+    "title": "அநாமதேய கேள்வி-பதில்",
+    "subtitle": "பாதுகாப்பாக எதையும் கேளுங்கள். உள்நுழைய தேவையில்லை.",
+    "placeholder": "உங்கள் கேள்வியை இங்கே தட்டச்சு செய்க...",
+    "category_general": "பொதுவானவை",
+    "category_hygiene": "சுகாதாரம்",
+    "category_health": "ஆரோக்கியம்",
+    "category_nutrition": "ஊட்டச்சத்து",
+    "category_emotional": "உணர்ச்சிவசப்பட்டவை",
+    "submit_btn": "அநாமதேயமாக சமர்ப்பி",
+    "demo_answer": "பதில்",
+    "time_ago": "இப்போது"
+  },
+  "schemes": {
+    "title": "அரசு திட்டங்கள் & வளங்கள்",
+    "subtitle": "சுகாதார மற்றும் குடும்ப நல அமைச்சகம் (MoHFW) & MWCD வழங்கும் அதிகாரப்பூர்வ ஆதரவை அணுகவும்."
+  },
+  "insights": {
+    "title": "பார்வைகள் & வலைப்பதிவு",
+    "subtitle": "உண்மையான கதைகள் மற்றும் நிபுணர் ஆலோசனை."
+  },
+  "impact": {
+    "title": "எங்கள் தாக்கம்",
+    "reached": "பெண்களை சென்றடைந்தது",
+    "questions": "பதிலளிக்கப்பட்ட கேள்விகள்",
+    "regions": "பாதிக்கப்பட்ட மாநிலங்கள்",
+    "urban": "நகர்ப்புற சென்றடைதல்",
+    "rural": "கிராமப்புற சென்றடைதல்"
+  },
+  "team": {
+    "title": "குழுவை சந்திக்கவும்",
+    "founder": "நிறுவனர் மற்றும் தொலைநோக்காளர்",
+    "tech": "தொழில்நுட்ப தலைவர்",
+    "health": "சுகாதார ஆலோசகர்"
+  },
+  "footer": {
+    "about": "MAA by Rigel பற்றி",
+    "contact": "தொடர்புகொள்ள",
+    "disclaimer": "இந்த தளம் கல்வித் தகவல்களை வழங்குகிறது, இது மருத்துவ ஆலோசனைக்கு மாற்றாகாது.",
+    "privacy": "உங்கள் தனியுரிமை முக்கியமானது. நாங்கள் உங்கள் தனிப்பட்ட தரவை எந்த சேவையகத்திலும் சேமிப்பதில்லை."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

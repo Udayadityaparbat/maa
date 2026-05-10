@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "मुखपृष्ठ",
+    "learn": "सीखू",
+    "tracker": "ट्रैकर",
+    "qa": "प्रश्नोत्तर",
+    "schemes": "योजना सब",
+    "insights": "जानकारी",
+    "impact": "प्रभाव",
+    "research": "डेटा आ शोध",
+    "team": "टीम"
+  },
+  "hero": {
+    "badge": "🌸 सुरक्षित · निजी · सशक्तिकरण",
+    "headline": "जागरूकता आ देखभाल सँ महिला सब कें सशक्त करब",
+    "subtext": "सीखय, ट्रैक करय आ जुड़य लेल एक सुरक्षित, निजी जगह। WHO दिशानिर्देश आ भारत सरकारक संसाधनक समर्थन प्राप्त।",
+    "cta_track": "मासिक धर्म ट्रैक करू",
+    "cta_ask": "प्रश्न पूछू",
+    "cta_learn": "आरो जानू",
+    "tagline": "💜 अहाँ अकान नहि छी।"
+  },
+  "learn": {
+    "title": "मासिक धर्म स्वास्थ्य शिक्षा",
+    "subtitle": "विश्व स्वास्थ्य संगठन (WHO) क अनुसार, मासिक धर्म स्वास्थ्य यौन आ प्रजनन स्वास्थ्य आ अधिकारक एक अभिन्न अंग छै।",
+    "source_who": "स्रोत: WHO फैक्ट शीट",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "चक्रक मूलभूत बात सब",
+    "basics_content": "एकटा मासिक धर्म चक्र आम तौर पर 21 सँ 35 दिन धरि रहै छै। ई एकटा प्राकृतिक प्रक्रिया छै जतय गर्भाशय अपन अस्तर छोड़ै छै।",
+    "hygiene_title": "स्वच्छता प्रथा सब",
+    "hygiene_content": "संक्रमण सँ बचय लेल हर 4-6 घंटा पर अपन पैड या टैम्पोन बदलू। साफ पानि आ हल्का साबुन सँ बाहर सँ धूअ।",
+    "myths_title": "भ्रम आ तथ्य",
+    "myths_content": "भ्रम: अहाँ केँ अपन पाळी के दौरान केस नहि धोबय के चाही। तथ्य: व्यक्तिगत स्वच्छता बहुत महत्वपूर्ण छै, आ स्नान करब/केस धोबय पूर्ण रूप सँ सुरक्षित छै।",
+    "nutrition_title": "पोषणक सुझाव",
+    "nutrition_content": "पालक आ दालि सन आयरन युक्त भोजन खूनक कमी केँ पूरा करय में मदद करै छै। ऐंठन कम करय लेल हाइड्रेटेड रहू।"
+  },
+  "tracker": {
+    "title": "निजी मासिक धर्म ट्रैकर",
+    "subtitle": "अपन डिवाइस पर स्थानीय रूप सँ अपन चक्र केँ ट्रैक करू। अहाँक डेटा कहियो अहाँक फोन सँ बाहर नहि जाइत छै।",
+    "last_period_label": "अंतिम मासिक धर्मक पहिल दिन:",
+    "cycle_length_label": "औसत चक्रक लंबाई (दिन):",
+    "calculate_btn": "गणना करू",
+    "next_period": "अगला पाळी",
+    "fertile_window": "अनुमानित उपजाऊ समय",
+    "days_away": "दिन बाकी",
+    "reset_btn": "डेटा रीसेट करू"
+  },
+  "qa": {
+    "title": "अज्ञात प्रश्नोत्तर",
+    "subtitle": "सुरक्षित रूप सँ किछु भी पूछू। कोनो लॉगिन के आवश्यकता नहि छै।",
+    "placeholder": "अपन प्रश्न एतय टाइप करू...",
+    "category_general": "सामान्य",
+    "category_hygiene": "स्वच्छता",
+    "category_health": "स्वास्थ्य",
+    "category_nutrition": "पोषण",
+    "category_emotional": "भावनात्मक",
+    "submit_btn": "अज्ञात रूप सँ जमा करू",
+    "demo_answer": "उत्तर",
+    "time_ago": "एखने"
+  },
+  "schemes": {
+    "title": "सरकारी योजना सब आ संसाधन",
+    "subtitle": "स्वास्थ्य आ परिवार कल्याण मंत्रालय (MoHFW) आ MWCD सँ आधिकारिक समर्थन प्राप्त करू।"
+  },
+  "insights": {
+    "title": "जानकारी आ ब्लॉग",
+    "subtitle": "असल कहानी सब आ विशेषज्ञक सलाह।"
+  },
+  "impact": {
+    "title": "हमर प्रभाव",
+    "reached": "महिला सब तक पहुंचल",
+    "questions": "प्रश्नक उत्तर देल गेल",
+    "regions": "प्रभावित राज्य सब",
+    "urban": "शहरी पहुंच",
+    "rural": "ग्रामीण पहुंच"
+  },
+  "team": {
+    "title": "टीम सँ मिलू",
+    "founder": "संस्थापक",
+    "tech": "प्रौद्योगिकी प्रमुख",
+    "health": "स्वास्थ्य सलाहकार"
+  },
+  "footer": {
+    "about": "MAA by Rigel क बारे मे",
+    "contact": "हमरा सँ संपर्क करू",
+    "disclaimer": "ई प्लेटफॉर्म शैक्षिक जानकारी प्रदान करै छै आ ई कोनो चिकित्सा सलाहक विकल्प नहि छै।",
+    "privacy": "अहाँक गोपनीयता महत्वपूर्ण छै। हम अहाँक व्यक्तिगत डेटा कोनो सर्वर पर ट्रैक या स्टोर नहि करै छी।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

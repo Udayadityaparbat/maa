@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ഹോം",
+    "learn": "പഠിക്കുക",
+    "tracker": "ട്രാക്കർ",
+    "qa": "ചോദ്യോത്തരങ്ങൾ",
+    "schemes": "പദ്ധതികൾ",
+    "insights": "വസ്തുതകൾ",
+    "impact": "സ്വാധീനം",
+    "research": "ഗവേഷണവും ഡാറ്റയും",
+    "team": "ടീം"
+  },
+  "hero": {
+    "badge": "🌸 സുരക്ഷിതം · സ്വകാര്യം · ശാക്തീകരണം",
+    "headline": "അവബോധത്തിലൂടെയും പരിചരണത്തിലൂടെയും സ്ത്രീകളെ ശാക്തീകരിക്കുന്നു",
+    "subtext": "പഠിക്കാനും ട്രാക്ക് ചെയ്യാനും സംവദിക്കാനുമുള്ള സുരക്ഷിതവും സ്വകാര്യവുമായ ഇടം. WHO മാർഗ്ഗനിർദ്ദേശങ്ങളുടെയും ഇന്ത്യൻ ഗവൺമെന്റിന്റെയും പിന്തുണയോടെ.",
+    "cta_track": "ആർത്തവം ട്രാക്ക് ചെയ്യുക",
+    "cta_ask": "ചോദ്യം ചോദിക്കുക",
+    "cta_learn": "കൂടുതൽ അറിയുക",
+    "tagline": "💜 നിങ്ങൾ ഒറ്റയ്ക്കല്ല."
+  },
+  "learn": {
+    "title": "ആർത്തവ ആരോഗ്യ വിദ്യാഭ്യാസം",
+    "subtitle": "ലോകാരോഗ്യ സംഘടനയുടെ (WHO) അഭിപ്രായത്തിൽ, ആർത്തവ ആരോഗ്യം ലൈംഗികവും പ്രത്യുൽപാദനപരവുമായ ആരോഗ്യത്തിന്റെയും അവകാശങ്ങളുടെയും അവിഭാജ്യ ഘടകമാണ്.",
+    "source_who": "ഉറവിടം: WHO ഫാക്റ്റ് ഷീറ്റ്",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "ആർത്തവചക്രം: അടിസ്ഥാന വിവരങ്ങൾ",
+    "basics_content": "ഒരു ആർത്തവചക്രം സാധാരണയായി 21 മുതൽ 35 ദിവസം വരെ നീണ്ടുനിൽക്കും. ഗർഭാശയ പാളി പുറന്തള്ളപ്പെടുന്ന സ്വാഭാവിക പ്രക്രിയയാണിത്.",
+    "hygiene_title": "ശുചിത്വ രീതികൾ",
+    "hygiene_content": "അണുബാധ തടയുന്നതിന് ഓരോ 4-6 മണിക്കൂറിലും പാഡ് അല്ലെങ്കിൽ ടാംപൺ മാറ്റുക. വീര്യം കുറഞ്ഞ സോപ്പും ശുദ്ധജലവും ഉപയോഗിച്ച് കഴുകുക.",
+    "myths_title": "തെറ്റിദ്ധാരണകളും വസ്തുതകളും",
+    "myths_content": "തെറ്റിദ്ധാരണ: ആർത്തവ സമയത്ത് തലമുടി കഴുകാൻ പാടില്ല. വസ്തുത: വ്യക്തിശുചിത്വം വളരെ പ്രധാനമാണ്, കുളിക്കുന്നതും മുടി കഴുകുന്നതും പൂർണ്ണമായും സുരക്ഷിതമാണ്.",
+    "nutrition_title": "പോഷകാഹാര വിവരങ്ങൾ",
+    "nutrition_content": "ചീര, പയറുവർഗ്ഗങ്ങൾ തുടങ്ങിയ ഇരുമ്പ് അടങ്ങിയ ഭക്ഷണങ്ങൾ രക്തനഷ്ടം പരിഹരിക്കാൻ സഹായിക്കുന്നു. വേദന കുറയ്ക്കാൻ ധാരാളം വെള്ളം കുടിക്കുക."
+  },
+  "tracker": {
+    "title": "സ്വകാര്യ ആർത്തവ ട്രാക്കർ",
+    "subtitle": "നിങ്ങളുടെ ആർത്തവചക്രം നിങ്ങളുടെ ഫോണിൽ ട്രാക്ക് ചെയ്യുക. വിവരങ്ങൾ പൂർണ്ണമായും സ്വകാര്യമാണ്.",
+    "last_period_label": "അവസാന ആർത്തവത്തിന്റെ ആദ്യ ദിവസം:",
+    "cycle_length_label": "ആർത്തവചക്രത്തിന്റെ ദൈർഘ്യം (ദിവസങ്ങൾ):",
+    "calculate_btn": "കണക്കാക്കുക",
+    "next_period": "അടുത്ത ആർത്തവം",
+    "fertile_window": "ഗർഭധാരണ സാധ്യത കൂടുതലുള്ള ദിവസങ്ങൾ",
+    "days_away": "ദിവസങ്ങൾ ബാക്കി",
+    "reset_btn": "റീസെറ്റ് ചെയ്യുക"
+  },
+  "qa": {
+    "title": "അജ്ഞാത ചോദ്യോത്തരങ്ങൾ",
+    "subtitle": "നിങ്ങൾക്ക് സംശയങ്ങൾ സുരക്ഷിതമായി ചോദിക്കാം. ലോഗിൻ ആവശ്യമില്ല.",
+    "placeholder": "നിങ്ങളുടെ ചോദ്യം ഇവിടെ ടൈപ്പ് ചെയ്യുക...",
+    "category_general": "പൊതുവായത്",
+    "category_hygiene": "ശുചിത്വം",
+    "category_health": "ആരോഗ്യം",
+    "category_nutrition": "പോഷകാഹാരം",
+    "category_emotional": "വൈകാരികം",
+    "submit_btn": "അജ്ഞാതമായി സമർപ്പിക്കുക",
+    "demo_answer": "ഉത്തരം",
+    "time_ago": "ഇപ്പോൾ"
+  },
+  "schemes": {
+    "title": "സർക്കാർ പദ്ധതികളും വിഭവങ്ങളും",
+    "subtitle": "ആരോഗ്യ കുടുംബക്ഷേമ മന്ത്രാലയത്തിന്റെയും (MoHFW) MWCD യുടെയും ഔദ്യോഗിക പിന്തുണ ആക്സസ് ചെയ്യുക."
+  },
+  "insights": {
+    "title": "വിവരങ്ങളും ബ്ലോഗും",
+    "subtitle": "യഥാർത്ഥ കഥകളും വിദഗ്ദ്ധോപദേശവും."
+  },
+  "impact": {
+    "title": "ഞങ്ങളുടെ സ്വാധീനം",
+    "reached": "പിന്തുണ ലഭിച്ച സ്ത്രീകൾ",
+    "questions": "മറുപടി നൽകിയ ചോദ്യങ്ങൾ",
+    "regions": "സംസ്ഥാനങ്ങൾ",
+    "urban": "നഗര പ്രദേശങ്ങൾ",
+    "rural": "ഗ്രാമ പ്രദേശങ്ങൾ"
+  },
+  "team": {
+    "title": "ടീമിനെ അറിയുക",
+    "founder": "സ്ഥാപകനും ദർശകനും",
+    "tech": "ടെക്നോളജി ലീഡ്",
+    "health": "ആരോഗ്യ ഉപദേഷ്ടാവ്"
+  },
+  "footer": {
+    "about": "MAA by Rigel നെക്കുറിച്ച്",
+    "contact": "ബന്ധപ്പെടുക",
+    "disclaimer": "ഈ പ്ലാറ്റ്ഫോം വിദ്യാഭ്യാസപരമായ വിവരങ്ങൾ നൽകുന്നു, ഇത് വൈദ്യോപദേശത്തിന് പകരമല്ല.",
+    "privacy": "നിങ്ങളുടെ സ്വകാര്യത പ്രധാനമാണ്. നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ ഞങ്ങൾ ഒരു സെർവറിലും സൂക്ഷിക്കുന്നില്ല."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ओड़ाक्",
+    "learn": "चेमेद्",
+    "tracker": "ट्रेकर",
+    "qa": "कुकली-तेलआ",
+    "schemes": "योजना को",
+    "insights": "बाडाय",
+    "impact": "ओरसोङ्",
+    "research": "डाटा आर सेन्द्रा",
+    "team": "दोल्"
+  },
+  "hero": {
+    "badge": "🌸 निरापोद् · निज · दाड़ेयाम",
+    "headline": "चेङ्घा आर जोतोन ते कुड़ी को दाड़ेयाम आकोवा",
+    "subtext": "चेमेद्, ट्रेक्, आर जोड़ाव लागीद् मिद् निरापोद्, निज जागा। WHO गाईडलाईन आर भारत सोरकार रेयाक् रिसोर्स ते सोहोद्।",
+    "cta_track": "पेरियड ट्रेक् मे",
+    "cta_ask": "कुकली कुली मे",
+    "cta_learn": "आरो बाडाय मे",
+    "tagline": "💜 आम एस्का़र दोम बाङ् काना।"
+  },
+  "learn": {
+    "title": "पेरियड होड़मो सावा़र सेचेद्",
+    "subtitle": "वर्ल्ड हेल्थ ओर्गानाइजेशन (WHO) लेकाते, पेरियड होड़मो सावा़र दो सेक्शुअल आर रिप्रॉडक्टिभ हेल्थ आर राईट्स रेयाक् मिद् गोरोब हाटिञ् काना।",
+    "source_who": "सोर्स: WHO फेक्ट शीट",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "साईकेल रेयाक् बेसीक्",
+    "basics_content": "मिद् पेरियड साईकेल आसा़ल ते २१ खोन ३५ महा हाबीच् ताहेंना। नोवा दो मिद् सा़री बोदोल काना जाहाँ रे यूटेरस आक् भित्री पर्दा गिडीया।",
+    "hygiene_title": "साफा ताहेन् नेयाम",
+    "hygiene_content": "बीमार खोन बाञ्चाव लागीद् जोतो ४-६ घाण्टा रे आम आक् पेड से टेम्पोन बोदोल मे। साफा दाक् आर हालका साबुन ते बाहरे रेयाक् बोदोल मे।",
+    "myths_title": "एड़े आर सा़री",
+    "myths_content": "एड़े: पेरियड जोखोच् आम उप बाङ् सोपोद् लाक्ती। सा़री: निज साफा ताहेन् का़मी रेयाक्, आर गोसो/उप सोपोद् पुरा निरापोद् काना।",
+    "nutrition_title": "जोम् ञु सुझव",
+    "nutrition_content": "पालोङ् आर दा़ल् लेकान आयरन ते पेरेच् जोम ञु मा़या़म् कोमोव् खोन बाञ्चावा। हासो कोमाव लागीद् दाक् ञु मे।"
+  },
+  "tracker": {
+    "title": "निज पेरियड ट्रेकर",
+    "subtitle": "आम आक् डिभाईस रे आम आक् साईकेल ट्रेक् मे। आम आक् डाटा आम आक् फोन खोन बाहरे बाङ् चालाक् आ।",
+    "last_period_label": "मुचा़द् पेरियड रेयाक् पा़हिल महा:",
+    "cycle_length_label": "एभारेज साईकेल जिलिञ् (महा):",
+    "calculate_btn": "लेखा मे",
+    "next_period": "हिजुक् पेरियड",
+    "fertile_window": "अनुमानित फरटाईल विन्डो",
+    "days_away": "महा बाकोवा",
+    "reset_btn": "डाटा रिसेट मे"
+  },
+  "qa": {
+    "title": "गुपुत कुकली-तेलआ",
+    "subtitle": "निरापोद् ते जाहाँनाक् गे कुली मे। लोगिन बाङ् लाक्ती।",
+    "placeholder": "आम आक् कुकली नोन्डे ताईप मे...",
+    "category_general": "साधारण",
+    "category_hygiene": "साफा",
+    "category_health": "होड़मो सावा़र",
+    "category_nutrition": "जोम् ञु",
+    "category_emotional": "भावनात्मक",
+    "submit_btn": "गुपुत ते जामा मे",
+    "demo_answer": "तेलआ",
+    "time_ago": "नितोक् गे"
+  },
+  "schemes": {
+    "title": "सोरकार योजना आर रिसोर्स",
+    "subtitle": "मिनिस्ट्री ओफ हेल्थ एण्ड फेमिली वेलफेयर (MoHFW) आर MWCD खोन ओफिसियल सोहोद् ञाम मे।"
+  },
+  "insights": {
+    "title": "बाडाय आर ब्लोग",
+    "subtitle": "सा़री काथा आर एक्सपार्ट सुझव।"
+  },
+  "impact": {
+    "title": "आलेयाक् ओरसोङ्",
+    "reached": "कुड़ी को ठेन् सेटेर्",
+    "questions": "कुकली तेलआ एम् अकादा",
+    "regions": "ओरसोङ् आकान पनोत को",
+    "urban": "बाजार सेटेर्",
+    "rural": "आतो सेटेर्"
+  },
+  "team": {
+    "title": "दोल् सालाक् ञापाम",
+    "founder": "बुनियाद",
+    "tech": "टेक्नोलोजी लिड",
+    "health": "होड़मो सावा़र एडभाईजार"
+  },
+  "footer": {
+    "about": "MAA by Rigel बाबत",
+    "contact": "आले सालाक् जोगाजोग मे",
+    "disclaimer": "नोवा प्लेटफार्म सेचेद् जानकारी एमा, आर नोवा दो मेडीकेल सुझव रेयाक् बोदोल बाङ् काना।",
+    "privacy": "आम आक् निज बाडाय लाक्ती। आले आम आक् निज डाटा जाहाँ सर्भार रे बाले ट्रेक् से स्टोर एदा।"
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}

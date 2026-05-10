@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "ಮನೆ",
+    "learn": "ಕಲಿಯಿರಿ",
+    "tracker": "ಟ್ರ್ಯಾಕರ್",
+    "qa": "ಪ್ರಶ್ನೋತ್ತರ",
+    "schemes": "ಯೋಜನೆಗಳು",
+    "insights": "ಒಳನೋಟಗಳು",
+    "impact": "ಪರಿಣಾಮ",
+    "research": "ಡೇಟಾ ಮತ್ತು ಸಂಶೋಧನೆ",
+    "team": "ತಂಡ"
+  },
+  "hero": {
+    "badge": "🌸 ಸುರಕ್ಷಿತ · ಖಾಸಗಿ · ಸಬಲೀಕರಣ",
+    "headline": "ಜಾಗೃತಿ ಮತ್ತು ಕಾಳಜಿಯ ಮೂಲಕ ಮಹಿಳೆಯರ ಸಬಲೀಕರಣ",
+    "subtext": "ಕಲಿಯಲು, ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಮತ್ತು ಸಂಪರ್ಕಿಸಲು ಸುರಕ್ಷಿತ, ಖಾಸಗಿ ಸ್ಥಳ. WHO ಮಾರ್ಗಸೂಚಿಗಳು ಮತ್ತು ಭಾರತ ಸರ್ಕಾರದ ಸಂಪನ್ಮೂಲಗಳಿಂದ ಬೆಂಬಲಿತವಾಗಿದೆ.",
+    "cta_track": "ಟ್ರ್ಯಾಕ್ ಅವಧಿ",
+    "cta_ask": "ಒಂದು ಪ್ರಶ್ನೆ ಕೇಳಿ",
+    "cta_learn": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+    "tagline": "💜 ನೀವು ಒಬ್ಬಂಟಿಯಾಗಿಲ್ಲ."
+  },
+  "learn": {
+    "title": "ಮುಟ್ಟಿನ ಆರೋಗ್ಯ ಶಿಕ್ಷಣ",
+    "subtitle": "ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ (WHO) ಪ್ರಕಾರ, ಮುಟ್ಟಿನ ಆರೋಗ್ಯವು ಲೈಂಗಿಕ ಮತ್ತು ಸಂತಾನೋತ್ಪತ್ತಿ ಆರೋಗ್ಯ ಮತ್ತು ಹಕ್ಕುಗಳ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ.",
+    "source_who": "ಮೂಲ: WHO ಫ್ಯಾಕ್ಟ್ ಶೀಟ್‌ಗಳು",
+    "source_who_link": "https://www.who.int/health-topics/menstrual-health",
+    "basics_title": "ಸೈಕಲ್ ಬೇಸಿಕ್ಸ್",
+    "basics_content": "ಋತುಚಕ್ರವು ಸಾಮಾನ್ಯವಾಗಿ 21 ರಿಂದ 35 ದಿನಗಳವರೆಗೆ ಇರುತ್ತದೆ. ಇದು ನೈಸರ್ಗಿಕ ಪ್ರಕ್ರಿಯೆಯಾಗಿದ್ದು, ಗರ್ಭಾಶಯವು ಅದರ ಒಳಪದರವನ್ನು ಹೊರಹಾಕುತ್ತದೆ.",
+    "hygiene_title": "ನೈರ್ಮಲ್ಯ ಅಭ್ಯಾಸಗಳು",
+    "hygiene_content": "ಸೋಂಕನ್ನು ತಡೆಗಟ್ಟಲು ಪ್ರತಿ 4-6 ಗಂಟೆಗಳಿಗೊಮ್ಮೆ ನಿಮ್ಮ ಪ್ಯಾಡ್ ಅಥವಾ ಟ್ಯಾಂಪೂನ್ ಅನ್ನು ಬದಲಾಯಿಸಿ. ಶುದ್ಧ ನೀರು ಮತ್ತು ಸೌಮ್ಯವಾದ ಸಾಬೂನಿನಿಂದ ಬಾಹ್ಯವಾಗಿ ತೊಳೆಯಿರಿ.",
+    "myths_title": "ಪುರಾಣ vs ಸತ್ಯಗಳು",
+    "myths_content": "ಮಿಥ್ಯ: ನಿಮ್ಮ ಅವಧಿಯಲ್ಲಿ ನಿಮ್ಮ ಕೂದಲನ್ನು ತೊಳೆಯಬಾರದು. ಸತ್ಯ: ವೈಯಕ್ತಿಕ ನೈರ್ಮಲ್ಯವು ನಿರ್ಣಾಯಕವಾಗಿದೆ, ಮತ್ತು ಕೂದಲನ್ನು ಸ್ನಾನ ಮಾಡುವುದು/ತೊಳೆಯುವುದು ಸಂಪೂರ್ಣವಾಗಿ ಸುರಕ್ಷಿತವಾಗಿದೆ.",
+    "nutrition_title": "ಪೌಷ್ಟಿಕಾಂಶ ಸಲಹೆಗಳು",
+    "nutrition_content": "ಪಾಲಕ್ ಮತ್ತು ಮಸೂರಗಳಂತಹ ಕಬ್ಬಿಣದ ಭರಿತ ಆಹಾರಗಳು ರಕ್ತದ ನಷ್ಟವನ್ನು ಪುನಃ ತುಂಬಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಸೆಳೆತವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಹೈಡ್ರೇಟೆಡ್ ಆಗಿರಿ."
+  },
+  "tracker": {
+    "title": "ಖಾಸಗಿ ಅವಧಿಯ ಟ್ರ್ಯಾಕರ್",
+    "subtitle": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ನಿಮ್ಮ ಸೈಕಲ್ ಅನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಿ. ನಿಮ್ಮ ಡೇಟಾವು ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಎಂದಿಗೂ ಬಿಡುವುದಿಲ್ಲ.",
+    "last_period_label": "ಕೊನೆಯ ಅವಧಿಯ ಮೊದಲ ದಿನ:",
+    "cycle_length_label": "ಸರಾಸರಿ ಚಕ್ರದ ಉದ್ದ (ದಿನಗಳು):",
+    "calculate_btn": "ಲೆಕ್ಕ ಹಾಕಿ",
+    "next_period": "ಮುಂದಿನ ಅವಧಿ",
+    "fertile_window": "ಅಂದಾಜು ಫಲವತ್ತಾದ ಕಿಟಕಿ",
+    "days_away": "ದಿನಗಳ ದೂರ",
+    "reset_btn": "ಡೇಟಾವನ್ನು ಮರುಹೊಂದಿಸಿ"
+  },
+  "qa": {
+    "title": "ಅನಾಮಧೇಯ ಪ್ರಶ್ನೋತ್ತರ",
+    "subtitle": "ಯಾವುದನ್ನಾದರೂ ಸುರಕ್ಷಿತವಾಗಿ ಕೇಳಿ. ಯಾವುದೇ ಲಾಗಿನ್ ಅಗತ್ಯವಿಲ್ಲ.",
+    "placeholder": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಇಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ...",
+    "category_general": "ಸಾಮಾನ್ಯ",
+    "category_hygiene": "ನೈರ್ಮಲ್ಯ",
+    "category_health": "ಆರೋಗ್ಯ",
+    "category_nutrition": "ಪೋಷಣೆ",
+    "category_emotional": "ಭಾವನಾತ್ಮಕ",
+    "submit_btn": "ಅನಾಮಧೇಯವಾಗಿ ಸಲ್ಲಿಸಿ",
+    "demo_answer": "ಡೆಮೊ ಉತ್ತರ",
+    "time_ago": "ಈಗಷ್ಟೇ"
+  },
+  "schemes": {
+    "title": "ಸರ್ಕಾರದ ಯೋಜನೆಗಳು ಮತ್ತು ಸಂಪನ್ಮೂಲಗಳು",
+    "subtitle": "ಆರೋಗ್ಯ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಸಚಿವಾಲಯ (MoHFW) ಮತ್ತು MWCD ಯಿಂದ ಅಧಿಕೃತ ಬೆಂಬಲವನ್ನು ಪ್ರವೇಶಿಸಿ."
+  },
+  "insights": {
+    "title": "ಒಳನೋಟಗಳು ಮತ್ತು ಬ್ಲಾಗ್",
+    "subtitle": "ನೈಜ ಕಥೆಗಳು ಮತ್ತು ತಜ್ಞರ ಸಲಹೆ."
+  },
+  "impact": {
+    "title": "ನಮ್ಮ ಪ್ರಭಾವ",
+    "reached": "ಮಹಿಳೆಯರು ತಲುಪಿದ್ದಾರೆ",
+    "questions": "ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಲಾಗಿದೆ",
+    "regions": "ರಾಜ್ಯಗಳು ಪ್ರಭಾವಿತವಾಗಿವೆ",
+    "urban": "ಅರ್ಬನ್ ರೀಚ್",
+    "rural": "ರೂರಲ್ ರೀಚ್"
+  },
+  "team": {
+    "title": "ತಂಡವನ್ನು ಭೇಟಿ ಮಾಡಿ",
+    "founder": "ಸ್ಥಾಪಕ ಮತ್ತು ದಾರ್ಶನಿಕ",
+    "tech": "ಟೆಕ್ನಾಲಜಿ ಲೀಡ್",
+    "health": "ಆರೋಗ್ಯ ಸಲಹೆಗಾರ"
+  },
+  "footer": {
+    "about": "ರಿಗೆಲ್ ಅವರಿಂದ ಮಾ ಬಗ್ಗೆ",
+    "contact": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+    "disclaimer": "ಈ ವೇದಿಕೆಯು ಶೈಕ್ಷಣಿಕ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ ಮತ್ತು ವೈದ್ಯಕೀಯ ಸಲಹೆಗೆ ಬದಲಿಯಾಗಿಲ್ಲ.",
+    "privacy": "ನಿಮ್ಮ ಗೌಪ್ಯತೆಯು ಮುಖ್ಯವಾಗಿದೆ. ನಾವು ಯಾವುದೇ ಸರ್ವರ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದಿಲ್ಲ ಅಥವಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
+  },
+  "hygiene_kit": {
+    "title": "What's in a Hygiene Kit?",
+    "subtitle": "Essential items distributed in rural schools to support menstrual health."
+  },
+  "teacher_corner": {
+    "title": "School & Teacher Corner",
+    "subtitle": "Resources and guidelines for educators to support students."
+  },
+  "myth_quiz": {
+    "title": "Myth vs Fact",
+    "subtitle": "Click to flip and reveal the truth."
+  },
+  "ministry": {
+    "title": "Ministry of Women & Child Development",
+    "subtitle": "Official Government of India schemes for women's health, safety, and empowerment. Access support, subsidised products, and crisis helplines."
+  },
+  "research": {
+    "title": "Research Insights",
+    "subtitle": "Key findings from our published public health reports on menstrual equity."
+  }
+}
