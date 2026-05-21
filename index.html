@@ -38,7 +38,7 @@
           <li><a href="#impact" data-i18n="nav.impact">Impact</a></li>
           <li><a href="#research" data-i18n="nav.research">Data &amp; Reports</a></li>
           <li><a href="#team" data-i18n="nav.team">Team</a></li>
-          <li style="display: flex; align-items: center; margin-left: 1rem;"><a href="donate.html" class="btn btn-primary pulse" style="padding: 0.5rem 1.2rem; font-size: 1rem; font-weight: 800; white-space: nowrap;"><i data-lucide="heart" style="width:18px; height:18px;"></i> Donate</a></li>
+          <li style="display: flex; align-items: center; margin-left: 1rem;"><a href="https://rzp.io/rzp/maa-donation" target="_blank" class="btn btn-primary pulse" style="padding: 0.5rem 1.2rem; font-size: 1rem; font-weight: 800; white-space: nowrap;"><i data-lucide="heart" style="width:18px; height:18px;"></i> Donate</a></li>
         </ul>
       </nav>
       <div class="header-controls">
@@ -83,7 +83,7 @@
         <li><a href="#impact" class="mobile-link">Impact</a></li>
         <li><a href="#research" class="mobile-link">Data &amp; Reports</a></li>
         <li><a href="#team" class="mobile-link">Team</a></li>
-        <li style="margin-top: 1rem;"><a href="donate.html" class="btn btn-primary pulse" style="display: flex; justify-content: center; font-weight: 800; text-align: center;"><i data-lucide="heart"></i>
+        <li style="margin-top: 1rem;"><a href="https://rzp.io/rzp/maa-donation" target="_blank" class="btn btn-primary pulse" style="display: flex; justify-content: center; font-weight: 800; text-align: center;"><i data-lucide="heart"></i>
             Donate</a></li>
       </ul>
     </div>
@@ -701,7 +701,108 @@
               <p class="log-msg" id="log-msg"></p>
             </div>
 
-            <button id="reset-tracker" class="btn btn-ghost btn-sm" data-i18n="tracker.reset_btn">Reset Data</button>
+            <!-- Interactive Period History Calendar & Logging -->
+            <div class="calendar-section card" style="margin-top: 2rem; background: var(--color-surface); text-align: left; padding: var(--space-6); border: 1px solid var(--red-200);">
+              <h3 style="font-family: var(--font-display); color: var(--color-crimson); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem; font-size: 1.35rem;">
+                <i data-lucide="calendar"></i> Period History Calendar
+              </h3>
+              <p style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">
+                Tap on any day in the calendar to view, log, or edit your period flow and spotting.
+              </p>
+
+              <!-- Calendar Header -->
+              <div class="calendar-header" style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem;">
+                <button type="button" id="prev-month-btn" class="btn btn-ghost btn-sm" style="padding: 0.4rem 0.8rem; border: 1px solid var(--red-200);"><i data-lucide="chevron-left"></i></button>
+                <h4 id="calendar-month-year" style="font-family: var(--font-display); font-size: 1.25rem; color: var(--color-obsidian); margin: 0; font-weight: 700;">Month Year</h4>
+                <button type="button" id="next-month-btn" class="btn btn-ghost btn-sm" style="padding: 0.4rem 0.8rem; border: 1px solid var(--red-200);"><i data-lucide="chevron-right"></i></button>
+              </div>
+
+              <!-- Weekdays -->
+              <div class="calendar-weekdays" style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-weight: 700; font-size: 0.85rem; color: var(--color-crimson); margin-bottom: 0.5rem;">
+                <div>Su</div><div>Mo</div><div>Tu</div><div>We</div><div>Th</div><div>Fr</div><div>Sa</div>
+              </div>
+
+              <!-- Days Grid -->
+              <div id="calendar-days" class="calendar-days-grid">
+                <!-- Dynamically filled -->
+              </div>
+
+              <!-- Legend -->
+              <div class="calendar-legend" style="display: flex; flex-wrap: wrap; gap: 0.8rem; font-size: 0.8rem; padding-top: 1.2rem; border-top: 1px solid var(--red-100); margin-bottom: 1.5rem; justify-content: center;">
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; background: #FDA4AF; border: 1px solid #E11D48; display: inline-block;"></span>
+                  <span>Light Flow</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; background: #FB7185; border: 1px solid #E11D48; display: inline-block;"></span>
+                  <span>Medium Flow</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; background: #E11D48; border: 1px solid #9F1239; display: inline-block;"></span>
+                  <span>Heavy Flow</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; background: #9F1239; border: 1px solid #4C0519; display: inline-block;"></span>
+                  <span>Super Heavy</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; background: #DBEAFE; border: 2px solid #3B82F6; display: inline-block;"></span>
+                  <span>Fertile/Ovulation</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 14px; height: 14px; border-radius: 3px; border: 2px dashed #F0635A; display: inline-block; background: transparent;"></span>
+                  <span>Predicted Period</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 8px; height: 8px; border-radius: 50%; background: #EF4444; display: inline-block;"></span>
+                  <span>Red Spotting</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                  <span style="width: 8px; height: 8px; border-radius: 50%; background: #78350F; display: inline-block;"></span>
+                  <span>Brown Spotting</span>
+                </div>
+              </div>
+
+              <!-- Day Logging Panel (Hidden until a day is clicked) -->
+              <div id="day-log-panel" class="day-log-panel" style="background: rgba(255,255,255,0.7); border-radius: var(--radius-md); padding: 1.2rem; border: 1px solid var(--red-200); display: none;">
+                <h4 style="margin-top: 0; margin-bottom: 0.8rem; color: var(--color-obsidian); font-family: var(--font-display); font-size: 1.1rem; font-weight: 700;">
+                  Log for <span id="log-selected-date" style="color: var(--color-crimson);">Select a date</span>
+                </h4>
+                
+                <!-- Period Flow Level Selection -->
+                <div style="margin-bottom: 1rem;">
+                  <span style="display: block; font-size: 0.88rem; font-weight: 600; color: var(--color-obsidian); margin-bottom: 0.4rem;">Period Flow:</span>
+                  <div class="flow-selector-group" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                    <button type="button" class="flow-btn btn btn-ghost btn-sm active" data-flow="none" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200);">None</button>
+                    <button type="button" class="flow-btn btn btn-ghost btn-sm" data-flow="light" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #B91C1C;">Light</button>
+                    <button type="button" class="flow-btn btn btn-ghost btn-sm" data-flow="medium" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #B91C1C;">Medium</button>
+                    <button type="button" class="flow-btn btn btn-ghost btn-sm" data-flow="heavy" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #B91C1C;">Heavy</button>
+                    <button type="button" class="flow-btn btn btn-ghost btn-sm" data-flow="super-heavy" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #B91C1C;">Super Heavy</button>
+                  </div>
+                </div>
+
+                <!-- Spotting Section -->
+                <div style="margin-bottom: 1rem;">
+                  <span style="display: block; font-size: 0.88rem; font-weight: 600; color: var(--color-obsidian); margin-bottom: 0.4rem;">Spotting:</span>
+                  <div class="spotting-selector-group" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                    <button type="button" class="spot-btn btn btn-ghost btn-sm active" data-spotting="none" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200);">None</button>
+                    <button type="button" class="spot-btn btn btn-ghost btn-sm" data-spotting="red" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #EF4444;">Red Spotting</button>
+                    <button type="button" class="spot-btn btn btn-ghost btn-sm" data-spotting="brown" style="padding: 0.4rem 0.8rem; font-size: 0.85rem; border: 1px solid var(--red-200); color: #78350F;">Brown Spotting</button>
+                  </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div style="display: flex; gap: 0.5rem; justify-content: flex-end; margin-top: 1.2rem;">
+                  <button type="button" id="clear-day-log-btn" class="btn btn-ghost btn-sm" style="color: var(--color-crimson); border: 1px solid var(--red-200);">Clear Log</button>
+                  <button type="button" id="save-day-log-btn" class="btn btn-primary btn-sm">Save Log</button>
+                </div>
+              </div>
+            </div>
+
+            <div style="display: flex; gap: 1rem; margin-top: 1.5rem; justify-content: center; flex-wrap: wrap;">
+              <button id="reset-tracker" class="btn btn-ghost btn-sm" data-i18n="tracker.reset_btn">Reset Data</button>
+              <button id="export-tracker" class="btn btn-secondary btn-sm" style="display: flex; align-items: center; gap: 0.5rem;"><i data-lucide="download"></i> Export Data</button>
+            </div>
           </div>
         </div>
       </div>

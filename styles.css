@@ -2870,3 +2870,168 @@ h3 {
 .disorder-card {
   cursor: pointer;
 }
+
+/* ===== 19. Period History Calendar & Logging Styles ===== */
+.calendar-days-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.calendar-day {
+  aspect-ratio: 1 / 1;
+  min-height: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-obsidian);
+  position: relative;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+}
+
+.calendar-day:hover:not(.empty) {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+  border-color: var(--color-crimson);
+}
+
+.calendar-day.empty {
+  opacity: 0.25;
+  cursor: default;
+  background: transparent;
+  border: none;
+  pointer-events: none;
+}
+
+/* Today highlight */
+.calendar-day.today:not(.empty) {
+  border: 2.5px solid var(--color-obsidian) !important;
+}
+
+/* Selected highlight */
+.calendar-day.selected-day:not(.empty) {
+  box-shadow: 0 0 0 3px rgba(240, 99, 90, 0.4) !important;
+  border-color: var(--color-crimson) !important;
+}
+
+/* Predicted period days (dashed outline) */
+.calendar-day.predicted-period:not(.empty) {
+  border: 2px dashed var(--color-crimson);
+  background: rgba(255, 240, 242, 0.5);
+  color: var(--color-crimson);
+}
+
+/* Fertile/Ovulation days (blue background) */
+.calendar-day.fertile-day:not(.empty) {
+  background: #EFF6FF;
+  border: 2px solid #3B82F6;
+  color: #1E40AF;
+}
+
+/* Active logged period states (solid red boxes of varying weights) */
+.calendar-day.flow-light:not(.empty) {
+  background: #FFE4E6 !important;
+  border: 1px solid #FB7185 !important;
+  color: #BE123C !important;
+}
+
+.calendar-day.flow-medium:not(.empty) {
+  background: #FDA4AF !important;
+  border: 1.5px solid #F43F5E !important;
+  color: #9F1239 !important;
+}
+
+.calendar-day.flow-heavy:not(.empty) {
+  background: #F43F5E !important;
+  border: 1.5px solid #E11D48 !important;
+  color: #ffffff !important;
+}
+
+.calendar-day.flow-super-heavy:not(.empty) {
+  background: #BE123C !important;
+  border: 2px solid #881337 !important;
+  color: #ffffff !important;
+  font-weight: 800 !important;
+}
+
+/* Spotting dots container */
+.spotting-dots {
+  display: flex;
+  gap: 3px;
+  justify-content: center;
+  position: absolute;
+  bottom: 4px;
+  width: 100%;
+}
+
+.spotting-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: block;
+}
+
+.spotting-dots span.spot-red {
+  background-color: #EF4444;
+}
+
+.spotting-dots span.spot-brown {
+  background-color: #78350F;
+}
+
+/* Active states for selection buttons in logging drawer */
+.flow-btn.active {
+  background: var(--color-crimson) !important;
+  color: #ffffff !important;
+  border-color: var(--color-crimson) !important;
+  transform: scale(1.05);
+  box-shadow: var(--shadow-sm);
+}
+
+.spot-btn.active[data-spotting="red"] {
+  background: #EF4444 !important;
+  color: #ffffff !important;
+  border-color: #EF4444 !important;
+  transform: scale(1.05);
+  box-shadow: var(--shadow-sm);
+}
+
+.spot-btn.active[data-spotting="brown"] {
+  background: #78350F !important;
+  color: #ffffff !important;
+  border-color: #78350F !important;
+  transform: scale(1.05);
+  box-shadow: var(--shadow-sm);
+}
+
+.spot-btn.active[data-spotting="none"] {
+  background: var(--color-obsidian) !important;
+  color: #ffffff !important;
+  border-color: var(--color-obsidian) !important;
+  transform: scale(1.05);
+  box-shadow: var(--shadow-sm);
+}
+
+.day-log-panel {
+  animation: slideDownFade 0.3s ease-out;
+}
+
+@keyframes slideDownFade {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

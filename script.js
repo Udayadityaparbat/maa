@@ -250,6 +250,10 @@ const TrackerModule = (() => {
     }
   };
 
+  let periodHistory = {};
+  let currentViewDate = new Date();
+  let selectedDateStr = "";
+
   const init = () => {
     const form = document.getElementById('tracker-form');
     const resetBtn = document.getElementById('reset-tracker');
@@ -272,11 +276,107 @@ const TrackerModule = (() => {
     resetBtn.addEventListener('click', () => {
       localStorage.removeItem('maa_tracker');
       localStorage.removeItem('maa_symptoms');
+      localStorage.removeItem('maa_period_history');
+      periodHistory = {};
+      selectedDateStr = "";
+      document.getElementById('day-log-panel').style.display = 'none';
       document.getElementById('tracker-result').classList.add('hidden');
       form.reset();
 
       document.querySelectorAll('.tag-btn').forEach(btn => btn.classList.remove('active'));
+      renderCalendar();
     });
+
+    // Calendar Navigation Event Listeners
+    const prevMonthBtn = document.getElementById('prev-month-btn');
+    const nextMonthBtn = document.getElementById('next-month-btn');
+    if (prevMonthBtn && nextMonthBtn) {
+      prevMonthBtn.addEventListener('click', () => {
+        currentViewDate.setMonth(currentViewDate.getMonth() - 1);
+        renderCalendar();
+      });
+      nextMonthBtn.addEventListener('click', () => {
+        currentViewDate.setMonth(currentViewDate.getMonth() + 1);
+        renderCalendar();
+      });
+    }
+
+    // Day Logging Button Listeners
+    document.querySelectorAll('.flow-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.flow-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+
+    document.querySelectorAll('.spot-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.spot-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+
+    // Save and Clear Log Buttons
+    const saveDayLogBtn = document.getElementById('save-day-log-btn');
+    const clearDayLogBtn = document.getElementById('clear-day-log-btn');
+
+    if (saveDayLogBtn) {
+      saveDayLogBtn.addEventListener('click', () => {
+        if (!selectedDateStr) return;
+        const activeFlowBtn = document.querySelector('.flow-btn.active');
+        const activeSpotBtn = document.querySelector('.spot-btn.active');
+
+        const flow = activeFlowBtn ? activeFlowBtn.dataset.flow : 'none';
+        const spotting = activeSpotBtn ? activeSpotBtn.dataset.spotting : 'none';
+
+        if (flow === 'none' && spotting === 'none') {
+          delete periodHistory[selectedDateStr];
+        } else {
+          periodHistory[selectedDateStr] = { flow, spotting };
+        }
+
+        localStorage.setItem('maa_period_history', JSON.stringify(periodHistory));
+        renderCalendar();
+
+        // Update main cycle calculations if updated date is related
+        const savedTracker = localStorage.getItem('maa_tracker');
+        if (savedTracker) {
+          displayResult(JSON.parse(savedTracker));
+        }
+      });
+    }
+
+    if (clearDayLogBtn) {
+      clearDayLogBtn.addEventListener('click', () => {
+        if (!selectedDateStr) return;
+        delete periodHistory[selectedDateStr];
+        localStorage.setItem('maa_period_history', JSON.stringify(periodHistory));
+
+        document.querySelectorAll('.flow-btn').forEach(btn => {
+          if (btn.dataset.flow === 'none') btn.classList.add('active');
+          else btn.classList.remove('active');
+        });
+        document.querySelectorAll('.spot-btn').forEach(btn => {
+          if (btn.dataset.spotting === 'none') btn.classList.add('active');
+          else btn.classList.remove('active');
+        });
+
+        renderCalendar();
+
+        const savedTracker = localStorage.getItem('maa_tracker');
+        if (savedTracker) {
+          displayResult(JSON.parse(savedTracker));
+        }
+      });
+    }
+
+    // Export Data Button
+    const exportBtn = document.getElementById('export-tracker');
+    if (exportBtn) {
+      exportBtn.addEventListener('click', () => {
+        exportData();
+      });
+    }
   };
 
   const setupSymptomLogger = () => {
@@ -444,9 +544,194 @@ const TrackerModule = (() => {
     }
 
     document.getElementById('tracker-result').classList.remove('hidden');
+
+    // Dynamically render the Period History Calendar
+    renderCalendar();
+  };
+
+  const renderCalendar = () => {
+    const year = currentViewDate.getFullYear();
+    const month = currentViewDate.getMonth();
+
+    const monthNames = [
+      "January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"
+    ];
+    const monthYearHeader = document.getElementById('calendar-month-year');
+    if (monthYearHeader) {
+      monthYearHeader.textContent = `${monthNames[month]} ${year}`;
+    }
+
+    const firstDayIndex = new Date(year, month, 1).getDay();
+    const numberOfDays = new Date(year, month + 1, 0).getDate();
+    const daysContainer = document.getElementById('calendar-days');
+    if (!daysContainer) return;
+
+    daysContainer.innerHTML = '';
+
+    const savedTracker = localStorage.getItem('maa_tracker');
+    const trackerData = savedTracker ? JSON.parse(savedTracker) : null;
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    // Empty cells for alignment
+    for (let i = 0; i < firstDayIndex; i++) {
+      const emptyCell = document.createElement('div');
+      emptyCell.className = 'calendar-day empty';
+      daysContainer.appendChild(emptyCell);
+    }
+
+    // Month days
+    for (let day = 1; day <= numberOfDays; day++) {
+      const dayDate = new Date(year, month, day);
+      dayDate.setHours(0, 0, 0, 0);
+
+      const yyyy = dayDate.getFullYear();
+      const mm = String(dayDate.getMonth() + 1).padStart(2, '0');
+      const dd = String(dayDate.getDate()).padStart(2, '0');
+      const dateStr = `${yyyy}-${mm}-${dd}`;
+
+      const dayDiv = document.createElement('div');
+      dayDiv.className = 'calendar-day';
+      dayDiv.textContent = day;
+      dayDiv.dataset.date = dateStr;
+
+      if (dayDate.getTime() === today.getTime()) {
+        dayDiv.classList.add('today');
+      }
+
+      if (selectedDateStr === dateStr) {
+        dayDiv.classList.add('selected-day');
+      }
+
+      const historyEntry = periodHistory[dateStr];
+      let hasLoggedFlow = false;
+
+      if (historyEntry) {
+        const flow = historyEntry.flow;
+        if (flow && flow !== 'none') {
+          dayDiv.classList.add(`flow-${flow}`);
+          hasLoggedFlow = true;
+        }
+      }
+
+      // Add predictions if not actively logged and tracker setup is complete
+      if (!hasLoggedFlow && trackerData && trackerData.lastPeriod) {
+        const lastPeriodDate = new Date(trackerData.lastPeriod);
+        lastPeriodDate.setHours(0, 0, 0, 0);
+
+        const diffTime = dayDate - lastPeriodDate;
+        const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+        const cycleLength = trackerData.cycleLength || 28;
+        const periodDuration = trackerData.periodDuration || 5;
+
+        const cycleDay = ((diffDays % cycleLength) + cycleLength) % cycleLength;
+        const cycleDay1 = cycleDay + 1;
+
+        if (cycleDay1 <= periodDuration) {
+          dayDiv.classList.add('predicted-period');
+        }
+
+        const ovulationDay = cycleLength - 13;
+        const fertileStart = ovulationDay - 2;
+        const fertileEnd = ovulationDay + 2;
+
+        if (cycleDay1 >= fertileStart && cycleDay1 <= fertileEnd) {
+          dayDiv.classList.add('fertile-day');
+        }
+      }
+
+      // Add spotting dots if present
+      if (historyEntry && historyEntry.spotting && historyEntry.spotting !== 'none') {
+        const dotsContainer = document.createElement('div');
+        dotsContainer.className = 'spotting-dots';
+        const dotSpan = document.createElement('span');
+        dotSpan.className = `spot-${historyEntry.spotting}`;
+        dotsContainer.appendChild(dotSpan);
+        dayDiv.appendChild(dotsContainer);
+      }
+
+      dayDiv.addEventListener('click', () => {
+        selectDate(dateStr);
+      });
+
+      daysContainer.appendChild(dayDiv);
+    }
+  };
+
+  const selectDate = (dateStr) => {
+    selectedDateStr = dateStr;
+
+    document.querySelectorAll('.calendar-day').forEach(cell => {
+      if (cell.dataset.date === dateStr) {
+        cell.classList.add('selected-day');
+      } else {
+        cell.classList.remove('selected-day');
+      }
+    });
+
+    const dateParts = dateStr.split('-');
+    const dateObj = new Date(parseInt(dateParts[0], 10), parseInt(dateParts[1], 10) - 1, parseInt(dateParts[2], 10));
+    const selectedDateLabel = document.getElementById('log-selected-date');
+    if (selectedDateLabel) {
+      selectedDateLabel.textContent = dateObj.toDateString();
+    }
+
+    const historyEntry = periodHistory[dateStr] || { flow: 'none', spotting: 'none' };
+
+    document.querySelectorAll('.flow-btn').forEach(btn => {
+      if (btn.dataset.flow === (historyEntry.flow || 'none')) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+
+    document.querySelectorAll('.spot-btn').forEach(btn => {
+      if (btn.dataset.spotting === (historyEntry.spotting || 'none')) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+
+    const logPanel = document.getElementById('day-log-panel');
+    if (logPanel) {
+      logPanel.style.display = 'block';
+      logPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  };
+
+  const exportData = () => {
+    const dataToExport = {
+      maa_tracker: JSON.parse(localStorage.getItem('maa_tracker') || 'null'),
+      maa_period_history: JSON.parse(localStorage.getItem('maa_period_history') || '{}'),
+      maa_symptoms: JSON.parse(localStorage.getItem('maa_symptoms') || '{}'),
+      maa_qa: JSON.parse(localStorage.getItem('maa_qa') || '[]')
+    };
+
+    const jsonString = JSON.stringify(dataToExport, null, 2);
+    const blob = new Blob([jsonString], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `maa_period_tracker_data_${new Date().toISOString().split('T')[0]}.json`;
+    document.body.appendChild(a);
+    a.click();
+
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
   };
 
   const loadFromStorage = () => {
+    const savedHistory = localStorage.getItem('maa_period_history');
+    if (savedHistory) {
+      periodHistory = JSON.parse(savedHistory);
+    } else {
+      periodHistory = {};
+    }
+
     const saved = localStorage.getItem('maa_tracker');
     if (saved) {
       const data = JSON.parse(saved);
@@ -459,6 +744,8 @@ const TrackerModule = (() => {
       if(data.weight) document.getElementById('user-weight').value = data.weight;
       
       displayResult(data);
+    } else {
+      renderCalendar();
     }
   };
 
