@@ -42,7 +42,58 @@
     "next_period": "తదుపరి పీరియడ్",
     "fertile_window": "అంచనా వేయబడిన ఫెర్టైల్ విండో",
     "days_away": "రోజుల సమయం ఉంది",
-    "reset_btn": "డేటాను రీసెట్ చేయండి"
+    "reset_btn": "డేటాను రీసెట్ చేయండి",
+    "today_btn": "నేడు",
+    "detailed_forecast": "వివరణాత్మక సూచన పట్టిక",
+    "search_placeholder": "వెతకండి (ఉదా. Jul 2028, అండోత్పత్తి)...",
+    "col_date": "తేదీ",
+    "col_weekday": "వారం",
+    "col_cycle_day": "చక్రం రోజు",
+    "col_status": "స్థితి",
+    "prev_btn": "మునుపటి",
+    "next_btn": "తదుపరి",
+    "import_btn": "డేటాను ఇంపోర్ట్ చేయండి",
+    "export_btn": "డేటాను ఎక్స్‌పోర్ట్ చేయండి",
+    "print_title": "మా రుతుచక్ర ఆరోగ్య నివేదిక",
+    "print_subtitle": "సృష్టించబడిన క్లినికల్ రోగి నివేదిక • క్లయింట్-సైడ్‌లో అత్యంత గోప్యంగా సిద్ధం చేయబడింది",
+    "cycle_history_title": "ఋతు చక్ర వ్యవధి చరిత్ర",
+    "cycle_history_subtitle": "కాలక్రమేణా మీ బహిష్టు చక్రం యొక్క స్థిరత్వాన్ని మరియు వ్యవధులను ట్రాక్ చేయండి।",
+    "cycle_history_empty": "మీ చక్ర చరిత్ర చార్టును చూడటానికి దయచేసి పైన ఉన్న క్యాలెండర్‌లో కనీసం రెండు బహిష్టులను నమోదు చేయండి।",
+    "symptom_correlation_title": "లక్షణాల పరస్పర సంబంధ డాష్‌బోర్డ్",
+    "symptom_correlation_subtitle": "మీ చక్రంలోని వివిధ దశల్లో ఏ ఏ లక్షణాలు ఎక్కువగా కనిపిస్తాయో చూడండి।",
+    "symptom_correlation_empty": "మీ లక్షణాల సరళిని చూడటానికి క్విక్ లాగ్ లేదా క్యాలెండర్ ఉపయోగించి లక్షణాలను నమోదు చేయండి।",
+    "generate_report_btn": "Generate Doctor Report",
+    "clinical_report_title": "Maa Menstrual Health Clinical Report",
+    "clinical_report_subtitle": "Prepared confidentially on device for medical consultation",
+    "confidential_badge": "Patient Confidential",
+    "patient_info": "Patient Information",
+    "age": "Age",
+    "height": "Height",
+    "weight": "Weight",
+    "bmi": "Calculated BMI",
+    "generated_on": "Generated On",
+    "cycle_stats": "Cycle Baseline Statistics",
+    "avg_cycle_len": "Average Cycle Length",
+    "avg_flow_len": "Average Period Flow",
+    "cycle_regularity": "Cycle Regularity Score",
+    "symptom_frequency_distribution": "Symptom Phase Frequency Distribution",
+    "heatmap_print_desc": "Shows symptom distribution across menstrual cycle phases (normalized percentage within each symptom category).",
+    "last_six_cycles": "Cycle Duration History",
+    "three_month_forecast": "Three-Month Clinical Forecast",
+    "print_footer_note": "Maa Menstrual Health Tracker is a client-side health tool. All data remains strictly local and private. Sharing this report with your healthcare provider can assist in clinical consultations.",
+    "days": "days",
+    "regularity_highly_regular": "Highly Regular",
+    "regularity_regular": "Regular",
+    "regularity_irregular": "Highly Irregular",
+    "symptom_cramps": "Cramps",
+    "symptom_headache": "Headache",
+    "symptom_bloating": "Bloating",
+    "symptom_fatigue": "Fatigue",
+    "symptom_happy": "Happy",
+    "symptom_sad": "Sad",
+    "quick_log_title": "Quick Log Today",
+    "save_symptoms": "Save Symptoms",
+    "symptoms_saved_msg": "Symptom logs saved successfully!"
   },
   "qa": {
     "title": "అనామక ప్రశ్నోత్తరాలు",
@@ -55,7 +106,13 @@
     "category_emotional": "భావోద్వేగ",
     "submit_btn": "అనామకంగా సమర్పించండి",
     "demo_answer": "సమాధానం",
-    "time_ago": "ఇప్పుడే"
+    "time_ago": "ఇప్పుడే",
+    "filter_all": "అన్నీ",
+    "filter_general": "సాధారణ",
+    "filter_hygiene": "పరిశుభ్రత",
+    "filter_health": "ఆరోగ్యం",
+    "filter_nutrition": "పోషకాహారం",
+    "filter_user": "నా ప్రశ్నలు"
   },
   "schemes": {
     "title": "ప్రభుత్వ పథకాలు & వనరులు",
@@ -84,5 +141,25 @@
     "contact": "మమ్మల్ని సంప్రదించండి",
     "disclaimer": "ఈ ప్లాట్‌ఫారమ్ విద్యా సమాచారాన్ని అందిస్తుంది మరియు ఇది వైద్య సలహాకు ప్రత్యామ్నాయం కాదు.",
     "privacy": "మీ గోప్యత ముఖ్యం. మేము మీ వ్యక్తిగత డేటాను ఏ సర్వర్‌లోనూ ట్రాక్ చేయము లేదా నిల్వ చేయము."
+  },
+  "hygiene_kit": {
+    "title": "హైజీన్ కిట్‌లో ఏముంటుంది?",
+    "subtitle": "రుతుచక్ర ఆరోగ్యానికి మద్దతుగా గ్రామీణ పాఠశాలల్లో పంపిణీ చేసే నిత్యావసర వస్తువులు."
+  },
+  "teacher_corner": {
+    "title": "పాఠశాల & ఉపాధ్యాయుల కార్నర్",
+    "subtitle": "విద్యార్థులకు మద్దతు ఇవ్వడానికి ఉపాధ్యాయుల కొరకు వనరులు మరియు మార్గదర్శకాలు."
+  },
+  "myth_quiz": {
+    "title": "అపోహ vs వాస్తవం",
+    "subtitle": "సత్యాన్ని తెలుసుకోవడానికి క్లిక్ చేయండి."
+  },
+  "ministry": {
+    "title": "మహిళా శిశు అభివృద్ధి మంత్రిత్వ శాఖ",
+    "subtitle": "మహిళల ఆరోగ్యం, భద్రత మరియు సాధికారత కోసం అధికారిక భారత ప్రభుత్వ పథకాలు."
+  },
+  "research": {
+    "title": "పరిశోధన అంతర్దృష్టులు",
+    "subtitle": "రుతుచక్ర సమానత్వంపై ప్రచురితమైన పబ్లిక్ హెల్త్ నివేదికల నుండి ముఖ్యమైన ఫలితాలు."
   }
 }

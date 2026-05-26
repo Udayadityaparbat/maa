@@ -1,7 +1,27 @@
 {
   "languages": [
     { "code": "en", "label": "English", "nativeLabel": "English", "rtl": false },
-    { "code": "hi", "label": "Hindi",   "nativeLabel": "हिंदी",    "rtl": false },
-    { "code": "bn", "label": "Bengali", "nativeLabel": "বাংলা",    "rtl": false }
+    { "code": "as", "label": "Assamese", "nativeLabel": "অসমীয়া", "rtl": false },
+    { "code": "bn", "label": "Bengali", "nativeLabel": "বাংলা", "rtl": false },
+    { "code": "brx", "label": "Bodo", "nativeLabel": "बड़ो", "rtl": false },
+    { "code": "doi", "label": "Dogri", "nativeLabel": "डोगरी", "rtl": false },
+    { "code": "gu", "label": "Gujarati", "nativeLabel": "ગુજરાતી", "rtl": false },
+    { "code": "hi", "label": "Hindi", "nativeLabel": "हिंदी", "rtl": false },
+    { "code": "kn", "label": "Kannada", "nativeLabel": "ಕನ್ನಡ", "rtl": false },
+    { "code": "ks", "label": "Kashmiri", "nativeLabel": "کٲشُر", "rtl": true },
+    { "code": "gom", "label": "Konkani", "nativeLabel": "कोंकणी", "rtl": false },
+    { "code": "mai", "label": "Maithili", "nativeLabel": "मैथिली", "rtl": false },
+    { "code": "ml", "label": "Malayalam", "nativeLabel": "മലയാളം", "rtl": false },
+    { "code": "mni", "label": "Manipuri", "nativeLabel": "মৈতৈলোন্", "rtl": false },
+    { "code": "mr", "label": "Marathi", "nativeLabel": "मराठी", "rtl": false },
+    { "code": "ne", "label": "Nepali", "nativeLabel": "नेपाली", "rtl": false },
+    { "code": "or", "label": "Odia", "nativeLabel": "ଓଡ଼ିଆ", "rtl": false },
+    { "code": "pa", "label": "Punjabi", "nativeLabel": "ਪੰਜਾਬੀ", "rtl": false },
+    { "code": "sa", "label": "Sanskrit", "nativeLabel": "संस्कृतम्", "rtl": false },
+    { "code": "sat", "label": "Santali", "nativeLabel": "संथाली", "rtl": false },
+    { "code": "sd", "label": "Sindhi", "nativeLabel": "سنڌي", "rtl": true },
+    { "code": "ta", "label": "Tamil", "nativeLabel": "தமிழ்", "rtl": false },
+    { "code": "te", "label": "Telugu", "nativeLabel": "తెలుగు", "rtl": false },
+    { "code": "ur", "label": "Urdu", "nativeLabel": "اردو", "rtl": true }
   ]
 }
