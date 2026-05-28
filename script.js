@@ -3124,6 +3124,37 @@ const QAModule = (() => {
   };
 
   const generateAnswer = (question, category) => {
+    const lowerText = question.toLowerCase();
+
+    // EMERGENCY INTERCEPT
+    if (lowerText.includes('suicid') || lowerText.includes('kill myself') || lowerText.includes('want to die') || lowerText.includes('end my life')) {
+      return `<div style="border: 2px solid var(--color-crimson); padding: 15px; border-radius: 8px; background-color: #fff5f5;">
+      <h3 style="color: var(--color-crimson); margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        <i data-lucide="alert-triangle"></i> EMERGENCY SUPPORT
+      </h3>
+      <p style="font-size: 1.05rem; margin-bottom: 15px; color: var(--color-text);"><strong>If you are experiencing suicidal thoughts, please seek help immediately. You are not alone and this feeling will pass.</strong></p>
+      <ul style="list-style: none; padding-left: 0; line-height: 1.6; color: var(--color-text);">
+        <li>📞 <strong>National Suicide Prevention Helpline (India):</strong> 9152987821 (AASRA)</li>
+        <li>📞 <strong>Kiran Mental Health Helpline:</strong> 1800-599-0019</li>
+        <li>📞 <strong>Vandrevala Foundation:</strong> 9999 666 555</li>
+        <li>🏥 Please go to the nearest hospital emergency room or contact a trusted family member or friend immediately.</li>
+      </ul>
+      <p style="margin-top: 15px; font-size: 0.95rem; color: var(--color-text-muted);">Severe cyclical depression and suicidal thoughts can be a symptom of <strong>PMDD</strong> (Premenstrual Dysphoric Disorder), a serious but highly treatable medical condition. Please hold on and speak to a medical professional.</p>
+      </div>`;
+    }
+
+    // Intercept with Chatbot personalized response if emotion is detected
+    if (typeof ChatbotModule !== 'undefined' && ChatbotModule.generateResponse) {
+      const hasEmotion = ['sad', 'depressed', 'cry', 'angry', 'irritable', 'mad', 'cramps', 'pain', 'hurt', 'tired', 'exhausted', 'sleepy', 'happy', 'energetic', 'motivated', 'horny', 'turned on', 'aroused', 'libido'].some(w => lowerText.includes(w));
+      if (hasEmotion) {
+        const personalizedAdvice = ChatbotModule.generateResponse(question);
+        // Only return if it's a real advice (not the fallback question)
+        if (!personalizedAdvice.includes("Could you tell me a bit more")) {
+          return `<i data-lucide="heart-pulse"></i> <strong>Personalized Cycle Insight:</strong><br><br>${personalizedAdvice}`;
+        }
+      }
+    }
+
     if ((!knowledgeBase || knowledgeBase.length === 0) && (!qnaBase || qnaBase.length === 0)) {
       return DEMO_ANSWERS[category] || "Thank you for asking. Our experts are reviewing this.";
     }
@@ -3133,24 +3164,41 @@ const QAModule = (() => {
 
     // Score QnA base
     const scoredQnA = qnaBase.map(item => {
+      // Skip placeholder/template entries
+      if (!item.question || item.question.startsWith('[') || item.question.startsWith('(')) {
+        return { type: 'qna', item, score: 0 };
+      }
+
       let score = 0;
       const itemQ = (item.question || "").toLowerCase();
       const keywords = Array.isArray(item.keywords) ? item.keywords.map(k => k.toLowerCase()) : [];
+      const isDirect = !!item.is_direct;
 
+      // Keyword matching — multi-word keywords score proportionally higher
       keywords.forEach(kw => {
         if (qLower.includes(kw)) {
-          score += item.is_direct ? 1000 : 5; // Huge boost for exact direct match
+          const kwWords = kw.split(/\s+/).length;
+          score += isDirect ? (kwWords >= 2 ? 200 : 100) : (kwWords >= 2 ? 20 : 10);
         }
       });
 
+      // Word-overlap ratio between user question and dataset question
+      const itemWords = itemQ.split(/\s+/).filter(w => w.length > 2);
+      const matchingWords = words.filter(w => itemQ.includes(w)).length;
+      if (itemWords.length > 0 && words.length > 0) {
+        const overlapRatio = matchingWords / Math.max(words.length, itemWords.length);
+        score += isDirect ? Math.round(overlapRatio * 80) : Math.round(overlapRatio * 30);
+      }
+
+      // Individual word matches in question text
       words.forEach(w => {
         if (itemQ.includes(w)) {
-          score += item.is_direct ? 10 : 2;
+          score += isDirect ? 8 : 3;
         }
       });
 
       return { type: 'qna', item, score };
-    }).filter(c => c.score > 2);
+    }).filter(c => c.score > 5);
 
     // Score Conditions
     const scoredConditions = knowledgeBase.map(item => {
@@ -3160,26 +3208,32 @@ const QAModule = (() => {
       const keywords = Array.isArray(item.keywords) ? item.keywords.map(k => k.toLowerCase()) : [];
       const symptoms = (item.symptoms || "").toLowerCase();
 
-      if (conditionName && qLower.includes(conditionName)) score += 10;
+      if (conditionName && qLower.includes(conditionName)) score += 15;
 
       keywords.forEach(kw => {
-        if (qLower.includes(kw)) score += 5;
+        if (qLower.includes(kw)) {
+          const kwWords = kw.split(/\s+/).length;
+          score += kwWords >= 2 ? 12 : 6;
+        }
       });
 
       words.forEach(w => {
-        if (symptoms.includes(w)) score += 1;
+        if (symptoms.includes(w)) score += 2;
       });
 
       return { type: 'condition', item, score };
-    }).filter(c => c.score > 1);
+    }).filter(c => c.score > 5);
 
     const allMatches = [...scoredQnA, ...scoredConditions];
     allMatches.sort((a, b) => b.score - a.score);
 
     if (allMatches.length > 0) {
-      // Direct Answer Logic
-      if (allMatches[0].item.is_direct && allMatches[0].score >= 1000) {
-        return allMatches[0].item.answer.replace(/\n/g, '<br>');
+      // Direct Answer Logic — trigger when is_direct entry wins with a meaningful score
+      const top = allMatches[0];
+      if (top.type === 'qna' && top.item.is_direct && top.score >= 100) {
+        let answerText = top.item.answer.replace(/\n/g, '<br>').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        answerText += `<br><br><span style="font-size: 0.85rem; color: var(--color-text-muted);"><em>This website is only for general suggestion. Please consult your nearest gynecologist. Tracking your symptoms daily can also help you understand your cycle better.</em></span>`;
+        return answerText;
       }
 
       const topMatches = allMatches.slice(0, 2);
@@ -3192,7 +3246,7 @@ const QAModule = (() => {
       topMatches.forEach((match, index) => {
         if (match.type === 'qna') {
           response += `<strong>${index + 1}. Q: ${match.item.question}</strong>\n<br>\n`;
-          response += `<strong>A:</strong> ${match.item.answer.replace(/\n/g, '<br>')}\n<br><br>\n`;
+          response += `<strong>A:</strong> ${match.item.answer.replace(/\n/g, '<br>').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')}\n<br><br>\n`;
         } else {
           const bestMatch = match.item;
           if (bestMatch.doctor_required || bestMatch.risk_level === 'high') {
@@ -3208,9 +3262,9 @@ const QAModule = (() => {
       });
 
       if (doctorRequired || highRisk) {
-        response += `<i data-lucide="alert-triangle"></i> <em>This website is only for general suggestion. Please consult your nearest gynecologist or healthcare professional for an accurate diagnosis.</em>`;
+        response += `<i data-lucide="alert-triangle"></i> <span style="font-style: normal; font-weight: 500;">This website is only for general suggestion. Please consult your nearest gynecologist or healthcare professional for an accurate diagnosis.</span>`;
       } else {
-        response += `<i data-lucide="lightbulb"></i> <em>This website is only for general suggestion. Please consult your nearest gynecologist. Tracking your symptoms daily can also help you understand your cycle better.</em>`;
+        response += `<i data-lucide="lightbulb"></i> <span style="font-style: normal; font-weight: 500;">This website is only for general suggestion. Please consult your nearest gynecologist. Tracking your symptoms daily can also help you understand your cycle better.</span>`;
       }
       return response.trim();
     }
@@ -3222,6 +3276,37 @@ const QAModule = (() => {
   const getSubmissions = () => {
     const data = localStorage.getItem('maa_qa_submissions');
     return data ? JSON.parse(data) : [];
+  };
+
+  const wrapMedicalTerms = (text) => {
+    if (!text) return "";
+    let processed = String(text);
+    const medicalTerms = {
+      "pcod": "Polycystic Ovarian Disease: A condition where the ovaries release many immature eggs which eventually turn into cysts.",
+      "pcos": "Polycystic Ovary Syndrome: A hormonal disorder causing enlarged ovaries with small cysts on the outer edges.",
+      "pmos": "Polyendocrine Metabolic Ovarian Syndrome: A hormonal disorder characterized by elevated androgen levels, insulin resistance, and metabolic dysfunction (formerly PCOS).",
+      "anovulation": "The absence of ovulation during menstrual cycles.",
+      "dysmenorrhea": "Medical term for pain with menstruation (cramps).",
+      "amenorrhea": "The absence of menstruation, often defined as missing one or more menstrual periods.",
+      "endometriosis": "A condition where tissue similar to the lining of the uterus grows outside the uterus, causing pain.",
+      "adenomyosis": "A condition in which the inner lining of the uterus (the endometrium) breaks through the muscle wall of the uterus.",
+      "menorrhagia": "Menstrual periods with abnormally heavy or prolonged bleeding.",
+      "fibroids": "Benign smooth muscle tumors of the uterus (also known as leiomyomas).",
+      "leiomyomas": "Benign smooth muscle tumors of the uterus (also known as uterine fibroids).",
+      "asherman's syndrome": "A rare condition characterized by the formation of scar tissue inside the uterus.",
+      "asherman": "A rare condition characterized by the formation of scar tissue inside the uterus.",
+      "vulvodynia": "Chronic, unexplained pain in the area around the opening of the vagina (vulva).",
+      "vaginismus": "Involuntary spasm of vaginal muscles making penetration painful or impossible.",
+      "poi": "Premature Ovarian Insufficiency: when ovaries stop functioning normally before age 40.",
+      "mittelschmerz": "One-sided, lower abdominal pain associated with normal ovulation.",
+      "pms": "Premenstrual Syndrome: A group of symptoms that occur in women, typically between ovulation and a period.",
+      "ovulation": "The release of an egg from the ovary, usually occurring around day 14 of a 28-day menstrual cycle."
+    };
+    for (const [term, def] of Object.entries(medicalTerms)) {
+      const regex = new RegExp(`\\b(${term})\\b`, 'gi');
+      processed = processed.replace(regex, `<span class="medical-term" style="border-bottom: 1px dashed var(--color-crimson); color: var(--color-crimson); cursor: pointer;" onclick="window.openDisorderModal('$1', '${def.replace(/'/g, "\\'")}')">$1</span>`);
+    }
+    return processed;
   };
 
   const loadQuestions = () => {
@@ -3264,7 +3349,7 @@ const QAModule = (() => {
           <span>${q.isCurated ? '' : new Date(q.timestamp).toLocaleDateString()}</span>
         </div>
         <p class="qa-question">Q: ${q.text}</p>
-        <p class="qa-answer">A: ${q.answer}</p>
+        <p class="qa-answer">A: ${wrapMedicalTerms((q.answer || '').replace(/<em>/g, '<span style="font-style: normal; font-weight: 500;">').replace(/<\/em>/g, '</span>'))}</p>
       </div>
     `).join('');
 
@@ -3843,6 +3928,253 @@ const RemindersModule = (() => {
   return { init, checkAndTriggerCycleReminders, updateUIState };
 })();
 
+// --- Chatbot Module ---
+const ChatbotModule = (() => {
+  const getCycleData = () => {
+    const savedTracker = localStorage.getItem('maa_tracker');
+    if (!savedTracker) return null;
+    
+    let data;
+    try {
+      data = JSON.parse(savedTracker);
+    } catch (e) {
+      return null;
+    }
+    
+    const lastStr = data.lastPeriod;
+    const cycleLen = parseInt(data.cycleLength) || 28;
+    if (!lastStr) return null;
+    
+    const lastDate = new Date(lastStr + 'T00:00:00');
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    
+    const diffTime = today - lastDate;
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    
+    if (diffDays < 0) return null;
+    
+    const currentDay = (diffDays % cycleLen) + 1;
+    
+    let phase = '';
+    if (currentDay >= 1 && currentDay <= 5) phase = 'Menstrual';
+    else if (currentDay > 5 && currentDay <= 13) phase = 'Follicular';
+    else if (currentDay >= 14 && currentDay <= 15) phase = 'Ovulation';
+    else phase = 'Luteal';
+    
+    return { day: currentDay, phase };
+  };
+
+  const generateResponse = (text) => {
+    const lowerText = text.toLowerCase();
+    const cycleData = getCycleData();
+    
+    if (!cycleData) {
+      return "It sounds like you're going through something! If you log your last period in the Tracker section, I can give you personalized advice based on your hormonal cycle.";
+    }
+
+    const { day, phase } = cycleData;
+    let emotionFound = false;
+    let advice = "";
+
+    if (lowerText.includes('sad') || lowerText.includes('depressed') || lowerText.includes('cry')) {
+      emotionFound = true;
+      if (phase === 'Luteal' || phase === 'Menstrual') {
+        advice = `<div style="margin-bottom: 0.5rem;">Since you are on <strong>Day ${day} (${phase} phase)</strong>, feeling sad or tearful is very common. Your estrogen levels have dropped, which can temporarily lower your serotonin (the happy hormone).</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">What you can do to feel better:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="utensils" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Eat:</strong> Magnesium-rich foods like dark chocolate, bananas, or pumpkin seeds to naturally boost your mood.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="footprints" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Move:</strong> Go for a gentle 15-minute walk outside. Fresh air and light movement release endorphins!</li>
+          <li><i data-lucide="heart" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Relax:</strong> Take a warm bath, listen to your favorite uplifting music, or watch a comfort movie. Give yourself grace today.</li>
+        </ul>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are currently in your <strong>${phase} phase (Day ${day})</strong>. While your hormones are generally stable right now, external stressors can still make us feel sad.</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">Things to try right now:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="message-circle" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Share:</strong> Reach out and talk to a trusted friend or family member.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="pen-tool" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Journal:</strong> Write down what's bothering you to get it out of your system.</li>
+          <li><i data-lucide="palette" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Distract:</strong> Engage in a hobby you love, like drawing, reading, or dancing to your favorite song!</li>
+        </ul>`;
+      }
+    } else if (lowerText.includes('angry') || lowerText.includes('irritable') || lowerText.includes('mad')) {
+      emotionFound = true;
+      if (phase === 'Luteal') {
+        advice = `<div style="margin-bottom: 0.5rem;">You are on <strong>Day ${day} (${phase} phase)</strong>. Irritability is a classic sign of PMS due to fluctuating progesterone. It's not just in your head!</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">How to find your calm:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="apple" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Eat:</strong> Complex carbs like sweet potatoes or oatmeal can help stabilize your blood sugar and calm your mood.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="activity" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Move:</strong> Try 5 minutes of deep belly breathing or some light yoga stretches to physically release tension.</li>
+          <li><i data-lucide="coffee" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Avoid:</strong> Try to reduce caffeine and sugar today, as they can amplify irritability.</li>
+        </ul>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase</strong>. It's completely valid to feel angry sometimes!</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">Healthy ways to release it:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="activity" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Move:</strong> A brisk walk or a quick workout can help release that pent-up energy.</li>
+          <li><i data-lucide="wind" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Breathe:</strong> Try the 4-7-8 breathing technique (inhale for 4s, hold for 7s, exhale for 8s).</li>
+        </ul>`;
+      }
+    } else if (lowerText.includes('cramps') || lowerText.includes('pain') || lowerText.includes('hurt')) {
+      emotionFound = true;
+      if (phase === 'Menstrual') {
+        advice = `<div style="margin-bottom: 0.5rem;">Cramps are very common on <strong>Day ${day} of your ${phase} phase</strong> as your uterus contracts to shed its lining.</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">Quick Relief Tips:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="flame" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Heat:</strong> Apply a heating pad or hot water bottle to your lower abdomen or lower back.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="coffee" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Drink:</strong> Chamomile or ginger tea helps reduce inflammation and relaxes the muscles.</li>
+          <li><i data-lucide="activity" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Move:</strong> Very gentle stretching can increase blood flow to the pelvic area and reduce pain.</li>
+        </ul>
+        <em style="font-size: 0.85rem; color: var(--color-text-muted); display: block; margin-top: 0.8rem;">Note: If the pain is severe or unbearable, please consult a healthcare professional.</em>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase</strong>. If you're experiencing pelvic pain outside your period, it could be ovulation pain (mittelschmerz) or something else.</div>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="droplet" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Hydrate:</strong> Make sure you are drinking enough water today.</li>
+          <li><i data-lucide="moon" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Rest:</strong> Take it easy and listen to your body.</li>
+        </ul>
+        <em style="font-size: 0.85rem; color: var(--color-text-muted); display: block; margin-top: 0.8rem;">If the pain persists, it's always best to get it checked by a doctor!</em>`;
+      }
+    } else if (lowerText.includes('tired') || lowerText.includes('exhausted') || lowerText.includes('sleepy')) {
+      emotionFound = true;
+      if (phase === 'Menstrual' || phase === 'Luteal') {
+        advice = `<div style="margin-bottom: 0.5rem;">You are on <strong>Day ${day} (${phase} phase)</strong>. Your body is working hard right now, so fatigue is completely normal.</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">How to recharge:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="apple" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Eat:</strong> Focus on iron-rich foods like spinach, lentils, or red meat to replenish your energy.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="moon" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Rest:</strong> Allow yourself a 20-30 minute power nap during the day, and try to go to bed 30 minutes earlier tonight.</li>
+          <li><i data-lucide="droplet" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Hydrate:</strong> Drink plenty of water! Even mild dehydration can make you feel more exhausted.</li>
+        </ul>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase</strong>. Even outside your period, it's normal to have low energy days.</div>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="sun" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Refresh:</strong> Step outside for 5 minutes of sunlight to help reset your circadian rhythm.</li>
+          <li><i data-lucide="moon" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Break:</strong> Sometimes we just need a break. Listen to your body and rest if you need it.</li>
+        </ul>`;
+      }
+    } else if (lowerText.includes('happy') || lowerText.includes('energetic') || lowerText.includes('motivated')) {
+      emotionFound = true;
+      if (phase === 'Follicular' || phase === 'Ovulation') {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase (Day ${day})</strong>. It makes total sense that you're feeling energetic! Your estrogen levels are rising, boosting your serotonin and giving you a natural surge of optimism and energy.</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">How to capitalize on this:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="utensils" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Eat:</strong> Light, fresh foods like salads, lean proteins, and fermented foods to support your gut and sustain this energy.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="activity" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Move:</strong> Push yourself! This is the perfect time for a challenging workout, HIIT, or a long run.</li>
+          <li><i data-lucide="sun" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Do:</strong> Socialize, plan complex projects, or try something entirely new. Your brain is wired for it right now!</li>
+        </ul>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase</strong>. Even if this isn't typically the high-energy part of your cycle, it's wonderful that you're feeling so positive!</div>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="heart" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Embrace It:</strong> Share your good mood with others. Call a friend or do something you love.</li>
+          <li><i data-lucide="pen-tool" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Reflect:</strong> Write down what's making you happy today so you can look back on it when you're feeling down.</li>
+        </ul>`;
+      }
+    } else if (lowerText.includes('horny') || lowerText.includes('turned on') || lowerText.includes('aroused') || lowerText.includes('libido')) {
+      emotionFound = true;
+      if (phase === 'Ovulation') {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase (Day ${day})</strong>. A high sex drive is a very normal and healthy biological response right now! Your body is producing peak levels of estrogen and a surge of testosterone.</div>
+        <strong style="display: block; margin-top: 1rem; color: var(--color-crimson); font-size: 0.95rem;">What you should know:</strong>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="heart" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Enjoy:</strong> Whether with a partner or solo, this is a great time for intimacy. You may find you have more natural lubrication and heightened sensitivity.</li>
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="alert-triangle" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Caution:</strong> Remember that you are highly fertile right now. Use protection if you are not actively trying to conceive!</li>
+          <li><i data-lucide="flame" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Channel it:</strong> If sex isn't an option, you can channel this intense creative and physical energy into dancing, art, or a rigorous workout.</li>
+        </ul>`;
+      } else {
+        advice = `<div style="margin-bottom: 0.5rem;">You are in your <strong>${phase} phase (Day ${day})</strong>. While libido usually peaks at ovulation, many women also experience a surge in arousal just before or during their period due to pelvic congestion (increased blood flow).</div>
+        <ul style="margin-top: 0.5rem; padding-left: 0; list-style: none; line-height: 1.6; font-size: 0.95rem;">
+          <li style="margin-bottom: 0.4rem;"><i data-lucide="heart" style="width:16px;height:16px;display:inline-block;vertical-align:-3px;color:var(--color-crimson);margin-right:6px;"></i> <strong>Embrace it:</strong> This is completely normal and healthy! Orgasms can actually be a great natural painkiller for period cramps.</li>
+        </ul>`;
+      }
+    }
+
+    if (emotionFound) {
+      const disclaimer = `<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--color-border); font-size: 0.85rem; color: var(--color-text-muted); line-height: 1.4;">
+        <strong>Disclaimer:</strong> This website is only for general suggestion. Please consult your nearest gynecologist for medical advice. Tracking your symptoms daily can also help you understand your cycle better.
+      </div>`;
+      return advice + disclaimer;
+    } else {
+      return `You are currently on <strong>Day ${day} of your ${phase} phase</strong>. I'm here to listen. Could you tell me a bit more about how you're feeling?`;
+    }
+  };
+
+  const init = () => {
+    const btn = document.getElementById('chatbot-toggle-btn');
+    const windowEl = document.getElementById('chatbot-window');
+    const closeBtn = document.getElementById('chatbot-close-btn');
+    const sendBtn = document.getElementById('chatbot-send-btn');
+    const input = document.getElementById('chatbot-input');
+    const messages = document.getElementById('chatbot-messages');
+
+    if (!btn || !windowEl) return;
+
+    btn.addEventListener('click', () => {
+      windowEl.classList.toggle('hidden');
+      if (!windowEl.classList.contains('hidden')) input.focus();
+    });
+
+    closeBtn.addEventListener('click', () => {
+      windowEl.classList.add('hidden');
+    });
+
+    const addMessage = (text, isUser = false) => {
+      const msg = document.createElement('div');
+      msg.className = `chat-message ${isUser ? 'user-message' : 'bot-message'}`;
+      msg.innerHTML = text;
+      messages.appendChild(msg);
+      messages.scrollTop = messages.scrollHeight;
+    };
+
+    const handleSend = () => {
+      const text = input.value.trim();
+      if (!text) return;
+      
+      addMessage(text, true);
+      input.value = '';
+      
+      setTimeout(() => {
+        const response = generateResponse(text);
+        addMessage(response, false);
+      }, 600);
+    };
+
+    sendBtn.addEventListener('click', handleSend);
+    input.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') handleSend();
+    });
+  };
+  
+  return { init, getCycleData, generateResponse };
+})();
+
+let knowledgeBaseGlobal = [];
+
+window.openDisorderModal = (term, def) => {
+  let modal = document.getElementById('medical-term-modal');
+  if (!modal) {
+    modal = document.createElement('div');
+    modal.id = 'medical-term-modal';
+    modal.style.position = 'fixed';
+    modal.style.bottom = '20px';
+    modal.style.right = '20px';
+    modal.style.width = '300px';
+    modal.style.background = '#fff';
+    modal.style.boxShadow = '0 10px 25px rgba(0,0,0,0.15)';
+    modal.style.borderRadius = '12px';
+    modal.style.padding = '1.2rem';
+    modal.style.zIndex = '999999';
+    modal.style.borderLeft = '4px solid var(--color-crimson)';
+    modal.style.transition = 'all 0.3s ease';
+    document.body.appendChild(modal);
+  }
+  
+  modal.innerHTML = `
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+      <h4 style="margin: 0; color: var(--color-crimson); text-transform: capitalize; font-size: 1.1rem; padding-right: 1rem;">${term}</h4>
+      <button onclick="document.getElementById('medical-term-modal').style.display='none'" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--color-text-muted); line-height: 1; padding: 0;">&times;</button>
+    </div>
+    <p style="margin: 0; font-size: 0.95rem; color: var(--color-text); line-height: 1.5;">${def}</p>
+  `;
+  modal.style.display = 'block';
+};
+
 // --- App Bootstrap ---
 document.addEventListener('DOMContentLoaded', () => {
   LangModule.init();
@@ -3854,6 +4186,7 @@ document.addEventListener('DOMContentLoaded', () => {
   BlogsModule.init();
   ScrollSpyModule.init();
   RemindersModule.init();
+  ChatbotModule.init();
 
   // Generic Modal Logic for Flowchart Popups
   const infoBtns = document.querySelectorAll('.info-btn');
@@ -4081,55 +4414,9 @@ document.addEventListener('DOMContentLoaded', () => {
   };
   window.init3DTilt = init3DTilt;
 
-  // --- Dark Mode ---
-  const initDarkMode = () => {
-    const toggleBtn = document.getElementById('theme-toggle');
-    if (!toggleBtn) return;
-
-    const htmlEl = document.documentElement;
-    const moonIcon = toggleBtn.querySelector('.theme-toggle-icon-moon');
-    const sunIcon = toggleBtn.querySelector('.theme-toggle-icon-sun');
-
-    const updateToggleIcon = (isDark) => {
-      if (isDark) {
-        moonIcon?.classList.add('hidden');
-        sunIcon?.classList.remove('hidden');
-      } else {
-        moonIcon?.classList.remove('hidden');
-        sunIcon?.classList.add('hidden');
-      }
-    };
-
-    const setTheme = (theme) => {
-      if (theme === 'dark') {
-        htmlEl.setAttribute('data-theme', 'dark');
-        localStorage.setItem('maa_theme', 'dark');
-        updateToggleIcon(true);
-      } else {
-        htmlEl.removeAttribute('data-theme');
-        localStorage.setItem('maa_theme', 'light');
-        updateToggleIcon(false);
-      }
-    };
-
-    toggleBtn.addEventListener('click', () => {
-      const currentTheme = htmlEl.getAttribute('data-theme');
-      if (currentTheme === 'dark') {
-        setTheme('light');
-      } else {
-        setTheme('dark');
-      }
-    });
-
-    const savedTheme = localStorage.getItem('maa_theme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-    if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-      setTheme('dark');
-    } else {
-      setTheme('light');
-    }
-  };
+  // Clean up data-theme and theme storage
+  document.documentElement.removeAttribute('data-theme');
+  localStorage.removeItem('maa_theme');
 
   // Bootstrap all premium animations
   initAOS();
@@ -4138,6 +4425,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initCounterAnimations();
   initScrollProgress();
   init3DTilt();
-  initDarkMode();
 });
 

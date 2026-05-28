@@ -1,4 +1,4 @@
-const CACHE_NAME = 'maa-cache-v1.8.4';
+const CACHE_NAME = 'maa-cache-v1.8.6';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

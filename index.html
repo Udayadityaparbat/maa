@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://unpkg.com">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
-  <link rel="stylesheet" href="styles.css?v=23">
+  <link rel="stylesheet" href="styles.css?v=28">
   <!-- Tailwind CSS v3 Play CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -150,11 +150,7 @@
           <option value="te">Telugu</option>
           <option value="ur">Urdu</option>
         </select>
-        <!-- Dark Mode Toggle Button -->
-        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 0.5rem; border-radius: 50%; width: 40px; height: 40px; transition: all 0.3s ease;">
-          <i data-lucide="moon" class="theme-toggle-icon-moon" style="width: 20px; height: 20px;"></i>
-          <i data-lucide="sun" class="theme-toggle-icon-sun hidden" style="width: 20px; height: 20px;"></i>
-        </button>
+
         <button id="menu-toggle" aria-expanded="false" aria-label="Toggle Menu">
           <span class="bar"></span><span class="bar"></span><span class="bar"></span>
         </button>
@@ -1946,7 +1942,7 @@
   </div>
 
   <!-- SOS Floating Button & Modal -->
-  <button id="sos-btn" class="sos-btn" title="Emergency Helplines">🆘</button>
+  <button id="sos-btn" class="sos-btn" title="Emergency Helplines" style="font-size: 1.2rem;">SOS</button>
 
   <!-- SOS Modal -->
   <div id="sos-modal" class="modal hidden">
@@ -2070,7 +2066,29 @@
     </div>
   </div>
 
-  <script src="script.js?v=23" defer></script>
+  <!-- Chatbot UI -->
+  <button id="chatbot-toggle-btn" class="chatbot-btn" aria-label="Toggle Support Chat">
+    <i data-lucide="message-circle" style="color: white; width: 28px; height: 28px;"></i>
+  </button>
+  <div id="chatbot-window" class="chatbot-window hidden glassmorphism-card">
+    <div class="chatbot-header">
+      <h4><i data-lucide="heart-pulse"></i> Maa AI Companion</h4>
+      <button id="chatbot-close-btn" class="chatbot-close" aria-label="Close Chat">
+        <i data-lucide="x"></i>
+      </button>
+    </div>
+    <div id="chatbot-messages" class="chatbot-messages">
+      <div class="chat-message bot-message">
+        Hi! I'm here to listen. Tell me how you're feeling physically or emotionally today, and I'll give you personalized insights based on your cycle!
+      </div>
+    </div>
+    <div class="chatbot-input-area">
+      <input type="text" id="chatbot-input" placeholder="e.g. I am feeling sad..." aria-label="Type your message" autocomplete="off" />
+      <button id="chatbot-send-btn" class="btn btn-primary" aria-label="Send Message"><i data-lucide="send"></i></button>
+    </div>
+  </div>
+
+  <script src="script.js?v=28" defer></script>
   <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true, theme: 'base', themeVariables: { primaryColor: '#FCE1E5', lineColor: '#C26B74', fontColor: '#4A3B3C' } });

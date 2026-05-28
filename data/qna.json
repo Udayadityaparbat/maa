@@ -1,8 +1,124 @@
 [
   {
+    "question": "What food and activities are best when I'm feeling happy, energetic, or highly motivated?",
+    "answer": "\ud83c\udf72 **Food:** Fuel this high energy! Lean proteins (like chicken, tofu, or fish) and complex carbs (like quinoa) support your stamina. Since you're likely in your Follicular or Ovulation phase, cruciferous vegetables (like broccoli or kale) help your body process the naturally rising estrogen.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Capitalize on this peak energy! This is the perfect time for high-intensity interval training (HIIT), running, or heavy strength training. Socialize, plan big projects, and tackle challenging tasks because your brain is currently wired for resilience, focus, and connection.",
+    "keywords": [
+      "what to eat when happy",
+      "food for energetic mood",
+      "activities when happy",
+      "eat when motivated",
+      "food for high energy",
+      "feeling energetic food",
+      "happy during period"
+    ],
+    "category": "Emotional",
+    "is_direct": true
+  },
+  {
+    "question": "What should I do when feeling turned on, horny, or having a high libido during my cycle?",
+    "answer": "\ud83c\udf72 **Food:** A spike in libido usually happens around Ovulation due to a peak in estrogen and a surge in testosterone. Eat foods rich in zinc (like pumpkin seeds, chickpeas, or dark chocolate) and Vitamin C (berries, citrus) which support healthy hormone production, boost energy, and improve blood flow.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** This is a totally natural sign of a healthy hormonal cycle! If you have a partner, it's a great time for intimacy (use protection if you aren't trying to conceive, as you are highly fertile right now). If you're solo, exploring your own body, masturbation, or engaging in intense creative or physical activities (like dancing, painting, or a hard workout) can beautifully channel this massive surge of creative and sexual energy.",
+    "keywords": [
+      "feeling turned on",
+      "high libido",
+      "horny during ovulation",
+      "what to do when horny",
+      "aroused during period",
+      "fertile phase feelings",
+      "sex drive ovulation",
+      "feeling aroused"
+    ],
+    "category": "Emotional",
+    "is_direct": true
+  },
+  {
+    "question": "What food and activities are best when feeling sad or depressed?",
+    "answer": "\ud83c\udf72 **Food:** Reach for magnesium and Omega-3 rich foods like dark chocolate, walnuts, salmon, or pumpkin seeds. These naturally boost serotonin (your happy hormone). Complex carbs like oatmeal can also provide comforting, steady energy.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Gentle movement like a 15-minute walk in fresh air or restorative yoga releases endorphins. Wrap yourself in a warm blanket, watch a comfort movie, or talk to a supportive friend. Give yourself grace to rest.",
+    "keywords": [
+      "what to eat when sad",
+      "food for sad mood",
+      "activities when depressed",
+      "eat when crying",
+      "food for depression",
+      "feeling sad food"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "What should I eat and do when feeling angry or irritable?",
+    "answer": "\ud83c\udf72 **Food:** Focus on blood sugar stabilizers! Irritability often spikes when blood sugar drops. Eat complex carbs and proteins together\u2014like apple slices with peanut butter, or sweet potatoes. Avoid excess caffeine and sugar, which can make you feel more jittery and on edge.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Channel the energy physically! A brisk walk, a quick workout, or dancing to energetic music can help release pent-up frustration. Try the 4-7-8 deep breathing technique to calm your nervous system.",
+    "keywords": [
+      "what to eat when angry",
+      "food for irritable mood",
+      "activities when mad",
+      "eat when angry",
+      "food for anger",
+      "feeling angry food"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "What food and activities are best when feeling tired or exhausted?",
+    "answer": "\ud83c\udf72 **Food:** Your body needs iron and hydration! Eat iron-rich foods like spinach, lentils, beans, or red meat (pair with Vitamin C like lemon juice to absorb it better). Drink plenty of water\u2014even mild dehydration causes fatigue.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Prioritize rest. Take a 20-30 minute power nap if possible. Avoid heavy, exhausting workouts and opt for light stretching. Try to go to bed 30 minutes earlier tonight. Keep your environment calm and dimly lit.",
+    "keywords": [
+      "what to eat when tired",
+      "food for exhausted mood",
+      "activities when sleepy",
+      "eat when fatigued",
+      "food for low energy",
+      "feeling tired food"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "What should I eat and do when feeling anxious or stressed?",
+    "answer": "\ud83c\udf72 **Food:** Sip on warm, soothing herbal teas like chamomile, peppermint, or ginger. Foods rich in B-vitamins and zinc (like almonds, avocados, and whole grains) support nervous system health. Avoid high caffeine (like strong coffee), which mimics and worsens anxiety symptoms.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Grounding exercises work best. Try journaling your thoughts to get them out of your head, do some deep belly breathing, or take a warm bath with Epsom salts. Step outside for 5 minutes of sunlight to reset your mind.",
+    "keywords": [
+      "what to eat when anxious",
+      "food for stressed mood",
+      "activities when anxious",
+      "eat when stressed",
+      "food for anxiety",
+      "feeling stressed food"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "What should I eat when feeling bloated and crampy?",
+    "answer": "\ud83c\udf72 **Food:** Potassium-rich and water-rich foods are your best friend! Bananas, cucumbers, watermelon, and papaya help flush out excess water retention. Ginger or peppermint tea reduces inflammation and soothes the stomach. Avoid excessively salty, fried, or highly processed foods, which worsen bloating.\n\n\ud83e\uddd8\u200d\u2640\ufe0f **Activities:** Use a heating pad on your lower belly. Gentle stretching or yoga poses (like Child's Pose) can relieve trapped gas and pelvic pressure.",
+    "keywords": [
+      "what to eat when bloated",
+      "food for bloating",
+      "activities when crampy",
+      "eat when cramps",
+      "food for cramps",
+      "feeling bloated food"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "Is PCOS and PMOS different?",
+    "answer": "No, they are the exact same condition! **PMOS** (Polyendocrine Metabolic Ovarian Syndrome) is simply the new, updated medical name for **PCOS** (Polycystic Ovary Syndrome).\n\nMedical professionals are transitioning to the name PMOS because the old name (PCOS) implies the main problem is 'cysts' on the ovaries. In reality, it is a full-body hormonal and metabolic disorder that affects insulin, weight, and androgens. The new name PMOS much better reflects what is actually happening in the body.",
+    "keywords": [
+      "is pcos and pmos different",
+      "difference between pcos and pmos",
+      "pmos vs pcos",
+      "pcos vs pmos",
+      "are pcos and pmos the same"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
     "question": "What is menstruation?",
     "answer": "Menstruation, also called a \"period,\" is the monthly shedding of the inner lining of the uterus (called the endometrium) through the vagina. It happens when an egg released from the ovary is not fertilized. The shed lining, along with some blood and mucus, flows out of the body over a few days. It is a completely normal and healthy process in females.",
     "keywords": [
+      "what is menstruation",
+      "what is period",
       "menstruation",
       "period",
       "uterus",
@@ -11,8 +127,12 @@
       "monthly cycle",
       "vagina",
       "egg",
-      "ovary"
-    ]
+      "ovary",
+      "explain menstruation",
+      "define period"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "What is the normal length of a menstrual cycle?",
@@ -22,9 +142,14 @@
       "28 days",
       "normal cycle",
       "menstrual cycle duration",
+      "how long is a cycle",
+      "how many days between periods",
       "irregular",
-      "regular period"
-    ]
+      "regular period",
+      "normal period length"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "What are the 4 phases of the menstrual cycle?",
@@ -52,8 +177,12 @@
       "luteinizing hormone",
       "follicle stimulating hormone",
       "hypothalamus",
-      "pituitary"
-    ]
+      "pituitary",
+      "hormones control period",
+      "what controls menstruation"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "At what age does the first period start?",
@@ -66,8 +195,13 @@
       "first menstruation",
       "12 years",
       "13 years",
-      "India"
-    ]
+      "India",
+      "what age period starts",
+      "when does period start",
+      "age first period"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "At what age does menstruation stop?",
@@ -91,8 +225,12 @@
       "how much blood",
       "80 mL",
       "pad soaking",
-      "blood amount"
-    ]
+      "blood amount",
+      "how much bleeding is normal",
+      "normal blood loss period"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "How many days does a normal period last?",
@@ -145,8 +283,13 @@
       "period underwear",
       "cloth pad",
       "hygiene products",
-      "menstrual products"
-    ]
+      "menstrual products",
+      "what to use during period",
+      "period products India",
+      "types of pads"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
   },
   {
     "question": "How often should a sanitary pad be changed?",
@@ -158,8 +301,13 @@
       "6 hours",
       "sanitary napkin",
       "infection from pad",
-      "hygiene"
-    ]
+      "hygiene",
+      "how long can you wear a pad",
+      "change pad frequency",
+      "when to change pad"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
   },
   {
     "question": "How often should a tampon be changed?",
@@ -199,8 +347,13 @@
       "myth",
       "cultural belief",
       "clean",
-      "normal"
-    ]
+      "normal",
+      "is period blood dirty",
+      "is menstrual blood impure",
+      "period blood harmful"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "How should used sanitary pads be disposed of?",
@@ -239,8 +392,13 @@
       "menstruation hygiene",
       "cramps",
       "safe to bathe",
-      "water during period"
-    ]
+      "water during period",
+      "can i shower on period",
+      "can you bathe during period",
+      "bathing myth period"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
   },
   {
     "question": "What is TSS (Toxic Shock Syndrome)?",
@@ -280,8 +438,14 @@
       "uterus contractions",
       "lower abdomen pain",
       "cramping",
-      "painful periods"
-    ]
+      "painful periods",
+      "why do i get cramps",
+      "what causes period pain",
+      "stomach pain during period",
+      "why cramps happen"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What is dysmenorrhea?",
@@ -322,8 +486,13 @@
       "anemia",
       "iron deficiency",
       "fibroid",
-      "heavy flow"
-    ]
+      "heavy flow",
+      "is my period too heavy",
+      "soaking pads every hour",
+      "too much period blood"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What is PCOS (Polycystic Ovary Syndrome)?",
@@ -351,8 +520,12 @@
       "infertility",
       "painful periods",
       "surgery",
-      "hormonal therapy"
-    ]
+      "hormonal therapy",
+      "what is endometriosis",
+      "endo symptoms"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What is PMS (Premenstrual Syndrome)?",
@@ -381,8 +554,13 @@
       "underweight",
       "exercise",
       "PCOS",
-      "thyroid"
-    ]
+      "thyroid",
+      "period stopped",
+      "period missing",
+      "why no period"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What is spotting?",
@@ -409,8 +587,13 @@
       "weakness",
       "iron rich food",
       "green vegetables",
-      "NFHS-5"
-    ]
+      "NFHS-5",
+      "feeling weak during period",
+      "iron supplements period",
+      "period and anemia"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "Can you exercise during your period?",
@@ -423,8 +606,13 @@
       "cramps and exercise",
       "endorphins",
       "safe to exercise",
-      "sports"
-    ]
+      "sports",
+      "can i exercise on my period",
+      "workout during period",
+      "gym during period"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "Can you swim during your period?",
@@ -435,8 +623,12 @@
       "water",
       "tampon swimming",
       "safe to swim",
-      "menstruation and water"
-    ]
+      "menstruation and water",
+      "can i swim on my period",
+      "period and swimming"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "Does menstruation affect a girl's ability to study or concentrate?",
@@ -476,8 +668,12 @@
       "bad smell",
       "fishy odor",
       "bacterial vaginosis",
-      "normal odor"
-    ]
+      "normal odor",
+      "why does my period smell",
+      "period blood smell bad"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
   },
   {
     "question": "Can eating sour or cold food harm you during your period?",
@@ -517,8 +713,12 @@
       "normal menstruation",
       "healthy",
       "not a disease",
-      "medical condition"
-    ]
+      "medical condition",
+      "is period a disease",
+      "is menstruation normal"
+    ],
+    "category": "General",
+    "is_direct": true
   },
   {
     "question": "Do girls become \"impure\" during menstruation?",
@@ -544,8 +744,13 @@
       "fertility",
       "pregnancy risk",
       "irregular cycle",
-      "ovulation"
-    ]
+      "ovulation",
+      "can i get pregnant on my period",
+      "pregnancy during period",
+      "sex during period pregnancy"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What is the status of menstrual hygiene in India?",
@@ -713,8 +918,13 @@
       "late period",
       "anxiety and menstruation",
       "emotional stress",
-      "cycle change"
-    ]
+      "cycle change",
+      "can stress delay period",
+      "stress late period",
+      "period delayed stress"
+    ],
+    "category": "Health",
+    "is_direct": true
   },
   {
     "question": "What foods are good to eat during menstruation?",
@@ -729,8 +939,13 @@
       "spinach",
       "lentils",
       "period diet",
-      "nutrition"
-    ]
+      "nutrition",
+      "what to eat during period",
+      "best food period",
+      "food during period"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
   },
   {
     "question": "What is the difference between sanitary napkins and tampons?",
@@ -1476,15 +1691,6 @@
     ]
   },
   {
-    "question": "[clean version of what they asked]",
-    "answer": "[complete standalone answer \u2014 no redirect needed]\n\n[short tailored disclaimer]\n================================================================\n\n\n================================================================\nNUTRITION \u2014 DIRECT ANSWERS\n================================================================\n\n---\nTRIGGER: what to eat during period, food during period, period diet, what should i eat, best food period\nCATEGORY: Nutrition\nQUESTION: What should I eat during my period?\n\nDIRECT ANSWER:\nDuring your period, your body needs specific nutrients to replace what is lost through blood and to reduce pain and fatigue. Here is exactly what to eat:\n\n\ud83d\udfe2 EAT MORE OF THESE:\n\nIRON-RICH FOODS (replace blood loss):\n\u2022 Spinach (palak), moringa (drumstick leaves), methi (fenugreek)\n\u2022 Rajma, chana, masoor dal, moong dal\n\u2022 Jaggery (gur) \u2014 excellent iron source\n\u2022 Sesame seeds (til) \u2014 one of the richest sources\n\u2022 Eggs and fish (if non-vegetarian)\n\nCALCIUM-RICH FOODS (reduce cramps):\n\u2022 Curd (dahi), milk, paneer, buttermilk\n\u2022 Ragi (finger millet) \u2014 highest plant calcium source\n\u2022 Til (sesame seeds)\n\nMAGNESIUM-RICH FOODS (relax uterine muscles, reduce cramps):\n\u2022 Banana, dark chocolate (70%+ cocoa), cashews, almonds\n\u2022 Rajma, chana, brown rice, leafy greens\n\nANTI-INFLAMMATORY FOODS (reduce pain):\n\u2022 Ginger \u2014 in tea or cooking (reduces prostaglandins that cause cramps)\n\u2022 Haldi (turmeric) \u2014 in warm milk or dal\n\u2022 Omega-3 rich foods: flaxseeds (alsi), walnuts, fish\n\nWARM FLUIDS (soothe cramps and hydration):\n\u2022 Warm water (most effective for cramp relief)\n\u2022 Ginger tea \u2014 anti-cramping, reduces nausea\n\u2022 Turmeric milk (haldi doodh) \u2014 anti-inflammatory\n\u2022 Chamomile tea \u2014 relaxes uterine muscles\n\u2022 Coconut water \u2014 restores electrolytes\n\n\ud83d\udd34 AVOID OR REDUCE:\n\u2022 Excess salt/salty snacks (chips, pickles) \u2014 causes bloating\n\u2022 Caffeine (chai, coffee, cola) \u2014 worsens cramps and anxiety\n\u2022 Refined sugar, sweets, mithai \u2014 crashes mood, worsens cramps\n\u2022 Fried and greasy food \u2014 increases inflammation and nausea\n\u2022 Cold carbonated drinks \u2014 worsens bloating\n\n\ud83d\udca1 QUICK DAILY PLAN:\nMorning: Ginger tea + banana + ragi porridge or oats\nLunch: Dal chawal with lemon + palak sabzi or methi sabzi\nEvening: Til-gur chikki or dates + warm turmeric milk\nDinner: Light dal, sabzi, whole wheat roti\n\nDISCLAIMER: \ud83d\udca1 This is general nutritional guidance. If you have PCOS, anemia, or any diagnosed condition, consult your nearest gynecologist or dietitian for a personalized diet plan.",
-    "keywords": [
-      "[exact words / phrases users type]"
-    ],
-    "category": "[General / Hygiene / Health / Nutrition / Emotional]",
-    "is_direct": true
-  },
-  {
     "question": "What foods should I avoid during my period?",
     "answer": "These foods are known to make period symptoms WORSE \u2014 try to limit or avoid them, especially on the first 1\u20133 days:\n\n\ud83d\udd34 AVOID THESE:\n\n1. EXCESS SALT (chips, namkeen, pickles, papad, processed food)\nWHY: Salt causes your body to retain water \u2192 bloating, swelling, and puffiness worsen significantly. Your abdomen already feels heavy \u2014 salt makes it worse.\n\n2. CAFFEINE (chai, coffee, cola, energy drinks)\nWHY: Caffeine increases anxiety and irritability (already worse during PMS), worsens cramps by constricting blood vessels, causes dehydration, disrupts sleep, and makes breast tenderness worse.\n\n3. REFINED SUGAR (sweets, mithai, biscuits, maida products)\nWHY: Sugar causes blood glucose spikes and crashes \u2192 worsens mood swings, irritability, and fatigue. Also increases inflammation \u2014 raising prostaglandins that cause cramps.\n\n4. FRIED AND GREASY FOOD (samosa, pakoda, puri, fast food)\nWHY: Increases arachidonic acid \u2192 more prostaglandins \u2192 stronger cramps. Also causes nausea and digestive discomfort that is already worse during periods.\n\n5. RED MEAT IN LARGE AMOUNTS\nWHY: High in arachidonic acid which directly increases prostaglandin production.\n\n6. COLD CARBONATED DRINKS (cold cola, soda water, packaged juices)\nWHY: The carbonation worsens bloating. Cold temperature can worsen digestive discomfort during periods.\n\n7. ALCOHOL\nWHY: Dehydrates the body, disrupts hormone balance, worsens bloating and cramps, lowers pain tolerance.\n\n\u2705 BETTER ALTERNATIVES:\n\u2022 Instead of salty snacks \u2192 roasted makhana, unsalted nuts\n\u2022 Instead of chai/coffee \u2192 ginger tea, chamomile tea\n\u2022 Instead of sweets \u2192 jaggery, dates, dark chocolate\n\u2022 Instead of fried food \u2192 warm dal, khichdi, steamed veggies\n\n\ud83d\udca1 These are general guidelines. Your body is individual \u2014 if you notice specific foods make your symptoms worse, trust that signal and adjust accordingly.",
     "keywords": [
@@ -1716,5 +1922,1597 @@
     ],
     "category": "Health",
     "is_direct": true
+  },
+  {
+    "question": "I feel nauseous or want to vomit during my period. Is this normal?",
+    "answer": "Yes \u2014 nausea during menstruation is very common and has a clear biological cause.\n\n\ud83d\udd2c WHY IT HAPPENS:\nWhen the uterus sheds its lining, it releases chemicals called prostaglandins. These cause the uterine muscle to contract (cramps). But prostaglandins also enter your bloodstream and can affect the digestive system, causing:\n\u2022 Nausea\n\u2022 Vomiting (in severe cases)\n\u2022 Diarrhea\n\u2022 Stomach cramping\n\nThis affects up to 20\u201330% of menstruating people.\n\n\u2705 WHAT HELPS:\n\u2022 Eat small, light meals on the first 1\u20132 days\n\u2022 Ginger tea or ginger candy \u2014 clinically proven to reduce nausea\n\u2022 Peppermint tea\n\u2022 Ibuprofen/naproxen \u2014 reduces prostaglandins, reducing nausea at the source\n\u2022 Avoid greasy, heavy, or fried foods on heavy days\n\u2022 Stay hydrated with warm fluids\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Vomiting is severe or you cannot keep fluids down\n\u2022 Nausea worsens every cycle\n\u2022 You have severe cramps that don't respond to ibuprofen (could suggest endometriosis)\n\n\ud83d\udca1 Nausea during periods is real and caused by prostaglandins \u2014 not in your head. If it significantly disrupts your life, a gynecologist can help.",
+    "keywords": [
+      "nausea during period",
+      "vomiting during period",
+      "feel sick on period",
+      "stomach pain period nausea",
+      "nausea menstruation",
+      "period nausea",
+      "feeling sick period",
+      "why nauseous on period",
+      "want to vomit during period",
+      "diarrhea during period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do I get back pain during my period?",
+    "answer": "Lower back pain during menstruation is extremely common \u2014 affecting up to 60% of people who menstruate.\n\n\ud83d\udd2c WHY IT HAPPENS:\n1. Prostaglandins cause uterine muscle contractions AND lower back muscle spasms\n2. The uterus is located in the pelvis, very close to the lower back \u2014 pain radiates\n3. Referred pain \u2014 uterine pain is 'referred' to the back through shared nerve pathways\n4. Endometriosis or PID can cause more severe back pain \u2014 especially if pain starts before the period and continues after\n\n\u2705 WHAT HELPS:\n\u2022 Heat \u2014 apply a hot water bottle to the lower back AND lower abdomen simultaneously\n\u2022 Ibuprofen/naproxen \u2014 reduces prostaglandins (the root cause)\n\u2022 Gentle stretching \u2014 child's pose, cat-cow pose, gentle lumbar twists\n\u2022 Warm bath or shower\n\u2022 Light walking \u2014 increases circulation, releases endorphins\n\u2022 Gentle lower back massage\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Back pain is severe and doesn't respond to ibuprofen\n\u2022 Pain starts days before the period and continues long after\n\u2022 Pain is worsening cycle by cycle\n\u2022 Pain shoots down the legs\n\n\ud83d\udca1 Period back pain is the same mechanism as period cramps \u2014 both caused by prostaglandins. Managing cramps usually manages back pain too.",
+    "keywords": [
+      "back pain during period",
+      "lower back pain period",
+      "period back ache",
+      "why back pain during period",
+      "back cramps period",
+      "period and back pain",
+      "waist pain period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do I get headaches or migraines during my period?",
+    "answer": "Menstrual headaches and migraines are very common and have a clear hormonal cause.\n\n\ud83d\udd2c WHY IT HAPPENS:\nJust before your period, estrogen levels drop sharply. This estrogen drop is a well-established trigger for headaches and migraines. This is called a 'menstrual migraine' \u2014 a recognized medical diagnosis.\n\nMenstrual migraines tend to:\n\u2022 Start 1\u20132 days before the period or on the first 2 days\n\u2022 Be more severe and longer-lasting than non-menstrual migraines\n\u2022 Affect about 50\u201360% of women who get migraines\n\n\u2705 WHAT HELPS:\n\u2022 NSAIDs (ibuprofen/naproxen) \u2014 start 1 day before expected period if you can predict it\n\u2022 Stay hydrated \u2014 dehydration worsens menstrual headaches significantly\n\u2022 Maintain regular sleep \u2014 sleep disruption + hormonal changes is a powerful migraine trigger\n\u2022 Avoid skipping meals\n\u2022 Magnesium (200\u2013400 mg/day) \u2014 clinically proven to reduce menstrual migraine frequency\n\u2022 Cold compress on the forehead or back of neck during a migraine\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Migraines are severe, frequent, or disabling\n\u2022 Over-the-counter pain relief does not work\n\u2022 You experience visual changes, numbness, weakness, or speech problems \u2014 urgent evaluation needed\n\n\ud83d\udca1 Menstrual migraine is real, recognized, and treatable. Track your cycle alongside headaches for 2\u20133 months to confirm the pattern.",
+    "keywords": [
+      "headache during period",
+      "migraine during period",
+      "menstrual migraine",
+      "headache before period",
+      "period headache",
+      "why headache on period",
+      "hormonal migraine",
+      "head pain period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do I feel bloated during my period?",
+    "answer": "Bloating before and during menstruation is extremely common \u2014 affecting up to 85% of menstruating people.\n\n\ud83d\udd2c WHY IT HAPPENS:\n1. Hormonal changes \u2014 before the period, estrogen causes the body to retain water and sodium (water retention), making you feel swollen and heavy\n2. Prostaglandins \u2014 affect the gut, slowing digestion and causing gas\n3. Bowel changes \u2014 constipation OR diarrhea during menstruation can cause bloating\n4. Increased gut sensitivity \u2014 hormones make the gut more reactive\n\n\u2705 WHAT HELPS:\n\u2022 Reduce salt intake in the 5\u20137 days before your period \u2014 salt causes water retention\n\u2022 Reduce caffeine and carbonated drinks\n\u2022 Exercise \u2014 even 15\u201320 minutes of walking helps\n\u2022 Warm ginger or peppermint tea \u2014 natural antispasmodics\n\u2022 Avoid cruciferous vegetables (broccoli, cabbage) in the days before your period if sensitive\n\u2022 Eat small, frequent meals\n\u2022 Magnesium (200\u2013400 mg/day) \u2014 reduces water retention in the luteal phase\n\n\ud83d\udca1 Period bloating is caused by water retention + gut changes from hormones. It usually resolves within 1\u20132 days of your period starting.",
+    "keywords": [
+      "bloating during period",
+      "period bloating",
+      "feel bloated period",
+      "swollen stomach period",
+      "water retention period",
+      "why bloating period",
+      "stomach bloated menstruation",
+      "gas during period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do my breasts hurt before my period?",
+    "answer": "Breast tenderness (medically called mastalgia or cyclical breast pain) before a period is extremely common \u2014 affecting up to 70% of menstruating people.\n\n\ud83d\udd2c WHY IT HAPPENS:\nIn the second half of the menstrual cycle (luteal phase), progesterone levels rise significantly. Progesterone stimulates breast tissue to swell slightly, causing:\n\u2022 Breast swelling and heaviness\n\u2022 Tenderness or soreness, especially on the outer areas and nipples\n\u2022 Sometimes a lumpy feeling (normal in cyclical breast changes)\n\nThe tenderness usually peaks in the 3\u20135 days before the period and resolves within 1\u20132 days of it starting.\n\n\u2705 WHAT HELPS:\n\u2022 Wear a well-fitting, supportive bra \u2014 especially at night\n\u2022 Reduce caffeine (tea, coffee, chocolate) \u2014 worsens breast tenderness\n\u2022 Reduce salt \u2014 reduces water retention\n\u2022 Evening primrose oil supplement \u2014 some evidence for cyclical mastalgia\n\u2022 NSAIDs (ibuprofen) for severe pain\n\u2022 Cold compress on breasts if very sore\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 You feel a lump that does NOT disappear after your period ends\n\u2022 Pain is constant \u2014 not linked to period timing\n\u2022 One breast is significantly more affected\n\u2022 Skin over the breast is red, warm, or dimpled\n\n\ud83d\udca1 Cyclical breast pain caused by progesterone is normal. Persistent lumps need medical evaluation.",
+    "keywords": [
+      "breast pain before period",
+      "breast tenderness period",
+      "sore breasts period",
+      "why do my breasts hurt",
+      "mastalgia",
+      "breast swelling menstruation",
+      "tender breasts before period",
+      "breast pain menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "I have a yeast infection. What is it and what should I do?",
+    "answer": "A vaginal yeast infection (vulvovaginal candidiasis) is one of the most common vaginal infections \u2014 affecting 75% of women at least once in their lifetime.\n\n\u26a0\ufe0f SYMPTOMS:\n\u2022 Thick, white, cottage-cheese-like discharge (no foul smell)\n\u2022 Intense itching and burning around the vaginal opening and vulva\n\u2022 Redness and swelling of the vulva\n\u2022 Burning during urination (from urine touching irritated skin)\n\n\ud83d\udd34 COMMON TRIGGERS:\n\u2022 Antibiotics \u2014 kill beneficial bacteria, allowing Candida to overgrow\n\u2022 High sugar diet or uncontrolled diabetes\n\u2022 Hormonal changes (pregnancy, before period)\n\u2022 Wearing tight, synthetic underwear\n\u2022 Using scented products or douching\n\n\ud83d\udc8a TREATMENT:\n\u2022 Antifungal creams or suppositories: clotrimazole (Candid-V), miconazole \u2014 available over the counter\n\u2022 Oral antifungal: fluconazole 150 mg single dose \u2014 very effective (prescription in India)\n\u2022 Do NOT self-treat repeatedly \u2014 if recurring, see a doctor\n\n\u2705 PREVENTION:\n\u2022 Wear breathable cotton underwear\n\u2022 Avoid scented soaps inside/around vagina\n\u2022 When on antibiotics, eat curd/yogurt to replenish good bacteria\n\u2022 Keep blood sugar controlled if diabetic\n\n\ud83d\udca1 KEY DIFFERENCE from bacterial vaginosis: Yeast = thick white discharge + intense itching, no fishy smell. BV = thin grey discharge + fishy smell, NO itching. They need different treatments.",
+    "keywords": [
+      "yeast infection",
+      "candida",
+      "candidiasis",
+      "vaginal itching",
+      "itching vagina",
+      "white discharge itching",
+      "cottage cheese discharge",
+      "fungal infection vagina",
+      "clotrimazole vaginal",
+      "candid cream"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is a UTI and can menstruation cause it?",
+    "answer": "A UTI (Urinary Tract Infection) is an infection of the urinary system \u2014 most commonly the bladder. UTIs are very common in women and girls, and menstruation can increase the risk.\n\n\u26a0\ufe0f SYMPTOMS:\n\u2022 Burning or pain during urination\n\u2022 Frequent urge to urinate but passing very little urine\n\u2022 Cloudy, dark, or strong-smelling urine\n\u2022 Lower abdominal pain or pelvic pressure\n\u2022 Blood in urine (in some cases)\n\u2022 Fever \u2014 suggests infection has reached the kidneys (more serious)\n\n\ud83d\udd2c WHY PERIODS INCREASE UTI RISK:\n\u2022 Blood near the urethra can introduce bacteria\n\u2022 Not wiping front-to-back\n\u2022 Dehydration during periods\n\u2022 Tampons can sometimes introduce bacteria near the urethral opening\n\n\ud83d\udc8a TREATMENT:\n\u2022 UTIs require antibiotics \u2014 they do NOT go away on their own\n\u2022 See a doctor for a urine test (urinalysis) and appropriate antibiotic\n\u2022 Drinking extra water helps flush bacteria but does NOT replace antibiotics\n\u2022 Do NOT delay \u2014 untreated UTI can spread to kidneys\n\n\u2705 PREVENTION:\n\u2022 Always wipe front to back\n\u2022 Drink plenty of water\n\u2022 Change pads/tampons regularly\n\u2022 Urinate after sex\n\n\ud83d\udca1 Distinguish UTI (burning urination, frequent urination) from yeast infection (itching, cottage-cheese discharge). They need completely different treatments.",
+    "keywords": [
+      "UTI",
+      "urinary tract infection",
+      "burning urination",
+      "pain urination period",
+      "frequent urination",
+      "UTI and period",
+      "bladder infection",
+      "blood in urine",
+      "pee pain period",
+      "urinary infection menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do I get diarrhea during my period?",
+    "answer": "Period diarrhea affects up to 28% of people who menstruate and has a clear biological cause.\n\n\ud83d\udd2c WHY IT HAPPENS:\nThe same prostaglandins that cause uterine cramps also stimulate the intestines to contract more rapidly, causing:\n\u2022 Loose or urgent stools\n\u2022 Stomach cramping\n\u2022 Nausea\n\u2022 Gas and bloating\n\nPeople who produce higher levels of prostaglandins (who also tend to have worse cramps) are more affected.\n\n\u2705 WHAT HELPS:\n\u2022 Ibuprofen/naproxen \u2014 directly blocks prostaglandin production, reducing BOTH uterine cramps AND bowel symptoms\n\u2022 BRAT diet on bad days: Bananas, Rice, Applesauce, Toast \u2014 easy on the stomach\n\u2022 Avoid caffeine, dairy, and fatty/fried foods on the first 1\u20132 days\n\u2022 Stay hydrated \u2014 diarrhea causes fluid loss\n\u2022 Probiotics (curd/yogurt) \u2014 support gut health\n\u2022 Peppermint tea \u2014 antispasmodic, reduces gut cramping\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Diarrhea is severe or debilitating every cycle\n\u2022 You have blood in the stool\n\u2022 Symptoms are getting worse over time (may suggest endometriosis affecting the bowel)\n\n\ud83d\udca1 Period diarrhea and cramps often respond to the same treatment \u2014 ibuprofen taken early. Starting it the day before your expected period can prevent both.",
+    "keywords": [
+      "diarrhea during period",
+      "loose motions period",
+      "stomach upset period",
+      "bowel changes period",
+      "period diarrhea",
+      "loose motions during period",
+      "stomach cramps diarrhea period",
+      "digestive problems period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "I see blood clots in my period. Is that normal?",
+    "answer": "Seeing some blood clots in your menstrual blood is common and often normal \u2014 but the size matters.\n\n\u2705 NORMAL CLOTS:\n\u2022 Small clots (smaller than a 50-rupee coin / 2.5 cm) are normal\n\u2022 Most common on the heaviest days (usually day 1\u20132)\n\u2022 Clots form when blood pools in the uterus before being expelled\n\u2022 Red or dark red/maroon color is normal\n\n\u26a0\ufe0f SEE A DOCTOR WHEN:\n\u2022 Clots are larger than a 50-rupee coin\n\u2022 Passing large clots every cycle\n\u2022 Clots with very heavy flow \u2014 soaking a pad every 1\u20132 hours\n\u2022 Feeling dizzy, faint, or extremely tired (signs of anemia)\n\u2022 Clots accompanied by severe pain\n\n\ud83d\udd0d COMMON CAUSES OF LARGE CLOTS:\n\u2022 Uterine fibroids\n\u2022 Uterine polyps\n\u2022 Hormonal imbalance (excess estrogen)\n\u2022 Thyroid disorder (hypothyroidism)\n\u2022 PCOS\n\u2022 Adenomyosis\n\n\ud83d\udca1 Small clots on heavy days = normal. Large clots (coin-sized or bigger) + heavy flow = see a gynecologist.",
+    "keywords": [
+      "blood clots period",
+      "clots in period",
+      "period clots normal",
+      "chunks in period blood",
+      "dark clots period",
+      "is clotting normal during period",
+      "thick clots menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why is my period blood brown? Is brown discharge normal?",
+    "answer": "Brown discharge or brown period blood is almost always normal and harmless.\n\n\ud83d\udd2c WHY PERIOD BLOOD TURNS BROWN:\nBlood turns brown when it oxidizes (reacts with oxygen over time). Brown = older blood that took longer to exit. This happens:\n\u2022 At the START of your period \u2014 the last bit of blood from the previous cycle exits first and has had time to oxidize\n\u2022 At the END of your period \u2014 as flow slows, remaining blood sits longer and turns brown\n\u2022 Between periods \u2014 light spotting that oxidizes before coming out\n\n\u2705 NORMAL BROWN DISCHARGE:\n\u2022 Brown or dark red at the very beginning or very end of your period\n\u2022 Light brown spotting around ovulation (mid-cycle)\n\u2022 Brown discharge just before your period starts\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Brown discharge continues throughout the entire period\n\u2022 Heavy or persistent brown discharge between periods\n\u2022 Brown discharge with a strong, unpleasant smell\n\u2022 Brown discharge with itching, burning, or pelvic pain\n\u2022 Brown discharge after sex\n\n\ud83d\udca1 Brown = old blood = normal. The key warning sign is if brown discharge comes with odor, pain, or itching.",
+    "keywords": [
+      "brown period blood",
+      "brown discharge",
+      "why is my period brown",
+      "dark brown blood period",
+      "brown discharge normal",
+      "brown period start",
+      "brown discharge period end",
+      "why dark period blood"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is PMS and what are its symptoms?",
+    "answer": "PMS (Premenstrual Syndrome) is a group of physical and emotional symptoms that occur in the 1\u20132 weeks before your period and go away once the period begins.\n\n\ud83d\udccb COMMON PMS SYMPTOMS:\n\nPHYSICAL:\n\u2022 Bloating and water retention\n\u2022 Breast tenderness or swelling\n\u2022 Headaches\n\u2022 Fatigue and low energy\n\u2022 Food cravings (especially sweet or salty)\n\u2022 Acne flare-up\n\u2022 Constipation or diarrhea\n\u2022 Sleep disturbance\n\nEMOTIONAL / MOOD:\n\u2022 Mood swings \u2014 rapid changes from happy to sad\n\u2022 Irritability and frustration\n\u2022 Anxiety or feeling on edge\n\u2022 Sadness or tearfulness without clear reason\n\u2022 Difficulty concentrating\n\u2022 Feeling overwhelmed\n\n\ud83d\udcca HOW COMMON:\n\u2022 Up to 75% of menstruating people experience some PMS\n\u2022 About 20\u201332% have moderate to severe symptoms affecting daily life\n\n\u2705 WHAT HELPS:\n\u2022 Exercise \u2014 most consistent evidence for mood improvement\n\u2022 Sleep 7\u20139 hours\n\u2022 Reduce caffeine, alcohol, salt, sugar in the week before period\n\u2022 Magnesium (200\u2013400 mg/day) \u2014 reduces bloating and mood symptoms\n\u2022 Vitamin B6 (50 mg/day in luteal phase) \u2014 supports serotonin\n\u2022 Calcium (1200 mg/day) \u2014 reduces overall PMS severity\n\u2022 Tracking symptoms to predict and prepare\n\n\u26a0\ufe0f WHEN TO SEEK HELP:\nIf symptoms are severe enough to disrupt daily life, relationships, or school \u2014 this may be PMDD (Premenstrual Dysphoric Disorder) requiring medical treatment.",
+    "keywords": [
+      "PMS",
+      "premenstrual syndrome",
+      "PMS symptoms",
+      "mood swings before period",
+      "emotional before period",
+      "bloating before period",
+      "irritable before period",
+      "what is PMS",
+      "symptoms before period",
+      "premenstrual mood"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What happens during puberty for girls?",
+    "answer": "Puberty is the process of physical development that transforms a girl's body into an adult capable of reproduction. It is completely normal and healthy.\n\n\ud83d\udccb TYPICAL ORDER OF PUBERTY CHANGES IN GIRLS:\n\n1. BREAST DEVELOPMENT (usually first \u2014 age 8\u201313)\n   Starts as small 'breast buds' under the nipple. Takes 2\u20135 years to fully develop. One breast may develop faster \u2014 this is normal.\n\n2. PUBIC AND UNDERARM HAIR (age 9\u201313)\n   Fine hair appears in the pubic area and armpits, gradually becoming darker and coarser.\n\n3. GROWTH SPURT (age 10\u201314)\n   Height increases rapidly. Hips widen; body shape changes.\n\n4. VAGINAL DISCHARGE (age 9\u201312, before first period)\n   White or clear discharge \u2014 completely normal. The vagina's natural self-cleaning mechanism. Periods usually start 6\u201312 months after discharge appears.\n\n5. FIRST PERIOD / MENARCHE (age 11\u201314, average 12\u201313)\n   Usually occurs 2\u20133 years after breast development begins. First few periods may be irregular \u2014 normal.\n\n6. SKIN CHANGES\n   Oil glands become more active \u2014 acne may appear. Sweating increases.\n\n\ud83d\udcca TIMING:\n\u2022 Puberty starts anytime between age 8 and 13 \u2014 this is the normal range\n\u2022 Starting before 8 or after 13 should be checked by a doctor\n\n\ud83d\udca1 All these changes are normal and healthy. Every girl goes through them at slightly different times.",
+    "keywords": [
+      "puberty girls",
+      "what is puberty",
+      "puberty changes",
+      "breast development",
+      "first period puberty",
+      "girl puberty body changes",
+      "when does puberty start",
+      "puberty age girl",
+      "body changes adolescence",
+      "girl growing up changes"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "How do I use a menstrual cup? Is it safe?",
+    "answer": "Yes \u2014 menstrual cups are completely safe and recommended by gynecologists worldwide. Here is a complete guide:\n\n\ud83d\udd2c WHAT IS IT:\nA small, flexible cup (medical-grade silicone or rubber) inserted into the vagina to COLLECT (not absorb) menstrual blood.\n\n\u2705 ADVANTAGES:\n\u2022 Lasts 8\u201312 hours (much longer than pads/tampons)\n\u2022 Reusable for up to 10 years \u2014 saves money and reduces waste\n\u2022 No TSS risk (unlike tampons)\n\u2022 Can be worn during exercise and swimming\n\n\ud83d\udccb HOW TO USE:\n\nBEFORE FIRST USE: Boil for 5\u20137 minutes to sterilize. Wash hands thoroughly.\n\nINSERTION:\n1. Fold the cup (C-fold: fold in half)\n2. Relax pelvic muscles\n3. Insert folded cup at a slight angle toward the tailbone\n4. Release the fold \u2014 the cup opens and creates a suction seal\n5. Run a finger around the base to confirm it has fully opened\n\nREMOVAL:\n1. Wash hands\n2. Pinch the BASE of the cup to break the suction seal \u2014 never pull by the stem alone\n3. Gently rock side to side while pulling downward\n4. Empty into toilet, rinse with clean water, reinsert\n\nEND OF PERIOD: Wash with mild soap, boil 5\u20137 minutes, store in cloth bag (NOT airtight container)\n\n\u26a0\ufe0f COMMON CONCERNS:\n\u2022 'Will it get stuck?' \u2014 No. The vagina has a natural end at the cervix.\n\u2022 Leaking = cup not fully open or wrong size. Practice makes perfect.\n\n\ud83d\udca1 Most users need 2\u20133 cycles to get comfortable. Worth the learning curve.",
+    "keywords": [
+      "how to use menstrual cup",
+      "menstrual cup",
+      "cup insertion",
+      "cup safe",
+      "silicone cup period",
+      "menstrual cup India",
+      "how to insert menstrual cup",
+      "cup vs pad",
+      "reusable period product",
+      "period cup guide"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
+  },
+  {
+    "question": "Why does my period cause acne and skin breakouts?",
+    "answer": "Period-related acne affects up to 65% of menstruating people and has a clear hormonal cause.\n\n\ud83d\udd2c WHY IT HAPPENS:\nIn the week before your period, estrogen falls while progesterone and androgens remain relatively higher. This causes:\n1. Sebaceous glands (oil glands) to produce more sebum\n2. More oil = pores clog with dead skin cells\n3. Clogged pores become blackheads, whiteheads, or inflamed pimples\n4. Acne typically appears along the jawline, chin, and lower cheeks (androgen-sensitive areas)\n\nIn PCOS, androgen levels are chronically elevated, causing persistent, severe acne \u2014 especially on the jawline and back.\n\n\u2705 WHAT HELPS:\n\u2022 Keep face clean \u2014 wash 2\u00d7 daily with a gentle, non-comedogenic cleanser\n\u2022 Do NOT touch or pick pimples\n\u2022 Salicylic acid cleanser or spot treatment \u2014 helps unclog pores\n\u2022 Benzoyl peroxide spot treatment \u2014 kills acne bacteria\n\u2022 Non-comedogenic moisturizer\n\u2022 Stay hydrated; reduce dairy and high-glycemic foods\n\nFOR SEVERE ACNE: See a dermatologist \u2014 the combined oral contraceptive pill is very effective for hormonal acne.\n\n\ud83d\udca1 Period acne is hormonal and predictable. A consistent skincare routine helps prevent it.",
+    "keywords": [
+      "period acne",
+      "pimples before period",
+      "skin breakout period",
+      "acne during period",
+      "hormonal acne",
+      "jawline acne period",
+      "why pimples before period",
+      "period skin breakout",
+      "face breakout menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How does the thyroid gland affect menstruation?",
+    "answer": "The thyroid gland plays a crucial role in regulating the menstrual cycle. Thyroid problems are very common in Indian women and one of the most frequently missed causes of irregular periods.\n\nHYPOTHYROIDISM (underactive thyroid):\n\u2022 Heavy, prolonged periods\n\u2022 Frequent periods\n\u2022 Irregular or absent periods\n\u2022 Associated symptoms: weight gain, fatigue, feeling cold, hair loss, dry skin\n\nHYPERTHYROIDISM (overactive thyroid):\n\u2022 Light, infrequent, or absent periods\n\u2022 Associated symptoms: weight loss, rapid heart rate, anxiety, heat intolerance\n\n\ud83d\udcca HOW COMMON:\n\u2022 Thyroid disorders affect 1 in 10 Indian women\n\u2022 A simple TSH blood test diagnoses this\n\n\ud83d\udc8a TREATMENT:\n\u2022 Hypothyroidism: daily thyroxine (levothyroxine) \u2014 periods usually normalize within 2\u20133 months\n\u2022 Hyperthyroidism: anti-thyroid medications\n\n\u26a0\ufe0f If you have irregular periods along with extreme fatigue, weight changes, hair loss, or feeling cold/hot all the time \u2014 ask your doctor specifically for a TSH test.\n\n\ud83d\udca1 Thyroid problems are extremely common in India and easily treated. Do not overlook them as a cause of irregular periods.",
+    "keywords": [
+      "thyroid and period",
+      "thyroid irregular period",
+      "hypothyroidism menstruation",
+      "hyperthyroidism period",
+      "thyroid affects period",
+      "TSH test periods",
+      "thyroid heavy period",
+      "thyroid missed period",
+      "thyroid and menstrual cycle"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can I take painkillers for period pain? Which medicine is best?",
+    "answer": "Yes \u2014 taking pain relief medicine for period cramps is safe, effective, and recommended by gynecologists.\n\n\ud83d\udc8a BEST MEDICINES FOR PERIOD PAIN:\n\n1. IBUPROFEN (Brufen, Combiflam) \u2014 BEST CHOICE\n   Dose: 400\u2013600 mg every 6\u20138 hours with food\n   Why: Ibuprofen is an NSAID that directly blocks prostaglandin production \u2014 the root cause of cramps, nausea, diarrhea, and back pain during periods.\n   Works BEST when taken at the FIRST sign of cramps \u2014 not after pain is severe.\n\n2. MEFENAMIC ACID (Meftal-Spas, Ponstan) / NAPROXEN\n   Also block prostaglandins. Mefenamic acid is very commonly prescribed in India for period pain.\n\n3. PARACETAMOL (Crocin)\n   Less effective for period cramps \u2014 does NOT block prostaglandins. Use only if you cannot take NSAIDs.\n\n\u26a0\ufe0f IMPORTANT TIPS:\n\u2022 Take with food \u2014 prevents stomach irritation\n\u2022 Do NOT take NSAIDs on an empty stomach\n\u2022 Start BEFORE cramps become severe \u2014 early use gives much better relief\n\u2022 You can start 1 day before your expected period\n\u2022 Avoid NSAIDs if you have stomach ulcers or kidney disease\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Medicine does not provide adequate relief\n\u2022 You need painkillers every cycle for more than 3 days\n\u2022 Pain is worsening over time\n\n\ud83d\udca1 Ibuprofen attacks the root cause of period pain. Take it early, with food, for best results.",
+    "keywords": [
+      "painkiller period",
+      "medicine for period pain",
+      "ibuprofen period",
+      "mefenamic acid period",
+      "meftal spas",
+      "best medicine period cramps",
+      "period pain tablet India",
+      "paracetamol for period",
+      "brufen period pain",
+      "pain relief menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Is it normal to miss a period? When should I worry?",
+    "answer": "Missing a period can be normal in some circumstances, but certain situations need medical attention.\n\n\u2705 WHEN A MISSED PERIOD IS NORMAL:\n\u2022 In the first 1\u20133 years after menarche \u2014 hormonal system is still maturing\n\u2022 During intense physical or emotional stress\n\u2022 Immediately after stopping hormonal contraception \u2014 cycles take 1\u20133 months to regularize\n\u2022 During pregnancy (most common cause)\n\u2022 During breastfeeding\n\u2022 Approaching menopause (perimenopause)\n\n\u26a0\ufe0f WHEN TO SEE A DOCTOR:\n\u2022 3 or more consecutive missed periods (not pregnant)\n\u2022 Periods have been regular for years and suddenly stop\n\u2022 You are 15 years old and have not had your first period yet\n\u2022 Missing periods plus: acne, excess facial hair, weight gain \u2192 PCOS screening\n\u2022 Missing periods plus: extreme fatigue, feeling cold, hair loss \u2192 thyroid screening\n\u2022 Missing periods plus: significant weight loss or excessive exercise\n\n\ud83d\udd0d FIRST STEPS:\n1. Take a home pregnancy test \u2014 accurate from the day of the missed period\n2. See a doctor for blood tests: TSH (thyroid), FSH, LH, prolactin, testosterone\n\n\ud83d\udca1 One missed period after a stressful month = usually fine. Three or more missed periods = see a doctor for blood tests.",
+    "keywords": [
+      "missed period",
+      "skipped period",
+      "no period this month",
+      "period did not come",
+      "when to worry missed period",
+      "period skipped",
+      "period not arrived",
+      "should i worry missed period",
+      "period missing what to do"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is the difference between PMS and PMDD?",
+    "answer": "PMS and PMDD are both real conditions \u2014 but PMDD is significantly more severe and requires medical treatment.\n\nPMS (affects ~75% of menstruating people):\n\u2022 Mood symptoms are noticeable but manageable\n\u2022 Bloating, breast tenderness, headaches, mild irritability, sadness\n\u2022 Does NOT prevent normal functioning\n\u2022 Usually manageable with lifestyle changes alone\n\nPMDD (affects 3\u20138%; DSM-5 recognized medical diagnosis):\n\u2022 Symptoms are SEVERE \u2014 disrupt school, relationships, daily life\n\u2022 Key symptoms: severe depression, hopelessness, rage/anger out of control, severe anxiety or panic attacks\n\u2022 Symptoms appear ONLY in the 1\u20132 weeks before the period and dramatically improve within 1\u20133 days of the period starting \u2014 this cyclical pattern is the diagnostic hallmark\n\n\ud83d\udd0d HOW TO TELL THE DIFFERENCE:\nTrack mood daily for 2\u20133 months (rate 1\u201310). If severe mood symptoms consistently appear in days 15\u201328 of your cycle and dramatically improve when your period starts \u2014 this is PMDD.\n\n\ud83d\udc8a TREATMENT FOR PMDD:\n\u2022 SSRIs (fluoxetine, sertraline) \u2014 can be taken ONLY in the luteal phase. Response rate: 60\u201370%\n\u2022 Combined oral contraceptive pill\n\u2022 CBT (Cognitive Behavioral Therapy)\n\n\u26a0\ufe0f IF YOU HAVE THOUGHTS OF SELF-HARM before your period:\n\u2022 iCall (TISS): 9152987821\n\u2022 Vandrevala Foundation: 1860-2662-345 (24/7, free)\n\u2022 PMDD is treatable. You deserve care.\n\n\ud83d\udca1 PMDD is not 'just bad PMS' \u2014 it is a diagnosable, treatable medical condition.",
+    "keywords": [
+      "PMDD",
+      "PMS vs PMDD",
+      "premenstrual dysphoric disorder",
+      "severe PMS",
+      "difference PMS PMDD",
+      "depression before period severe",
+      "rage before period",
+      "what is PMDD symptoms"
+    ],
+    "category": "Emotional",
+    "is_direct": true
+  },
+  {
+    "question": "How do I track my menstrual cycle?",
+    "answer": "Tracking your menstrual cycle is one of the most useful health habits you can develop.\n\n\ud83d\udccb WHAT TO TRACK:\n\u2022 Day 1 (first day of full bleeding) \u2014 this is Day 1 of your new cycle\n\u2022 Last day of bleeding \u2014 gives your period duration\n\u2022 Flow intensity each day (light / medium / heavy)\n\u2022 Symptoms: cramps, headache, mood, energy, bloating, breast tenderness\n\u2022 Any spotting between periods\n\n\ud83d\udcf1 HOW TO TRACK:\n1. Paper calendar \u2014 mark Day 1 of each period. After 3 months, patterns become clear.\n2. Period tracking apps:\n   \u2022 Clue \u2014 popular, research-backed\n   \u2022 Flo \u2014 popular in India, good UI\n   \u2022 Maya \u2014 designed for Indian users, local language support\n3. A simple notebook or diary\n\n\ud83c\udfaf WHY IT MATTERS:\n\u2022 Know when to expect your next period \u2014 plan around it\n\u2022 Carry pads in advance \u2014 never caught off-guard\n\u2022 Detect irregularities early\n\u2022 Identify PMS/PMDD patterns\n\u2022 Very useful information for your gynecologist\n\n\ud83d\udcca WHAT IT REVEALS:\n\u2022 Your average cycle length\n\u2022 Your average period duration\n\u2022 Whether your cycle is regular or variable\n\u2022 Whether your symptoms follow a predictable pattern\n\n\ud83d\udca1 Start tracking TODAY. Even a simple calendar with a circle on Day 1 of each period is enough. After 3 months, you will know your body much better.",
+    "keywords": [
+      "how to track period",
+      "period tracking",
+      "track menstrual cycle",
+      "period calendar",
+      "period app",
+      "Clue app period",
+      "Flo period tracker",
+      "Maya period app",
+      "cycle tracking tips",
+      "track your period"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "How do I prepare for my first period?",
+    "answer": "Preparing for the first period (menarche) makes it far less scary when it happens.\n\n\ud83d\udccb KNOW WHAT TO EXPECT:\n\u2022 First period usually happens between ages 11 and 14 (normal range: 10\u201316)\n\u2022 Usually starts 1\u20132 years after breast development begins\n\u2022 First few periods are often irregular \u2014 completely normal\n\u2022 The first period may be very light \u2014 just spotting or a few drops\n\n\ud83e\ude79 PREPARE A PERIOD KIT \u2014 keep in your school bag:\n\u2022 2\u20133 sanitary pads (regular size)\n\u2022 A pair of clean dark-coloured underwear\n\u2022 Small disposal bags or pieces of newspaper\n\u2022 Mild pain relief (if allowed by parents)\n\n\ud83d\udcdd HOW TO USE A PAD:\n1. Remove the backing paper from the pad\n2. Stick the adhesive side onto the crotch of your underwear, centrally\n3. If pad has wings \u2014 fold them around the sides of the underwear\n4. Change every 4\u20136 hours\n5. Wrap used pad in paper, throw in a bin (NEVER flush)\n\n\ud83d\udea8 IF IT HAPPENS UNEXPECTEDLY AT SCHOOL:\n\u2022 Stay calm \u2014 completely normal\n\u2022 Go to the toilet immediately\n\u2022 If no pad: fold toilet paper/tissues in underwear temporarily\n\u2022 Ask a trusted female teacher, school nurse, or friend for a pad\n\n\ud83d\udca1 The first period does NOT necessarily hurt. It is a healthy milestone \u2014 not something to be afraid of.",
+    "keywords": [
+      "prepare for first period",
+      "first period tips",
+      "what to do for first period",
+      "menarche preparation",
+      "first period kit",
+      "first period advice",
+      "first period at school",
+      "how to handle first period",
+      "period starter tips"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "Can the contraceptive pill affect my period?",
+    "answer": "Yes \u2014 hormonal contraceptives significantly affect the menstrual cycle.\n\n\ud83d\udc8a COMBINED ORAL CONTRACEPTIVE PILL (estrogen + progestin):\n\u2022 You will have a 'withdrawal bleed' \u2014 looks like a period but is NOT a true menstrual period. It is caused by stopping the hormone pills for 7 days.\n\u2022 Withdrawal bleeds are usually lighter, shorter, and less painful\n\u2022 The pill reduces cramps, lightens flow, and can clear hormonal acne\n\n\ud83d\udc8a PROGESTIN-ONLY PILL (mini-pill):\n\u2022 May cause irregular spotting, especially in the first 3 months\n\u2022 Some people stop having periods entirely\n\n\ud83d\udc89 HORMONAL IUD (Mirena):\n\u2022 Periods become very light or stop completely \u2014 normal and safe\n\u2022 Initial months may have irregular spotting\n\n\ud83e\ude78 COPPER IUD (non-hormonal):\n\u2022 Periods may become HEAVIER and more painful \u2014 especially in the first 3\u20136 months\n\n\ud83d\udc89 INJECTABLE CONTRACEPTIVE (Depo-Provera):\n\u2022 Periods often stop completely. May take 6\u201312 months to return after stopping.\n\n\u26a0\ufe0f AFTER STOPPING HORMONAL CONTRACEPTION:\n\u2022 Natural periods typically return within 1\u20133 months\n\u2022 Can take up to 6 months for cycles to fully normalize \u2014 this is normal\n\n\ud83d\udca1 If you are considering contraception to manage heavy periods, cramps, or irregular cycles \u2014 the combined pill or hormonal IUD are very effective options. See a gynecologist.",
+    "keywords": [
+      "contraceptive pill period",
+      "birth control and period",
+      "pill affects period",
+      "OCP menstruation",
+      "IUD period",
+      "hormonal contraception period",
+      "withdrawal bleed",
+      "contraception irregular period",
+      "pill stops period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why am I so tired during my period?",
+    "answer": "Fatigue during menstruation is extremely common and has multiple biological causes.\n\n\ud83d\udd2c WHY IT HAPPENS:\n\n1. BLOOD AND IRON LOSS:\nYou lose blood and iron during your period. Iron is needed to make hemoglobin, which carries oxygen. Lower iron \u2192 less oxygen \u2192 fatigue, weakness, dizziness. Most significant in people with heavy periods who may develop iron-deficiency anemia.\n\n2. PROSTAGLANDINS:\nThese chemicals cause systemic symptoms including fatigue and body aches \u2014 similar to how you feel when ill.\n\n3. SLEEP DISRUPTION:\nCramps, having to change pads at night, general discomfort disrupt sleep quality on the first 1\u20132 nights.\n\n4. PMS FATIGUE:\nIn the week before the period (luteal phase), progesterone has a sedating effect \u2014 causing tiredness even before blood loss begins.\n\n\u2705 WHAT HELPS:\n\u2022 Iron-rich foods: spinach, lentils, rajma, jaggery, sesame, eggs\n\u2022 Vitamin C with iron-rich foods (lemon juice on dal) \u2014 dramatically improves iron absorption\n\u2022 Stay hydrated\n\u2022 Rest when needed \u2014 do not push through severe fatigue on heavy days\n\u2022 Ibuprofen \u2014 reduces prostaglandins, improving overall wellbeing\n\n\u26a0\ufe0f SEE A DOCTOR IF:\n\u2022 Fatigue is extreme \u2014 cannot function normally\n\u2022 Feeling dizzy, faint, or short of breath\n\u2022 Skin or inner eyelids look pale\nThese suggest significant anemia \u2014 requires a hemoglobin blood test and iron supplementation.\n\n\ud83d\udca1 Period tiredness is real and biological. If fatigue is severe, get a hemoglobin test.",
+    "keywords": [
+      "tired during period",
+      "fatigue period",
+      "period fatigue",
+      "why so tired period",
+      "exhausted during period",
+      "low energy period",
+      "weakness during period",
+      "sleepy during period",
+      "period tiredness"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can I go to the temple or pray during my period?",
+    "answer": "From a medical and scientific standpoint \u2014 yes, absolutely. There is no biological or physiological reason that menstruation prevents anyone from praying, entering a place of worship, or participating in any religious activity.\n\n\ud83d\udd2c THE SCIENCE:\n\u2022 Menstruation is the normal shedding of the uterine lining\n\u2022 Menstrual blood is made of blood, endometrial cells, mucus, and vaginal secretions \u2014 all normal biological substances\n\u2022 It has NO special property that affects a place of worship or the effectiveness of prayer\n\u2022 WHO, UNICEF, and medical bodies worldwide classify menstruation as a normal biological function\n\n\u2696\ufe0f HUMAN RIGHTS PERSPECTIVE:\n\u2022 Restricting menstruating women from places of worship is classified by human rights organizations as a harmful traditional practice that contributes to menstrual stigma and psychological harm\n\u2022 India's Supreme Court's 2018 Sabarimala judgment affirmed that restricting women based on menstruation is discriminatory\n\n\ud83e\udde0 PSYCHOLOGICAL IMPACT:\nGirls taught they are 'impure' during menstruation show higher rates of:\n\u2022 Low self-esteem\n\u2022 Shame around a normal body function\n\u2022 Delayed seeking of medical help for period problems\n\n\ud83d\udca1 What you choose to do is your personal decision. But know clearly: there is NO scientific or medical basis for the idea that menstruation makes a person impure or spiritually contaminated.",
+    "keywords": [
+      "temple during period",
+      "pray during period",
+      "enter temple menstruation",
+      "puja during period",
+      "period and religion",
+      "menstruation temple myth",
+      "impure during period temple",
+      "worship during menstruation",
+      "is it wrong to pray on period"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "My period is late but pregnancy test is negative. What should I do?",
+    "answer": "A negative pregnancy test with a late period is common and has many non-pregnancy causes.\n\n\u2705 FIRST: CONFIRM THE PREGNANCY TEST IS ACCURATE:\n\u2022 Home urine tests are accurate from the day of the missed period, with first-morning urine\n\u2022 If you tested very early \u2014 retest 1 week after the missed period with first-morning urine\n\n\ud83d\udd0d COMMON NON-PREGNANCY CAUSES OF LATE PERIOD:\n\n1. STRESS \u2014 most common cause. Exams, stress \u2192 cortisol disrupts the hormonal axis \u2192 ovulation delays \u2192 period delays\n\n2. PCOS \u2014 irregular, infrequent periods; often with acne, weight gain, excess facial hair\n\n3. THYROID PROBLEM \u2014 both hypo and hyperthyroidism disrupt cycles; very common in Indian women\n\n4. SIGNIFICANT WEIGHT CHANGE \u2014 crash dieting, sudden weight loss or gain disrupts estrogen\n\n5. EXCESSIVE EXERCISE \u2014 particularly high-intensity training with low caloric intake\n\n6. ILLNESS OR MEDICATION \u2014 antipsychotics, antidepressants, anti-epileptics can affect the cycle\n\n7. HYPERPROLACTINEMIA \u2014 elevated prolactin (sometimes from a small pituitary tumour) suppresses ovulation\n\n\ud83d\udccb NEXT STEPS:\n\u2022 Wait up to 2 weeks if there is a clear reason (stress, illness)\n\u2022 If still absent after 3 weeks: See a doctor for blood tests \u2014 TSH, FSH, LH, prolactin, testosterone\n\n\ud83d\udca1 A late period with a negative pregnancy test usually has an identifiable, treatable cause. See a doctor after 3 consecutive missed periods.",
+    "keywords": [
+      "period late negative pregnancy test",
+      "late period not pregnant",
+      "no period negative test",
+      "missed period negative pregnancy",
+      "late period what to do",
+      "period not coming negative pregnancy",
+      "period delayed not pregnant causes"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is spotting between periods? Should I be worried?",
+    "answer": "Spotting refers to very light bleeding or blood-stained discharge that occurs outside your normal period. It is common and often harmless, but in some cases needs investigation.\n\n\u2705 COMMON NORMAL CAUSES:\n\n1. OVULATION SPOTTING (mid-cycle):\n\u2022 Light pink or brown spotting around day 14\n\u2022 Caused by the brief estrogen drop at ovulation\n\u2022 Lasts 1\u20132 days; may come with ovulation pain on one side\n\n2. IMPLANTATION BLEEDING (early pregnancy):\n\u2022 Very light spotting 6\u201312 days after conception\n\u2022 Pink or light brown; very brief (1\u20132 days)\n\n3. HORMONAL CONTRACEPTIVE ADJUSTMENT:\n\u2022 Common in the first 3 months of a new pill, implant, or IUD\n\u2022 Usually resolves on its own\n\n\u26a0\ufe0f WHEN TO SEE A DOCTOR:\n\u2022 Spotting after sex (post-coital bleeding) \u2014 can indicate cervical erosion, polyps, or rarely cervical cancer\n\u2022 Spotting is heavy or lasts more than 3 days between periods\n\u2022 Spotting with pelvic pain or cramping\n\u2022 Spotting with foul-smelling discharge (infection)\n\u2022 Recurring spotting every cycle\n\u2022 Any vaginal bleeding after menopause \u2014 always see a doctor\n\n\ud83d\udca1 Occasional, light mid-cycle spotting = usually normal. Spotting after sex, with pain, or recurring frequently = needs evaluation.",
+    "keywords": [
+      "spotting between periods",
+      "light bleeding between periods",
+      "brown discharge between periods",
+      "spotting mid cycle",
+      "bleeding between periods",
+      "pink discharge not period",
+      "irregular spotting causes",
+      "spotting after sex"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is bacterial vaginosis (BV)?",
+    "answer": "Bacterial vaginosis (BV) is the most common vaginal infection in women of reproductive age. It is NOT a sexually transmitted infection, though it can be associated with sexual activity.\n\n\ud83d\udd2c WHAT IS IT:\nNormally, the vagina is dominated by beneficial Lactobacillus bacteria. In BV, these are replaced by other bacteria, shifting the vaginal pH and causing symptoms.\n\n\u26a0\ufe0f SYMPTOMS:\n\u2022 Thin, watery, grey or white discharge\n\u2022 Distinct FISHY smell \u2014 especially strong after sex or during menstruation\n\u2022 Usually NOT associated with itching or burning (unlike yeast infection)\n\u2022 Some people have no symptoms at all\n\n\ud83d\udd34 RISK FACTORS:\n\u2022 Douching \u2014 disrupts vaginal flora significantly\n\u2022 Multiple or new sexual partners\n\u2022 Using scented soaps inside the vagina\n\u2022 Smoking\n\n\ud83d\udc8a TREATMENT:\n\u2022 Antibiotics are required \u2014 BV does NOT go away on its own\n\u2022 Metronidazole (Flagyl) \u2014 oral tablet or vaginal gel\n\u2022 Clindamycin vaginal cream \u2014 alternative\n\u2022 Complete the full antibiotic course\n\n\u2705 PREVENTION:\n\u2022 Never douche\n\u2022 Avoid scented soaps/sprays inside vaginal area\n\u2022 Wear breathable cotton underwear\n\n\ud83d\udca1 KEY DIFFERENCE: BV = fishy smell, thin grey discharge, NO itching. Yeast infection = thick white discharge + intense itching, no fishy smell. They need completely different treatments.",
+    "keywords": [
+      "bacterial vaginosis",
+      "BV",
+      "fishy smell vagina",
+      "vaginal bacteria infection",
+      "grey discharge",
+      "fishy vaginal discharge",
+      "BV treatment",
+      "metronidazole vaginal",
+      "vaginal pH"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is adenomyosis?",
+    "answer": "Adenomyosis is a condition where the endometrial tissue (inner lining of the uterus) grows INTO the muscle wall of the uterus itself \u2014 rather than growing outside the uterus (which is endometriosis).\n\n\ud83d\udd2c WHAT HAPPENS:\nThe endometrial tissue embedded in the uterine muscle still responds to monthly hormones \u2014 thickening and bleeding each cycle. But since it is trapped inside the muscle, it has nowhere to go, causing:\n\u2022 Uterus to enlarge significantly ('bulky uterus' on ultrasound)\n\u2022 Intense pain and heavy bleeding with each period\n\n\u26a0\ufe0f SYMPTOMS:\n\u2022 Very heavy periods (large clots, soaking through pads quickly)\n\u2022 Severe menstrual cramps \u2014 often worse than 'normal' cramps\n\u2022 Pelvic pain throughout the month (not just during periods)\n\u2022 Painful sex (deep dyspareunia)\n\u2022 Bloating\n\n\ud83d\udcca WHO GETS IT:\n\u2022 Most commonly diagnosed in women in their 30s\u201340s\n\u2022 May coexist with fibroids or endometriosis\n\u2022 Affects approximately 10\u201335% of women (likely underdiagnosed)\n\n\ud83d\udd0d DIAGNOSIS:\n\u2022 Ultrasound or MRI\n\u2022 A gynecologist will look for a 'bulky uterus' with heterogeneous texture\n\n\ud83d\udc8a TREATMENT:\n\u2022 NSAIDs for pain\n\u2022 Hormonal IUD (Mirena) \u2014 very effective at reducing symptoms\n\u2022 Combined oral contraceptive pill\n\u2022 Surgery (hysterectomy) for definitive cure in severe cases\n\n\u26a0\ufe0f If you have very heavy periods and severe cramps that don't respond to ibuprofen, and ultrasound shows a 'bulky uterus' \u2014 ask specifically about adenomyosis.",
+    "keywords": [
+      "adenomyosis",
+      "what is adenomyosis",
+      "bulky uterus",
+      "heavy period adenomyosis",
+      "adenomyosis symptoms",
+      "uterine muscle lining grows",
+      "adenomyosis vs endometriosis"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How can I manage my period at school without embarrassment?",
+    "answer": "Managing your period discreetly at school is completely doable with preparation.\n\n\ud83c\udf92 ALWAYS CARRY IN YOUR BAG:\n\u2022 2\u20133 pads (or your preferred product) in a small pouch\n\u2022 A pair of dark-coloured underwear\n\u2022 Small disposal bags or folded newspaper squares\n\u2022 Mild pain relief if you get cramps\n\u2022 Consider wearing dark-coloured or patterned bottom clothing on expected period days\n\n\ud83d\udebb IN THE SCHOOL TOILET:\n\u2022 Go between classes \u2014 avoid waiting until you desperately need to change\n\u2022 Change your pad every 4\u20136 hours\n\u2022 Wrap used pads in the packaging of the new pad or toilet paper \u2014 place in the dustbin (NEVER flush)\n\u2022 Wash hands thoroughly\n\n\ud83d\udcac IF YOU ARE CAUGHT OFF-GUARD:\n\u2022 Ask a trusted female friend \u2014 most girls carry extras\n\u2022 Folded toilet paper works temporarily for 1\u20132 hours\n\u2022 Ask a female teacher, school nurse, or counselor \u2014 this is what they are there for\n\u2022 Tie a jacket or sweater around your waist if there is visible staining\n\n\ud83c\udfeb YOUR RIGHTS AT SCHOOL:\n\u2022 Schools should provide private girls' toilets with water, sanitary pad availability, proper disposal bins\n\u2022 If your school lacks these \u2014 you can advocate for them with school administration\n\n\ud83d\udca1 Half of your classmates and teachers menstruate or have menstruated. The more matter-of-fact you are about it, the less embarrassing it feels.",
+    "keywords": [
+      "period at school",
+      "manage period school",
+      "hide period school",
+      "period embarrassment school",
+      "period at college",
+      "managing menstruation school",
+      "period school kit tips",
+      "pad change at school"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "Can I have a period without ovulating (anovulatory cycle)?",
+    "answer": "Yes \u2014 you can bleed without ovulating. These are called anovulatory cycles.\n\n\ud83d\udd2c WHAT HAPPENS:\nNormally, ovulation triggers a progesterone surge. Without ovulation, estrogen still builds up the uterine lining \u2014 but when estrogen drops, the lining sheds irregularly. This produces bleeding that looks like a period but is not a true ovulatory cycle.\n\n\ud83d\udc65 WHO EXPERIENCES THIS:\n\u2022 Teenagers in the first 1\u20133 years after menarche (very common \u2014 the hormonal system is still maturing)\n\u2022 Women approaching menopause (perimenopause)\n\u2022 Women with PCOS\n\u2022 Anyone under significant stress, illness, or sudden weight change\n\n\u26a0\ufe0f HOW IT DIFFERS:\n\u2022 Bleeding may be lighter, heavier, or more irregular than a true period\n\u2022 No mid-cycle ovulation signs (no stretchy discharge, no one-sided pain)\n\u2022 Cycles may be longer or shorter\n\n\ud83d\udca1 Occasional anovulatory cycles are normal. Frequent anovulation (especially with PCOS or irregular cycles) should be evaluated by a doctor \u2014 it affects fertility and long-term hormonal health.",
+    "keywords": [
+      "anovulatory cycle",
+      "period without ovulation",
+      "no egg released period",
+      "anovulatory bleeding",
+      "can you have period without ovulating",
+      "PCOS anovulatory",
+      "period without ovulation teenager"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can ovarian cysts affect my period?",
+    "answer": "Yes. Ovarian cysts are fluid-filled sacs on or in the ovaries. Most are harmless functional cysts that form as part of the normal cycle and resolve within 1\u20133 months. But they can affect menstruation:\n\n\ud83d\udccb HOW CYSTS AFFECT YOUR PERIOD:\n\u2022 Irregular cycles \u2014 cysts can disrupt hormonal signaling\n\u2022 Heavier OR lighter periods than usual\n\u2022 Pelvic pain before or during periods\n\u2022 Sudden, severe pain if a cyst RUPTURES \u2014 this is a medical emergency\n\n\ud83d\udd0d TYPES:\n\u2022 Functional cysts (follicular or corpus luteum cysts): form naturally each cycle, usually resolve on their own \u2014 most common\n\u2022 Polycystic ovaries (PCOS): multiple small cysts causing hormonal disruption\n\u2022 Endometriomas (chocolate cysts): blood-filled cysts from endometriosis \u2014 require treatment\n\u2022 Dermoid cysts / cystadenomas: need surgical evaluation\n\n\ud83e\ude7a DIAGNOSIS: Ultrasound\n\n\u26a0\ufe0f SEE A DOCTOR URGENTLY IF:\n\u2022 Sudden, severe, one-sided pelvic pain (possible rupture or torsion)\n\u2022 Pain with fever and vomiting\n\n\ud83d\udca1 Most functional cysts need NO treatment \u2014 the body resolves them. But ovarian cysts causing irregular periods, or that are large/complex on ultrasound, need medical follow-up.",
+    "keywords": [
+      "ovarian cyst",
+      "ovarian cyst period",
+      "cyst irregular period",
+      "functional cyst",
+      "chocolate cyst",
+      "endometrioma",
+      "cyst pelvic pain",
+      "ovarian cyst symptoms",
+      "cyst rupture pain"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Von Willebrand disease and why does it cause heavy periods?",
+    "answer": "Von Willebrand disease (VWD) is the most common inherited bleeding disorder, affecting approximately 1% of people. It involves a deficiency or dysfunction of Von Willebrand factor \u2014 a protein essential for blood clotting.\n\n\ud83e\ude78 WHY IT CAUSES HEAVY PERIODS:\nMenstrual blood loss requires proper clotting to stop. In VWD, clotting is impaired \u2192 significantly heavier menstrual bleeding than normal. This is often the FIRST symptom that brings girls to a doctor \u2014 many are diagnosed with VWD because of very heavy first periods.\n\n\u26a0\ufe0f SIGNS THAT MAY SUGGEST VWD:\n\u2022 Very heavy periods since menarche (first period)\n\u2022 Large blood clots\n\u2022 Periods lasting more than 7 days\n\u2022 Easy bruising all over the body\n\u2022 Prolonged bleeding from cuts\n\u2022 Frequent nosebleeds\n\n\ud83e\ude7a DIAGNOSIS:\nSpecific blood tests: VWF antigen, VWF activity, Factor VIII levels. Standard routine blood tests will NOT catch this \u2014 you must specifically ask for VWD testing.\n\n\ud83d\udc8a TREATMENT:\n\u2022 Tranexamic acid (Pause) \u2014 reduces bleeding\n\u2022 Desmopressin (DDAVP) \u2014 stimulates release of stored VWF\n\u2022 VWF concentrate injections \u2014 for severe cases\n\u2022 Combined oral contraceptive pill \u2014 reduces flow\n\n\ud83d\udca1 If you have had extremely heavy periods since your FIRST period AND bruise or bleed easily, ask your doctor specifically about Von Willebrand disease testing.",
+    "keywords": [
+      "Von Willebrand disease",
+      "VWD period",
+      "bleeding disorder heavy period",
+      "inherited bleeding disorder",
+      "heavy period since first period",
+      "clotting disorder period",
+      "Von Willebrand factor",
+      "easy bruising heavy period"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What medicine can stop heavy period bleeding (other than hormones)?",
+    "answer": "Yes \u2014 there is a very effective non-hormonal medication for heavy periods called tranexamic acid.\n\n\ud83d\udc8a TRANEXAMIC ACID (Brand names: Pause, Trapic, Trancid, Cyklokapron)\n\nHOW IT WORKS:\nTransexamic acid is an antifibrinolytic \u2014 it prevents the breakdown of blood clots in the uterine lining, allowing natural clotting to reduce flow more effectively. It does NOT affect hormones or your cycle.\n\n\ud83d\udccb HOW TO USE:\n\u2022 Taken ONLY on heavy bleeding days (usually days 1\u20133 of period)\n\u2022 Dose: 500mg\u20131g, 3\u20134 times daily (as prescribed by doctor)\n\u2022 NOT taken every day \u2014 only during heavy days\n\u2022 Reduces menstrual blood loss by 40\u201350% on average\n\n\u2705 WHO IT IS GOOD FOR:\n\u2022 Women with heavy periods who cannot or do not want to use hormonal treatments\n\u2022 Women with fibroids or adenomyosis causing heavy flow\n\u2022 Teenagers with heavy periods\n\n\ud83d\udca1 OTHER NON-HORMONAL OPTIONS:\n\u2022 NSAIDs (ibuprofen/mefenamic acid) \u2014 reduce flow by 20\u201325% by blocking prostaglandins\n\u2022 Iron supplements \u2014 replace iron lost through heavy bleeding (does not reduce flow but prevents anemia)\n\n\u26a0\ufe0f PRESCRIPTION REQUIRED: Tranexamic acid requires a doctor's prescription in India. Do not use without medical guidance. See a gynecologist for diagnosis and dosing.",
+    "keywords": [
+      "tranexamic acid heavy period",
+      "Pause tablet",
+      "medicine stop heavy bleeding",
+      "Trapic tablet",
+      "non hormonal heavy period",
+      "heavy period medicine India",
+      "reduce heavy flow medicine",
+      "antifibrinolytic menstruation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can the contraceptive pill be used just for period pain \u2014 not for birth control?",
+    "answer": "Yes \u2014 absolutely. Using the pill for period management (not contraception) is a medically valid, routinely prescribed treatment.\n\n\u2705 WHAT DOCTORS PRESCRIBE THE PILL FOR (non-contraceptive reasons):\n\u2022 Severe period pain (dysmenorrhea) \u2014 the pill suppresses ovulation, dramatically reducing prostaglandins\n\u2022 Very heavy periods (menorrhagia) \u2014 lightens and shortens flow\n\u2022 PCOS management \u2014 regulates cycles, reduces acne and excess hair\n\u2022 Endometriosis \u2014 suppresses endometrial tissue growth, reduces pain\n\u2022 Severe PMS/PMDD \u2014 stabilizes the hormonal fluctuation that causes symptoms\n\n\ud83d\udccb HOW IT HELPS PERIOD PAIN:\nCombined oral contraceptive pills prevent ovulation \u2192 no prostaglandin surge \u2192 dramatically reduced cramps. Many girls experience 60\u201380% reduction in period pain on the pill.\n\n\u26a0\ufe0f IMPORTANT CONTEXT (India-specific):\nThere is significant social stigma around teenage girls taking contraceptive pills. Taking the pill for MEDICAL REASONS is a treatment decision \u2014 not a moral one. Gynecologists prescribe this routinely and confidentially.\n\n\ud83d\udca1 DOES NOT AFFECT FERTILITY LONG-TERM: Fertility returns to normal within 1\u20133 months of stopping the pill.\n\n\u26a0\ufe0f Requires a prescription. See a gynecologist for assessment \u2014 some conditions (migraines, clotting disorders) require alternative options.",
+    "keywords": [
+      "pill for period pain",
+      "birth control for period not sex",
+      "OCP for dysmenorrhea",
+      "contraceptive pill medical use",
+      "pill for PCOS",
+      "pill for endometriosis",
+      "hormonal pill period management",
+      "OCP not contraception"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How do I manage my period at night? Tips for overnight pad use.",
+    "answer": "Managing your period at night is easy with a few smart choices.\n\n\ud83c\udf19 OVERNIGHT PAD GUIDE:\n\n\u2705 CHOOSE THE RIGHT PAD:\n\u2022 Use an extra-long overnight pad \u2014 wider and longer toward the back to prevent leaks when lying down\n\u2022 Change fresh right before you sleep\n\u2022 Change again first thing in the morning\n\n\ud83d\udccc PAD PLACEMENT:\n\u2022 Position the pad slightly further BACK than a daytime pad \u2014 most nighttime leaks go backward when lying down\n\u2022 Press firmly so it adheres well to underwear\n\n\ud83e\ude73 WEAR THE RIGHT UNDERWEAR:\n\u2022 Full-coverage fitted briefs hold the pad securely\n\u2022 Avoid sleeping in thongs or loose underwear on heavy nights\n\n\ud83d\udecf\ufe0f EXTRA PROTECTION:\n\u2022 Place a dark-colored towel under your sheet on very heavy nights\n\u2022 Period underwear worn WITH a pad gives the most protection\n\u2022 Menstrual cup \u2014 ideal overnight; holds 3\u20134\u00d7 more than a pad, lasts 12 hours safely\n\n\ud83d\udca4 SLEEP POSITIONS:\n\u2022 Sleeping on your back or side (fetal position) tends to reduce leaks\n\u2022 Sleeping on your stomach pushes the pad forward \u2014 more leak risk\n\n\u26a0\ufe0f ABOUT TAMPONS AT NIGHT:\n\u2022 Only use a tampon overnight if you insert it FRESH right before sleeping AND wake within 8 hours\n\u2022 Never leave a tampon in longer than 8 hours \u2014 TSS risk\n\n\ud83d\udca1 The menstrual cup is the most reliable overnight option \u2014 no changing needed, no leaks when properly sealed.",
+    "keywords": [
+      "period at night",
+      "overnight pad",
+      "nighttime period",
+      "sleep with period",
+      "night pad placement",
+      "prevent leak night",
+      "overnight period protection",
+      "period leak bed",
+      "period sleeping position"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
+  },
+  {
+    "question": "How do I remove period blood stains from clothes or underwear?",
+    "answer": "Period stains happen to everyone \u2014 they are completely normal and almost always removable.\n\n\ud83d\udd11 THE GOLDEN RULE: Cold water only. NEVER use hot water \u2014 heat permanently sets blood protein into fabric.\n\n\u2705 FRESH STAINS (best results):\n1. Rinse immediately under COLD running water\n2. Rub mild soap or detergent on the wet stain, scrub gently\n3. Rinse again with cold water\n4. Repeat until stain fades\n5. Wash normally (cold cycle) afterward\n\n\ud83d\udfe1 DRIED / OLD STAINS (harder but still possible):\n1. Soak the stained area in cold water for 30 minutes\n2. Apply one of these:\n   \u2022 Table salt \u2014 rub salt directly on the wet stain, let sit 10 minutes, scrub\n   \u2022 Hydrogen peroxide (3% \u2014 available from pharmacies) \u2014 apply, let sit 5 minutes, rinse (test on hidden spot first \u2014 may lighten dark fabrics)\n   \u2022 Liquid detergent \u2014 rub in, let sit before washing\n3. Wash in cold water\n\n\ud83d\udca1 TRADITIONAL INDIAN TIPS THAT WORK:\n\u2022 Soak in salty cold water for 1 hour, then wash\n\u2022 Lemon juice + salt on white fabrics (natural bleaching)\n\u2022 Soapnut (reetha) paste\n\n\ud83c\udf92 PREVENTION:\n\u2022 Carry a spare pair of dark underwear in your bag\n\u2022 Wear dark-colored clothes on heavy days\n\u2022 Use an extra-long overnight pad on nights with heavy flow\n\n\ud83d\udca1 Period stains are not shameful. Be practical and prepared.",
+    "keywords": [
+      "period blood stain",
+      "remove period stain",
+      "blood stain clothes",
+      "blood stain underwear",
+      "how to clean period stain",
+      "cold water blood",
+      "hydrogen peroxide blood stain",
+      "period stain remove tips"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
+  },
+  {
+    "question": "Can I swim or play sports during my period?",
+    "answer": "Yes \u2014 absolutely. Swimming and sports during menstruation are completely safe and actually beneficial.\n\n\ud83c\udfca SWIMMING:\n\u2022 Water pressure temporarily reduces menstrual flow while submerged \u2014 usually no leaking\n\u2022 For reliable protection, use a tampon or menstrual cup (pads absorb water and become useless in a pool)\n\u2022 Period blood does NOT contaminate pool water \u2014 the chlorine and water volume make this impossible\n\u2022 This restriction is a myth with zero scientific basis\n\n\ud83c\udfc3 ALL SPORTS:\n\u2022 There is NO medical reason to stop any physical activity during your period\n\u2022 Exercise actually HELPS period symptoms:\n  - Releases endorphins (natural painkillers) \u2192 reduces cramps\n  - Improves mood \u2014 reduces PMS symptoms\n  - Improves blood circulation\n\u2022 Light to moderate exercise (walking, yoga, cycling, swimming) is most studied\n\u2022 Elite athletes compete at the highest level during all phases of their cycle\n\n\ud83d\udcaa TIPS FOR ACTIVE GIRLS:\n\u2022 Wear well-fitting underwear or period underwear for sports\n\u2022 Use a tampon or cup for sports/swimming \u2014 no pad shifting or leaking\n\u2022 If cramps are bad \u2014 take ibuprofen 30 minutes before exercise\n\u2022 On very heavy, crampy days: rest is also valid \u2014 listen to your body\n\n\ud83d\udca1 Feeling tired on heavy days is normal. But gentle movement is better than complete bed rest for managing cramps.",
+    "keywords": [
+      "swim during period",
+      "swimming period",
+      "sports during period",
+      "exercise during period",
+      "period and swimming",
+      "can I swim menstruation",
+      "period sports myths",
+      "tampon swimming",
+      "cup swimming",
+      "physical activity period"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "How do I use a tampon? Is it safe for a teenager?",
+    "answer": "Yes \u2014 tampons are safe for any menstruating person, including teenagers. Here is a complete guide:\n\n\ud83d\udd2c WHAT IS IT:\nA small, cylindrical, absorbent cotton product inserted inside the vagina to absorb menstrual blood internally.\n\n\ud83d\udccb HOW TO USE:\n1. Wash hands thoroughly\n2. Sit on the toilet or put one foot on the seat\n3. RELAX your body completely \u2014 tense muscles make insertion much harder\n4. Unwrap tampon (choose applicator type if easier for beginners)\n5. Angle the tampon toward your tailbone (not straight up)\n6. Insert the tampon (and push the applicator inner tube if using one)\n7. The string hangs outside \u2014 this is how you remove it\n8. You should NOT feel the tampon if it is correctly placed\n\n\u23f0 HOW LONG TO WEAR:\n\u2022 Change every 4\u20138 hours\n\u2022 NEVER leave in for more than 8 hours \u2014 risk of Toxic Shock Syndrome (TSS)\n\u2022 Do NOT sleep with a tampon unless you insert it fresh and wake within 8 hours\n\n\u26a0\ufe0f COMMON MYTHS:\n\u2022 'Tampons break the hymen' \u2014 FALSE. The hymen has a natural opening. The tampon passes through it.\n\u2022 'Tampons affect virginity' \u2014 FALSE. Medically false.\n\u2022 'Tampons get lost inside' \u2014 FALSE. The vagina has a natural end at the cervix.\n\n\u2705 START WITH: Junior or light tampons \u2014 smaller and easier for beginners. Use applicator tampons if you are new to them.\n\n\ud83d\udca1 Use the lowest absorbency for your flow to reduce TSS risk.",
+    "keywords": [
+      "how to use tampon",
+      "tampon guide",
+      "tampon teenager",
+      "insert tampon",
+      "tampon safe",
+      "tampon virgin",
+      "tampon hymen myth",
+      "tampon applicator",
+      "how to insert tampon",
+      "TSS tampon"
+    ],
+    "category": "Hygiene",
+    "is_direct": true
+  },
+  {
+    "question": "Can vitamin D help with period pain and PMS?",
+    "answer": "Yes \u2014 Vitamin D deficiency is strongly linked to worse period pain and PMS symptoms.\n\n\ud83d\udd2c THE SCIENCE:\n\u2022 Vitamin D has anti-inflammatory effects and reduces prostaglandin production \u2014 the chemicals that cause cramps\n\u2022 It also supports serotonin synthesis \u2014 the mood-stabilizing brain chemical affected by PMS\n\u2022 Clinical studies show Vitamin D supplementation (1000\u20132000 IU/day) significantly reduces dysmenorrhea (period pain) severity in deficient women\n\u2022 Vitamin D deficiency is linked to more severe PMS and PCOS\n\n\ud83d\udcca INDIA-SPECIFIC:\n\u2022 Vitamin D deficiency affects 60\u201380% of Indians despite abundant sunshine \u2014 due to skin pigmentation, indoor lifestyle, dark clothing, and diet\n\u2022 This means most Indian women and girls are likely deficient\n\n\u2705 HOW TO GET MORE VITAMIN D:\n\nFOOD SOURCES:\n\u2022 Fatty fish: salmon, mackerel, sardines (rui, rohu, katla \u2014 Indian fish)\n\u2022 Egg yolk\n\u2022 Fortified milk and dairy\n\u2022 Mushrooms (exposed to sunlight)\n\nSUNLIGHT:\n\u2022 15\u201330 minutes of direct sun on arms and legs (not through glass) between 10am\u20133pm daily\n\u2022 This is the most effective natural source\n\nSUPPLEMENT:\n\u2022 1000\u20132000 IU/day Vitamin D3 is widely recommended in India\n\u2022 Test serum 25-OH Vitamin D level before high-dose supplementation\n\n\ud83d\udca1 If your period pain has not responded well to ibuprofen and lifestyle changes, getting a Vitamin D blood test is a worthwhile step.",
+    "keywords": [
+      "vitamin D period",
+      "vitamin D period pain",
+      "vitamin D PMS",
+      "vitamin D deficiency India",
+      "vitamin D PCOS",
+      "vitamin D supplement menstruation",
+      "sunlight period pain",
+      "vitamin D dysmenorrhea"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "Is jaggery (gur) good during periods?",
+    "answer": "Yes \u2014 jaggery (gur) is one of the best traditional Indian foods to eat during menstruation, and the science backs it up.\n\n\ud83d\udd2c WHY JAGGERY HELPS:\n\n\ud83e\ude78 IRON (11 mg/100g):\nReplaces iron lost through menstrual bleeding. Helps prevent and treat iron-deficiency anemia \u2014 a major concern for Indian women (57% of adolescent girls in India are anemic per NFHS-5).\n\n\ud83d\udcaa MAGNESIUM:\nMagnesium directly relaxes smooth muscle (including uterine muscle), reducing cramp severity. It also reduces bloating and PMS mood symptoms.\n\n\u26a1 POTASSIUM:\nReduces water retention and muscle cramps.\n\n\ud83c\udf6c NATURAL SUGAR:\nProvides quick energy without the blood glucose crash that comes from refined white sugar. Sugar crashes worsen mood swings and fatigue during periods.\n\n\u2705 EASY WAYS TO EAT JAGGERY DURING PERIODS:\n\u2022 Small piece of raw jaggery (1 tsp) with warm water in the morning\n\u2022 Til-gur ladoo (sesame + jaggery balls) \u2014 iron AND magnesium in one snack\n\u2022 Gur-chikki (peanut or sesame jaggery brittle)\n\u2022 Replace sugar in chai or milk with small amounts of jaggery\n\u2022 Add to ragi porridge or khichdi\n\n\u26a0\ufe0f HOW MUCH: 1\u20132 tablespoons per day is a healthy amount. Excess jaggery is still sugar \u2014 moderation is key, especially for those with PCOS or diabetes.\n\n\ud83d\udca1 Jaggery is a traditional, affordable, nutritionally superior alternative to refined sugar \u2014 especially beneficial during menstruation.",
+    "keywords": [
+      "jaggery during period",
+      "gur period",
+      "jaggery menstruation",
+      "is jaggery good period",
+      "gur benefits period",
+      "til gur period",
+      "jaggery iron anemia",
+      "traditional remedy period India"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "Can flaxseeds (alsi) help with period pain?",
+    "answer": "Yes \u2014 flaxseeds are one of the best plant-based foods for reducing period pain, supported by scientific evidence.\n\n\ud83d\udd2c WHY FLAXSEEDS WORK:\nFlaxseeds are the richest plant source of ALA (alpha-linolenic acid) \u2014 an omega-3 fatty acid. Omega-3s work by:\n\u2022 Reducing the production of PGF2\u03b1 (inflammatory prostaglandins) \u2014 the main chemicals that cause uterine cramping\n\u2022 Promoting production of anti-inflammatory prostaglandins instead\n\u2022 Studies show daily omega-3 intake significantly reduces dysmenorrhea severity\n\nFlaxseeds also contain lignans \u2014 plant compounds that help reduce excess androgen levels. Clinical studies specifically show flaxseed reduces testosterone in PCOS women.\n\n\ud83d\udccb HOW TO USE:\n\u2022 1\u20132 tablespoons of GROUND flaxseed daily (whole seeds pass through undigested)\n\u2022 Add to: curd/yogurt, smoothie, oats, roti dough, salad\n\u2022 Soak 1 tablespoon overnight, drink the water and eat the seeds in the morning\n\u2022 Roast and grind with til (sesame) for a dry chutney\n\n\u23f0 WHEN TO START:\nBegin eating flaxseeds 5\u20137 days BEFORE your expected period, and continue through the first 2\u20133 days. This allows the omega-3s to reduce prostaglandin levels before cramping begins.\n\n\ud83d\udca1 Combine with other omega-3 sources: walnuts, fish (if non-vegetarian), chia seeds.\n\n\u26a0\ufe0f Note: Flaxseed is high in fiber \u2014 start with 1 teaspoon and increase gradually to avoid digestive discomfort.",
+    "keywords": [
+      "flaxseed period pain",
+      "alsi period",
+      "flaxseed dysmenorrhea",
+      "omega-3 period cramps",
+      "flaxseed PCOS",
+      "alsi omega-3 menstruation",
+      "flaxseed cramp relief",
+      "ground flaxseed period"
+    ],
+    "category": "Nutrition",
+    "is_direct": true
+  },
+  {
+    "question": "Does menstruation affect the hymen? Can using a pad or tampon break it?",
+    "answer": "No. Menstrual blood does NOT break the hymen, and neither does using a pad.\n\n\ud83d\udd2c WHAT IS THE HYMEN ACTUALLY:\nThe hymen is a thin, flexible membrane that PARTIALLY covers the vaginal opening. It has one or more natural openings through which menstrual blood exits the body every month.\n\n\ud83d\udd11 KEY FACTS:\n\u2022 Menstrual blood passes THROUGH the natural opening in the hymen \u2014 the hymen does NOT break\n\u2022 Pads are external \u2014 they do not enter the body at all and cannot affect the hymen\n\u2022 Tampons and menstrual cups are inserted through the natural hymenal opening \u2014 they do not 'break' it\n\u2022 The hymen is FLEXIBLE \u2014 like an elastic membrane, not a rigid seal\n\u2022 It can stretch or become less prominent from: sports, cycling, gymnastics, tampon use \u2014 none of these 'break virginity'\n\u2022 The hymen is highly variable in shape \u2014 some people are born with very little hymenal tissue\n\n\u2696\ufe0f IMPORTANT:\n\u2022 The hymen CANNOT reliably indicate whether someone has had sex \u2014 this is a medical and legal fact\n\u2022 'Virginity testing' via hymen examination is condemned by WHO, ACOG, and UN human rights bodies as medically invalid and harmful\n\u2022 Many gynecologists cannot tell from a hymen examination whether someone has ever had sex\n\n\ud83d\udca1 The hymen has nothing to do with virginity, purity, or period use. It is simply a small piece of flexible tissue.",
+    "keywords": [
+      "hymen period",
+      "does period break hymen",
+      "tampon break hymen",
+      "hymen myth virginity",
+      "hymen and menstruation",
+      "pad break hymen",
+      "hymen virgin myth",
+      "hymen flexible",
+      "virginity hymen medical fact"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "Does the moon affect the menstrual cycle? Is this true?",
+    "answer": "This is one of the most widespread menstrual myths \u2014 and science has tested it.\n\n\ud83d\udd2c WHAT THE RESEARCH SAYS:\nThe 28-day average menstrual cycle and the 29.5-day lunar cycle are similar in length \u2014 which has led to this longstanding belief across many cultures.\n\nHowever:\n\u2022 A 2021 large-scale study in Science Advances (Helfrich-F\u00f6rster et al.) analyzed data from 22 women tracked over years. While some cycles temporarily aligned with the lunar cycle, this alignment shifted continuously \u2014 it was NOT maintained.\n\u2022 No hormonal or physiological mechanism linking human menstruation to lunar phases has ever been identified or demonstrated.\n\u2022 The numerical similarity in cycle length appears to be a coincidence, not a biological connection.\n\n\ud83d\udcca THE SIMPLE MATH:\n\u2022 If you have a 28-day cycle, you will start your period at every phase of the moon over the course of a year \u2014 new moon, full moon, half moon \u2014 depending on when you last had your period.\n\u2022 With ~7.5 billion people menstruating worldwide, periods start every single day and at every lunar phase.\n\n\ud83d\udca1 The moon controls ocean tides through gravitational pull \u2014 but the human body's menstrual cycle is controlled by a precise internal hormonal system involving the hypothalamus, pituitary gland, and ovaries. The moon's gravitational effect on a human body is negligible.\n\n\u2705 Conclusion: Your cycle is controlled by YOUR hormones \u2014 not the moon. Track your cycle, not the lunar calendar.",
+    "keywords": [
+      "moon and period",
+      "lunar cycle menstruation",
+      "does moon affect period",
+      "moon 28 days period",
+      "period moon myth",
+      "full moon period",
+      "lunar period myth",
+      "Science Advances moon period"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "Do periods sync when women live together? Is period syncing real?",
+    "answer": "Period syncing is one of the most popular menstrual myths \u2014 and it has been thoroughly studied.\n\n\ud83d\udd2c THE RESEARCH:\nThe 'menstrual synchrony' theory was proposed by Martha McClintock in 1971, suggesting that pheromones cause women living together to align their cycles. It became widely believed as a 'fact.'\n\nHowever, subsequent large, well-designed studies consistently failed to replicate it:\n\u2022 A 2006 study in Human Nature found NO statistically significant synchronization after controlling for statistical errors.\n\u2022 Multiple studies using better statistical methods found no evidence of pheromone-driven cycle synchronization in humans.\n\u2022 The pheromone mechanism has never been demonstrated in humans.\n\n\ud83d\udcca WHY IT SEEMS REAL:\nSimple probability explains perceived syncing:\n\u2022 If two women have cycles of similar length (both ~28 days), their periods will mathematically overlap for several days every few months just by chance.\n\u2022 People notice and remember when cycles overlap \u2014 they do NOT notice when they don't. This is confirmation bias.\n\u2022 Over time, cycles drift apart and people stop noticing.\n\n\ud83d\udca1 CONCLUSION: Period syncing between roommates, friends, or family members is a statistical coincidence + confirmation bias \u2014 not biology. Each person's cycle is controlled by their own internal hormonal system, not by proximity to others.",
+    "keywords": [
+      "period syncing",
+      "period sync roommates",
+      "do periods sync",
+      "menstrual synchrony",
+      "period sync myth",
+      "McClintock pheromones",
+      "period align friends",
+      "period sync real or myth"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "Can too much exercise stop my period?",
+    "answer": "Yes. Excessive exercise combined with insufficient calorie intake can stop periods entirely. This is medically recognized and called exercise-associated amenorrhea or hypothalamic amenorrhea.\n\n\ud83d\udd2c HOW IT HAPPENS:\n1. Very high exercise + inadequate calories = energy deficit\n2. The body interprets this as a survival/famine situation\n3. The hypothalamus (brain region controlling hormones) reduces GnRH pulsing\n4. FSH and LH fall \u2192 ovulation stops \u2192 periods stop\n\n\u26a0\ufe0f WHO IS AT RISK:\n\u2022 Long-distance runners, gymnasts, ballet dancers, swimmers with very high training + restricted eating\n\u2022 Girls doing intense sports with weight restrictions\n\u2022 Anyone losing weight very rapidly through extreme exercise + dieting\n\n\ud83d\udea8 FEMALE ATHLETE TRIAD \u2014 a recognized medical syndrome:\n1. Low energy availability (insufficient calories for training)\n2. Menstrual dysfunction (irregular or absent periods)\n3. Low bone density (periods are needed to maintain bone health)\n\n\u26a0\ufe0f WHY THIS MATTERS:\n\u2022 Losing your period from exercise is NOT a sign of peak fitness \u2014 it is a sign of physiological stress\n\u2022 Long-term estrogen deficiency from missed periods causes serious bone loss (osteoporosis) that may be permanent\n\u2022 This is a medical problem, not an achievement\n\n\u2705 RECOVERY:\n\u2022 Increase caloric intake\n\u2022 Reduce exercise intensity\n\u2022 See a doctor and potentially an endocrinologist and sports dietitian\n\u2022 Periods usually return within 3\u201312 months of restoring energy balance\n\n\ud83d\udca1 Your period is a vital sign of health \u2014 losing it means your body is under dangerous stress.",
+    "keywords": [
+      "exercise stop period",
+      "exercise amenorrhea",
+      "too much exercise period stops",
+      "female athlete triad",
+      "sports period missing",
+      "hypothalamic amenorrhea exercise",
+      "runner period stops",
+      "gymnast missing period",
+      "period stop athlete"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can I get my period twice in one month?",
+    "answer": "Yes \u2014 this can happen, and the cause determines whether it is normal or needs attention.\n\n\u2705 WHEN IT'S NORMAL \u2014 Short cycle:\n\u2022 If your cycle is 21\u201324 days (completely within normal range), you will naturally have 2 periods in some calendar months\n\u2022 Example: Period starts Jan 1 \u2192 next period Jan 22 \u2192 appears as 'twice in January'\n\u2022 This is NOT two periods in one cycle \u2014 it is two normal cycles in one calendar month\n\u2022 Nothing is wrong if your cycle is consistently this length\n\n\u26a0\ufe0f WHEN TO INVESTIGATE:\n\u2022 Your cycle was always 28\u201330 days and now suddenly you're having 2 periods/month\n\u2022 True mid-cycle bleeding (spotting between periods that is different from your usual period)\n\u2022 Heavy, prolonged bleeding that doesn't stop properly between occurrences\n\n\ud83d\udd0d CAUSES TO RULE OUT IF SUDDEN CHANGE:\n\u2022 Hormonal imbalance (PCOS, thyroid problem)\n\u2022 Uterine fibroids or polyps\n\u2022 Perimenopause (if over 40)\n\u2022 Stress or rapid weight change\n\u2022 Pregnancy-related bleeding\n\n\ud83d\udca1 WHAT TO DO:\n\u2022 Track your cycles carefully for 2\u20133 months\n\u2022 Count from Day 1 (first day of full flow) to Day 1 of next period \u2014 if consistently 21\u201324 days, it's a short cycle\n\u2022 If suddenly changed, see a gynecologist for blood tests and ultrasound",
+    "keywords": [
+      "two periods one month",
+      "period twice a month",
+      "double period",
+      "short cycle two periods",
+      "getting period twice",
+      "why period twice",
+      "21 day cycle",
+      "period every three weeks"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can I donate blood during my period?",
+    "answer": "Yes \u2014 you can donate blood during your period if you meet all standard eligibility criteria.\n\n\u2705 ELIGIBILITY BASICS (same as non-period days):\n\u2022 Minimum hemoglobin: 12.5 g/dL for women\n\u2022 Age: 18\u201365 years (varies slightly by centre)\n\u2022 Weight: minimum 45\u201350 kg\n\u2022 No fever, illness, or recent medication\n\u2022 The donation centre will check your hemoglobin before accepting the donation\n\n\u26a0\ufe0f PRACTICAL CONSIDERATIONS:\n\u2022 If you have HEAVY periods (menorrhagia), your hemoglobin may already be low \u2192 you may be deferred at the pre-donation hemoglobin test. This is the test's purpose \u2014 it protects your health.\n\u2022 If you feel dizzy, weak, or unwell during your period \u2014 wait until after your period ends. Donating blood when you are already feeling weak from cramps or heavy flow is not ideal for your wellbeing.\n\u2022 On a normal or light flow day with no significant symptoms, there is no medical reason not to donate.\n\n\ud83d\udccb MEDICAL FACT:\nThere is NO medical rule against blood donation during menstruation. It is a personal comfort and hemoglobin-level decision, not a medical prohibition.\n\n\ud83e\ude78 AFTER DONATION:\n\u2022 Drink extra fluids and eat iron-rich foods afterward\n\u2022 Rest for at least 30 minutes at the donation centre\n\u2022 Avoid vigorous exercise on donation day\n\n\ud83d\udca1 Donating blood is a valuable act at any time of the month \u2014 as long as your hemoglobin is adequate and you feel well.",
+    "keywords": [
+      "blood donation period",
+      "donate blood menstruation",
+      "can I donate blood during period",
+      "blood donation while on period",
+      "period and blood bank",
+      "hemoglobin blood donation period",
+      "donate blood menstrual cycle"
+    ],
+    "category": "General",
+    "is_direct": true
+  },
+  {
+    "question": "What happens during a pelvic exam? Should I be scared?",
+    "answer": "A pelvic exam is a standard, routine medical examination of the female reproductive organs. Understanding what happens helps reduce anxiety.\n\n\ud83d\udccb WHAT IT INVOLVES:\n\n1. EXTERNAL EXAM:\nThe gynecologist visually examines the external genital area (vulva) for any visible abnormalities.\n\n2. SPECULUM EXAM:\nA speculum \u2014 a small, smooth instrument \u2014 is gently inserted into the vaginal opening to open the walls slightly, allowing the doctor to see the cervix. This is used for Pap smears, STI testing, and diagnosing discharge or bleeding.\n\n3. BIMANUAL EXAM:\nThe doctor places two fingers inside the vagina while pressing on the lower abdomen from outside, to feel the size, position, and texture of the uterus and ovaries.\n\n\u26a0\ufe0f DOES IT HURT?\n\u2022 It should NOT be painful, though it may feel mildly uncomfortable or pressure-like\n\u2022 Deep breathing helps relax pelvic muscles\n\u2022 If you feel pain, tell the doctor immediately \u2014 they can adjust\n\n\ud83d\udd11 YOUR RIGHTS:\n\u2022 You can stop or pause at any time\n\u2022 You can request a female doctor or female nurse chaperone\n\u2022 You can ask what each step involves before it happens\n\u2022 You do not need parental consent as an adult\n\n\ud83d\udca1 Gynecologists perform pelvic exams multiple times daily \u2014 it is completely routine medical care. The exam is typically over in 3\u20135 minutes. Being prepared is the best way to feel in control.",
+    "keywords": [
+      "pelvic exam",
+      "what is pelvic exam",
+      "scared pelvic exam",
+      "gynecologist exam",
+      "speculum exam",
+      "internal exam gynecologist",
+      "pelvic exam virgin",
+      "bimanual exam",
+      "pelvic exam painful"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Can a teenager have PCOS?",
+    "answer": "Yes \u2014 PCOS (Polycystic Ovary Syndrome) can and does affect teenagers. It is one of the most common hormonal disorders in adolescent girls.\n\n\ud83d\udccb SIGNS OF PCOS IN TEENAGERS:\n\u2022 Irregular or very infrequent periods \u2014 fewer than 8 periods per year, or cycles longer than 35 days\n\u2022 Periods completely absent for months\n\u2022 Acne that is hard to control \u2014 especially on jaw, chin, chest, and back\n\u2022 Excess hair on face, upper lip, chin, or chest (hirsutism)\n\u2022 Thinning hair from the scalp (while growing elsewhere)\n\u2022 Weight gain, especially around the belly\n\u2022 Difficulty losing weight despite diet and exercise\n\u2022 Darkening of skin in neck folds, armpits (acanthosis nigricans \u2014 sign of insulin resistance)\n\n\u26a0\ufe0f IMPORTANT NOTE \u2014 Teenage cycles are normally irregular:\nIrregular periods in the first 1\u20133 years after menarche are completely normal as the hormonal system matures. PCOS is suspected when irregularity persists beyond 2\u20133 years after first period, or when combined with the other signs above.\n\n\ud83e\ude7a DIAGNOSIS:\n\u2022 Blood tests: FSH, LH, testosterone, DHEAS, fasting insulin, blood glucose, thyroid (TSH)\n\u2022 Pelvic ultrasound (after 18 years typically, for internal imaging)\n\n\ud83d\udc8a MANAGEMENT (PCOS cannot be cured but IS controllable):\n\u2022 Diet: low-glycemic index (brown rice, whole wheat, oats, dal, vegetables)\n\u2022 Exercise: 30 min, 5\u00d7 per week significantly improves insulin sensitivity\n\u2022 Medication: Metformin, combined pill, or other hormonal options \u2014 as prescribed by doctor\n\n\ud83d\udca1 Early diagnosis in teenagers prevents long-term complications including diabetes, infertility, and cardiovascular risk.",
+    "keywords": [
+      "PCOS teenager",
+      "teenage PCOS",
+      "PCOS at 15",
+      "PCOS adolescent",
+      "PCOS young girl",
+      "teen irregular period PCOS",
+      "PCOS symptoms teenager",
+      "polycystic ovary teenager",
+      "PCOS age 14 15 16"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is PMOS (Polyendocrine Metabolic Ovarian Syndrome)?",
+    "answer": "PMOS, formerly known as PCOS (Polycystic Ovary Syndrome), is a hormonal disorder affecting individuals with ovaries. It is characterized by elevated androgen levels, insulin resistance, metabolic dysfunction, and ovulatory dysfunction. The new name, PMOS, better reflects the metabolic and endocrine aspects of the condition, emphasizing its systemic nature beyond just the ovaries.",
+    "keywords": [
+      "pmos"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What are the symptoms of PMOS?",
+    "answer": "Symptoms of PMOS include irregular or absent menstrual periods, heavy menstrual bleeding, hirsutism (excessive facial and body hair), acne, hair loss (alopecia), dark patches of skin (acanthosis nigricans), difficulty conceiving, and increased risk of metabolic disorders including insulin resistance and type 2 diabetes. Weight gain or difficulty losing weight is also common.",
+    "keywords": [
+      "pmos"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is PMOS diagnosed?",
+    "answer": "PMOS is typically diagnosed using the Rotterdam Criteria, which requires the presence of at least two of the following: irregular or anovulatory cycles, clinical or biochemical signs of hyperandrogenism, and polycystic ovarian morphology on ultrasound. Blood tests measuring hormone levels (testosterone, LH, FSH) and metabolic markers (fasting glucose, insulin) are also conducted. Other conditions with similar symptoms must be ruled out.",
+    "keywords": [
+      "pmos"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What are the treatment options for PMOS?",
+    "answer": "Treatment for PMOS is individualized based on symptoms and reproductive goals. Options include hormonal contraceptives to regulate cycles and reduce androgen production, anti-androgen medications like spironolactone, metformin for insulin resistance, lifestyle modifications including diet and exercise, and fertility treatments such as ovulation-inducing medications or assisted reproductive technologies for those seeking pregnancy.",
+    "keywords": [
+      "pmos"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is anovulation?",
+    "answer": "Anovulation is the absence of ovulation during menstrual cycles. Individuals with anovulatory cycles typically have irregular, often heavy periods as the endometrium proliferates unopposed by progesterone. Anovulation may be temporary due to stress, weight changes, or excessive exercise, or chronic due to conditions such as PMOS, hypothyroidism, or hyperprolactinemia.",
+    "keywords": [
+      "anovulation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What causes anovulation?",
+    "answer": "Anovulation results from disruption in the hypothalamic-pituitary-ovarian axis. Causes include PMOS, thyroid disorders, hyperprolactinemia, hypothalamic amenorrhea due to stress or weight loss, gonadal dysgenesis, and aging during perimenopause. Some medications including antipsychotics and some anticonvulsants can also cause anovulation. Anovulation is particularly common during puberty and perimenopause when cycles are establishing or becoming irregular.",
+    "keywords": [
+      "anovulation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is anovulation treated?",
+    "answer": "Treatment depends on whether fertility is desired. To regulate bleeding and reduce endometrial hyperplasia risk, hormonal contraceptives or progestins are used. If fertility is desired, ovulation-inducing medications such as clomiphene citrate or letrozole are prescribed. Treatment of underlying conditions such as thyroid disorders or PMOS may restore ovulatory cycles. Weight gain or loss and stress reduction may also restore normal ovulation.",
+    "keywords": [
+      "anovulation"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is dysmenorrhea treated?",
+    "answer": "Dysmenorrhea is treated with nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen, naproxen, or mefenamic acid, which inhibit prostaglandin production. Hormonal contraceptives can reduce prostaglandin synthesis and menstrual flow. Other approaches include heat therapy, muscle relaxation, regular exercise, dietary modifications, stress management, and in severe cases, surgical intervention for secondary dysmenorrhea.",
+    "keywords": [
+      "dysmenorrhea"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is menorrhagia?",
+    "answer": "Menorrhagia is abnormally heavy or prolonged menstrual bleeding, defined as menstrual blood loss exceeding 80 milliliters per cycle or menstruation lasting longer than 7 days. Individuals with menorrhagia may experience symptoms such as soaking through one or more pads or tampons every hour for several consecutive hours, passing large blood clots, and suffering from fatigue and anemia due to iron loss.",
+    "keywords": [
+      "menorrhagia"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What are uterine fibroids?",
+    "answer": "Uterine fibroids, also called leiomyomas, are benign smooth muscle tumors of the uterus. They are classified by location as submucosal (projecting into the uterine cavity), intramural (within the uterine wall), or subserosal (projecting outside the uterus). Fibroids are extremely common, affecting up to 80% of people with uteruses by age 50, though many remain asymptomatic.",
+    "keywords": [
+      "uterine fibroids"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Asherman's Syndrome?",
+    "answer": "Asherman's Syndrome is a rare, acquired condition characterized by the formation of scar tissue (adhesions) inside the uterus or cervix. It often occurs after a surgical procedure like a D&C (dilation and curettage) or severe pelvic infection. Symptoms include very light periods (hypomenorrhea), no periods (amenorrhea), and recurrent pregnancy loss or infertility.",
+    "keywords": [
+      "asherman's syndrome",
+      "scar tissue uterus",
+      "adhesions",
+      "asherman"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is Asherman's Syndrome diagnosed and treated?",
+    "answer": "Diagnosis is usually confirmed with a hysteroscopy (a thin telescope inserted into the uterus) or a specialized ultrasound (sonohysterogram). Treatment involves hysteroscopic surgery to cut and remove the scar tissue, followed by estrogen therapy to help the healthy uterine lining regrow and prevent scars from reforming.",
+    "keywords": [
+      "asherman diagnosis",
+      "asherman treatment",
+      "treat asherman's"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Vulvodynia?",
+    "answer": "Vulvodynia is chronic, unexplained pain in the area around the opening of the vagina (vulva) that lasts for at least three months. The pain can feel like burning, stinging, rawness, or throbbing, making sitting, wearing tight clothes, or sexual intercourse extremely uncomfortable.",
+    "keywords": [
+      "vulvodynia",
+      "vulvar pain",
+      "chronic vaginal pain",
+      "burning vagina"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What should you do if you have Vulvodynia?",
+    "answer": "If you experience chronic vulvar pain, consult a gynecologist. Treatment focuses on symptom relief and may include topical medications (like local anesthetics or estrogen creams), nerve block injections, pelvic floor physical therapy, and lifestyle changes like wearing 100% cotton underwear, using cold compresses, and avoiding irritating soaps.",
+    "keywords": [
+      "vulvodynia treatment",
+      "treat vulvodynia",
+      "relieve vulvar pain"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Vaginismus?",
+    "answer": "Vaginismus is a condition where the muscles of the pelvic floor and vagina squeeze or spasm involuntarily when attempting penetration (such as inserting a tampon, having a pelvic exam, or during intercourse), causing significant pain or making it impossible. It is a physical reflex, often triggered by anxiety, fear of pain, or past trauma.",
+    "keywords": [
+      "vaginismus",
+      "vaginal spasms",
+      "painful penetration",
+      "can't insert tampon"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is Vaginismus diagnosed and treated?",
+    "answer": "Diagnosis is made based on medical history and a gentle pelvic exam. Treatment is highly effective and usually involves a combination of pelvic floor physical therapy, using vaginal dilators to gently train the muscles to relax and stretch over time, and cognitive-behavioral therapy (CBT) to address any underlying anxiety or trauma.",
+    "keywords": [
+      "vaginismus treatment",
+      "diagnose vaginismus",
+      "treat vaginal spasms"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Premature Ovarian Insufficiency (POI)?",
+    "answer": "POI, formerly known as premature ovarian failure, happens when the ovaries stop functioning normally before age 40. This causes irregular or missed periods, hot flashes, night sweats, vaginal dryness, and difficulty getting pregnant. Unlike menopause, individuals with POI may still occasionally ovulate and have periods.",
+    "keywords": [
+      "poi",
+      "premature ovarian insufficiency",
+      "premature ovarian failure",
+      "early menopause"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How do you manage Premature Ovarian Insufficiency (POI)?",
+    "answer": "Diagnosis involves blood tests for hormone levels (like high FSH and low estrogen). Treatment typically involves Hormone Replacement Therapy (HRT) to relieve symptoms and prevent bone loss (osteoporosis) and heart disease, along with calcium and vitamin D supplements. Counseling is also recommended for emotional support.",
+    "keywords": [
+      "manage poi",
+      "poi treatment",
+      "treat premature ovarian insufficiency"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "How is Adenomyosis diagnosed and managed?",
+    "answer": "It is often diagnosed via ultrasound or MRI, though a definitive diagnosis sometimes requires examining uterine tissue after a hysterectomy. Management includes anti-inflammatory medications (NSAIDs) for pain, hormonal treatments (like birth control pills or hormonal IUDs) to thin the lining and control bleeding, and in severe cases, surgical options.",
+    "keywords": [
+      "adenomyosis treatment",
+      "diagnose adenomyosis",
+      "manage adenomyosis"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What is Mittelschmerz?",
+    "answer": "Mittelschmerz is a German word meaning 'middle pain'. It refers to one-sided, lower abdominal or pelvic pain associated with normal ovulation. It occurs mid-cycle, about 14 days before your next period, and usually lasts from a few minutes to a few hours.",
+    "keywords": [
+      "mittelschmerz",
+      "ovulation pain",
+      "middle pain",
+      "mid-cycle pain"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "What should you do for Mittelschmerz (ovulation pain)?",
+    "answer": "Mittelschmerz is normal and rarely serious. You can manage the pain with rest, a heating pad applied to the lower abdomen, and over-the-counter pain relievers like ibuprofen. If the pain is extremely severe, accompanied by fever, nausea, or heavy bleeding, seek medical attention immediately to rule out appendicitis or ectopic pregnancy.",
+    "keywords": [
+      "mittelschmerz treatment",
+      "ovulation pain relief",
+      "treat mittelschmerz"
+    ],
+    "category": "Health",
+    "is_direct": true
+  },
+  {
+    "question": "Why do I feel more sexual desire during certain times of my menstrual cycle?",
+    "answer": "Sexual desire naturally fluctuates throughout the menstrual cycle due to hormonal changes. Many people experience increased libido around ovulation (mid-cycle) when estrogen levels peak and progesterone is lower. This is a normal biological response. Conversely, some experience decreased desire before their period when progesterone is high. These variations are completely normal and differ between individuals.",
+    "keywords": [
+      "feel",
+      "more",
+      "sexual",
+      "desire",
+      "during",
+      "certain",
+      "times",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Sexual Health & Desire"
+  },
+  {
+    "question": "Is it normal to feel horny during my period?",
+    "answer": "Yes, it is completely normal to experience increased sexual desire during menstruation. Hormonal changes, increased blood flow to the pelvic area, and heightened sensitivity during this time can increase arousal. Some individuals experience stronger orgasms during their period. This is a healthy, normal variation in sexual response throughout the menstrual cycle.",
+    "keywords": [
+      "normal",
+      "feel",
+      "horny",
+      "during",
+      "period"
+    ],
+    "category": "Sexual Health & Desire"
+  },
+  {
+    "question": "Can I have sex during my period?",
+    "answer": "Yes, you can safely have sex during your period. Many people choose to do so. Menstruation is not a contraindication to sexual activity. If you choose to have sex during your period, use barrier methods like condoms to reduce the risk of STI transmission, as menstrual blood can increase STI transmission risk. You can also use sex during your period as an opportunity to explore different positions or activities.",
+    "keywords": [
+      "have",
+      "during",
+      "period"
+    ],
+    "category": "Sexual Health & Desire"
+  },
+  {
+    "question": "Can my menstrual cycle affect my sex drive and how do I manage fluctuations?",
+    "answer": "Yes, sexual desire fluctuates throughout your cycle, typically peaking around ovulation and declining in the luteal phase. This is normal variation. To manage fluctuations: communicate with your partner about your cycle; plan intimate time when you feel more interested rather than forcing it; recognize that lowered desire is temporary; focus on non-sexual intimacy when desire is low; explore what works for you at different cycle phases; maintain overall relationship connection; address any underlying health issues; and discuss hormonal contraceptives with your provider if cycle-related changes are problematic.",
+    "keywords": [
+      "menstrual",
+      "cycle",
+      "affect",
+      "drive",
+      "manage",
+      "fluctuations"
+    ],
+    "category": "Sexual Health & Desire"
+  },
+  {
+    "question": "Why do I feel sad or depressed during my menstrual cycle?",
+    "answer": "Hormonal changes, particularly fluctuations in serotonin and estrogen during the luteal phase, can contribute to sadness or mild depression. Prostaglandins released during menstruation can also affect mood. Additionally, physical discomfort, sleep disruption, and life stressors may be amplified during this time. This is different from clinical depression but warrants attention and management through lifestyle modifications or, if severe, professional mental health support.",
+    "keywords": [
+      "feel",
+      "depressed",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Mood Changes & Emotions"
+  },
+  {
+    "question": "Why do I feel angry or irritable during my menstrual cycle?",
+    "answer": "Yes, anger and irritability are common during the luteal phase due to hormonal fluctuations affecting mood regulation. Progesterone dominance, changes in serotonin, and physical discomfort can all contribute to irritability. This is a normal response to hormonal changes but can be managed. Recognizing the pattern helps you approach situations with awareness. If irritability becomes unmanageable or damages relationships, discuss with your healthcare provider about treatment options including hormonal therapies or SSRIs.",
+    "keywords": [
+      "feel",
+      "angry",
+      "irritable",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Mood Changes & Emotions"
+  },
+  {
+    "question": "Why do I feel more sexual desire during certain times of my menstrual cycle?",
+    "answer": "Sexual desire naturally fluctuates throughout the menstrual cycle due to hormonal changes. Many people experience increased libido around ovulation (mid-cycle) when estrogen levels peak and progesterone is lower. This is a normal biological response. Conversely, some experience decreased desire before their period when progesterone is high. These variations are completely normal and differ between individuals.",
+    "keywords": [
+      "feel",
+      "more",
+      "sexual",
+      "desire",
+      "during",
+      "certain",
+      "times",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Mood Changes & Emotions"
+  },
+  {
+    "question": "How can I manage mood swings during my menstrual cycle?",
+    "answer": "Mood swings are common during menstruation due to hormonal fluctuations. Management strategies include: tracking your mood to identify patterns; practicing stress management techniques like deep breathing, meditation, or yoga; maintaining regular exercise which improves mood; ensuring adequate sleep; eating a balanced diet; avoiding excessive caffeine and alcohol; spending time in sunlight for vitamin D; and maintaining social connections. If mood swings significantly impact daily life, discuss with your healthcare provider.",
+    "keywords": [
+      "manage",
+      "mood",
+      "swings",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Managing Mood Changes"
+  },
+  {
+    "question": "How can I manage depression during my menstrual cycle?",
+    "answer": "Management strategies for menstrual-related depression include: maintaining a mood calendar to track patterns; regular aerobic exercise which boosts mood-regulating neurotransmitters; ensuring adequate sleep and rest; eating nutrient-dense foods especially those rich in omega-3s, B vitamins, and magnesium; practicing relaxation techniques like meditation or deep breathing; maintaining social connections and support; getting natural sunlight exposure; limiting alcohol and caffeine; and seeking professional help if symptoms are severe. SSRIs taken during the luteal phase or continuously may be prescribed.",
+    "keywords": [
+      "manage",
+      "depression",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Managing Mood Changes"
+  },
+  {
+    "question": "How can I manage anger and irritability during my menstrual cycle?",
+    "answer": "Management strategies include: recognizing that irritability is hormonally influenced, not character flaws; using stress reduction techniques like deep breathing, progressive relaxation, or meditation; exercising regularly; maintaining adequate sleep; eating balanced meals; limiting caffeine and alcohol; communicating your cycle pattern to close relationships so they can provide support; using journaling or therapy to process emotions; practicing assertiveness without aggression; taking time alone if needed; and discussing with your healthcare provider if irritability is severe.",
+    "keywords": [
+      "manage",
+      "anger",
+      "irritability",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Managing Mood Changes"
+  },
+  {
+    "question": "How can I manage anxiety during my menstrual cycle?",
+    "answer": "Anxiety management strategies include: practicing deep breathing exercises or progressive muscle relaxation; regular aerobic exercise; limiting caffeine and alcohol; maintaining consistent sleep schedule; practicing mindfulness or meditation; spending time in nature; maintaining social connections; keeping a journal to track patterns; using cognitive-behavioral techniques to challenge anxious thoughts; and discussing with your healthcare provider if anxiety significantly impacts daily life. Magnesium supplementation and some herbal teas may also help. Severe anxiety may require medication.",
+    "keywords": [
+      "manage",
+      "anxiety",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Managing Mood Changes"
+  },
+  {
+    "question": "What is Premenstrual Dysphoric Disorder (PMDD) and how is it different from PMS?",
+    "answer": "PMDD is a severe form of PMS marked by significant mood disturbance including depression, anxiety, anger, or emotional lability during the luteal phase. Unlike PMS which involves mild mood changes and physical symptoms, PMDD causes debilitating emotional and behavioral changes that substantially interfere with work, relationships, and daily functioning. PMDD affects 3-8% of menstruating individuals and is classified as a mental health disorder requiring professional treatment.",
+    "keywords": [
+      "what",
+      "premenstrual",
+      "dysphoric",
+      "disorder",
+      "(pmdd)",
+      "different",
+      "from"
+    ],
+    "category": "PMDD & Severe Symptoms"
+  },
+  {
+    "question": "I feel suicidal during my period. What should I do?",
+    "answer": "If you are experiencing suicidal thoughts, please seek help immediately. Contact a suicide prevention hotline (such as the 988 Suicide and Crisis Lifeline in the US, available 24/7), go to an emergency room, or call emergency services. Speak with a mental health professional about your cyclical suicidal thoughts, as they may be related to PMDD or other menstrual disorders that are treatable. These feelings are serious and warrant professional evaluation and support.",
+    "keywords": [
+      "feel",
+      "suicidal",
+      "during",
+      "period.",
+      "what",
+      "should"
+    ],
+    "category": "PMDD & Severe Symptoms"
+  },
+  {
+    "question": "What is the most fertile time in my menstrual cycle?",
+    "answer": "The most fertile time is typically the 5 days before ovulation and the day of ovulation itself, often called the fertility window. For a typical 28-day cycle, ovulation occurs around day 14, making days 9-14 the most fertile period. However, this varies significantly between individuals. Sperm can survive up to 5 days in the reproductive tract, so conception can occur from intercourse several days before ovulation.",
+    "keywords": [
+      "what",
+      "most",
+      "fertile",
+      "time",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Fertility Awareness"
+  },
+  {
+    "question": "How can I determine when I'm ovulating?",
+    "answer": "Ovulation can be detected through several methods: tracking basal body temperature (slight rise of 0.5-1\u00b0F after ovulation), observing cervical mucus changes (becomes clear, stretchy, and slippery around ovulation), using ovulation predictor kits that detect the LH surge, tracking cycle length if your cycles are regular, or using fertility apps that estimate ovulation. Ultrasound can definitively confirm ovulation. Combining multiple methods increases accuracy.",
+    "keywords": [
+      "determine",
+      "when",
+      "ovulating"
+    ],
+    "category": "Fertility Awareness"
+  },
+  {
+    "question": "How do I track my fertility window accurately?",
+    "answer": "Methods to track fertility include: calendar method (tracking cycle length, requires regular cycles); basal body temperature tracking (temperature rises slightly after ovulation); cervical mucus observation (becomes clear and stretchy during fertility window); ovulation predictor kits (detect LH surge 24-36 hours before ovulation); tracking apps that combine methods; or ultrasound monitoring by healthcare providers. Combining multiple methods increases accuracy. Apps work best with regular cycles. For reliable contraception, these methods should be combined with barrier methods.",
+    "keywords": [
+      "track",
+      "fertility",
+      "window",
+      "accurately"
+    ],
+    "category": "Fertility Awareness"
+  },
+  {
+    "question": "What does cervical mucus tell me about my fertility?",
+    "answer": "Cervical mucus changes throughout your cycle provide fertility clues: During the follicular phase and after ovulation, mucus is thick, sticky, and minimal. As you approach ovulation (fertility window), mucus becomes clear, stretchy, slippery, and abundant, similar to raw egg white. This change is triggered by rising estrogen and creates an optimal environment for sperm survival and transport. After ovulation, mucus becomes thick again. Observing these changes helps identify your fertility window. Changes are most noticeable at the cervix or on underwear.",
+    "keywords": [
+      "what",
+      "does",
+      "cervical",
+      "mucus",
+      "tell",
+      "about",
+      "fertility"
+    ],
+    "category": "Fertility Awareness"
+  },
+  {
+    "question": "Can I get pregnant if I have unprotected sex during my period?",
+    "answer": "While pregnancy is less likely during menstruation, it is still possible, especially if you have a shorter menstrual cycle (less than 21 days). If ovulation occurs early, sperm can survive and fertilize an egg. Additionally, cycle irregularity can make it difficult to predict when you are menstruating versus spotting from ovulation. For reliable contraception, use consistent protection regardless of cycle timing.",
+    "keywords": [
+      "pregnant",
+      "have",
+      "unprotected",
+      "during",
+      "period"
+    ],
+    "category": "Pregnancy Prevention & Unprotected Sex"
+  },
+  {
+    "question": "Is unprotected sex during my period safe?",
+    "answer": "While the risk of pregnancy is generally lower during menstruation, it is not zero, particularly if you have a short cycle. Unprotected sex during your period carries risks of STI transmission and potential pregnancy. Even if pregnancy risk is lower, STIs can still be transmitted, and menstrual blood increases the transmission risk. Condoms or other barrier methods are recommended even during your period.",
+    "keywords": [
+      "unprotected",
+      "during",
+      "period",
+      "safe"
+    ],
+    "category": "Pregnancy Prevention & Unprotected Sex"
+  },
+  {
+    "question": "Can I get pregnant right before my period?",
+    "answer": "Pregnancy is unlikely right before your period in a regular cycle, as you would be in the luteal phase after ovulation has already passed. However, if you have irregular cycles or a shorter cycle than expected, pregnancy remains possible. Additionally, what appears to be spotting before your period could potentially be implantation bleeding from pregnancy. If you miss your expected period, take a pregnancy test.",
+    "keywords": [
+      "pregnant",
+      "right",
+      "before",
+      "period"
+    ],
+    "category": "Pregnancy Prevention & Unprotected Sex"
+  },
+  {
+    "question": "Can I get pregnant during my period?",
+    "answer": "While less likely, pregnancy during menstruation is possible, particularly if you have a short cycle or irregular bleeding. If ovulation occurs earlier than expected, sperm from intercourse during your period could fertilize an egg. Additionally, what you perceive as your period might be irregular bleeding rather than true menstruation. For reliable pregnancy prevention, use consistent contraception regardless of where you are in your cycle.",
+    "keywords": [
+      "pregnant",
+      "during",
+      "period"
+    ],
+    "category": "Pregnancy Prevention & Unprotected Sex"
+  },
+  {
+    "question": "What should I do immediately after unprotected sex if I don't want to get pregnant?",
+    "answer": "Emergency contraception is your immediate option. Levonorgestrel (Plan B) works best within 72 hours, with some efficacy up to 120 hours after intercourse. Ulipristal acetate (Ella) works better than levonorgestrel and is effective up to 120 hours. Copper IUD insertion within 5 days is most effective emergency contraception. These methods prevent or delay ovulation. After using emergency contraception, continue using reliable contraception. Discuss longer-term contraception with your healthcare provider to prevent future unprotected exposures.",
+    "keywords": [
+      "what",
+      "should",
+      "immediately",
+      "after",
+      "unprotected",
+      "don't",
+      "want",
+      "pregnant"
+    ],
+    "category": "Pregnancy Prevention & Unprotected Sex"
+  },
+  {
+    "question": "What should I do if I want to increase my chances of getting pregnant?",
+    "answer": "To increase fertility: have regular intercourse, ideally every other day throughout your cycle, or specifically during the fertility window (5 days before through day of ovulation); maintain a healthy weight; eat a balanced, nutrient-rich diet; take prenatal vitamins with folic acid; avoid smoking, excessive alcohol, and drugs; manage stress; exercise regularly but not excessively; ensure adequate sleep; limit caffeine; and track your cycle to understand your fertility window. If trying to conceive for over one year (or 6 months if over 35), see a fertility specialist.",
+    "keywords": [
+      "what",
+      "should",
+      "want",
+      "increase",
+      "chances",
+      "getting",
+      "pregnant"
+    ],
+    "category": "Conception & Getting Pregnant"
+  },
+  {
+    "question": "How many days after ovulation can I still get pregnant?",
+    "answer": "You can get pregnant for about 12-24 hours after ovulation, as the egg can only be fertilized during this window. However, since sperm can survive 3-5 days in the reproductive tract, you can get pregnant from intercourse that occurred several days before ovulation. This is why the entire fertility window (5 days before ovulation through 1 day after) is considered the time when pregnancy is possible. Timing intercourse after ovulation is too late for conception.",
+    "keywords": [
+      "many",
+      "days",
+      "after",
+      "ovulation",
+      "still",
+      "pregnant"
+    ],
+    "category": "Conception & Getting Pregnant"
+  },
+  {
+    "question": "What are my options if I'm having trouble conceiving?",
+    "answer": "If you've been trying to conceive for over one year (or 6 months if age 35+), see a fertility specialist. Evaluation typically includes: cycle tracking and timing assessment, semen analysis, blood tests checking ovulatory hormones, ultrasound to assess ovaries and uterus, and sometimes imaging or surgical evaluation. Treatment options depend on the cause and may include: timing intercourse during fertility window, medications to induce ovulation, intrauterine insemination (IUI), or in-vitro fertilization (IVF). Many causes of infertility are treatable.",
+    "keywords": [
+      "what",
+      "options",
+      "having",
+      "trouble",
+      "conceiving"
+    ],
+    "category": "Conception & Getting Pregnant"
+  },
+  {
+    "question": "Can I become pregnant while breastfeeding?",
+    "answer": "Yes, you can become pregnant while breastfeeding, though the risk is lower if you are exclusively breastfeeding (lactational amenorrhea method has about 98% effectiveness if done perfectly, but typical use effectiveness is lower). Once you've had a period or started supplementing with formula, pregnancy risk increases. If you don't want to become pregnant while breastfeeding, use reliable contraception. Some contraceptive methods are safe while breastfeeding, including progestin-only methods, barrier methods, and copper IUDs, but avoid combined hormonal contraceptives if exclusively breastfeeding.",
+    "keywords": [
+      "become",
+      "pregnant",
+      "while",
+      "breastfeeding"
+    ],
+    "category": "Conception & Getting Pregnant"
+  },
+  {
+    "question": "How soon can I take a pregnancy test after intercourse?",
+    "answer": "Pregnancy tests detect human chorionic gonadotropin (hCG) hormone. The earliest reliable testing is about 12-14 days after intercourse (typically when you would expect your period or shortly before). Blood tests can detect hCG slightly earlier than urine tests. Testing too early may give false negatives. For most accurate results, test on the day you expect your period or later. If testing is negative but you still suspect pregnancy, repeat the test one week later or contact your healthcare provider.",
+    "keywords": [
+      "soon",
+      "take",
+      "pregnancy",
+      "test",
+      "after",
+      "intercourse"
+    ],
+    "category": "Pregnancy Testing & Confirmation"
+  },
+  {
+    "question": "I think I might be pregnant. What should I do?",
+    "answer": "Take a pregnancy test when you're about 2 weeks after intercourse or from when you expect your period. You can get tests at home, pharmacies, or clinics. If positive, schedule an appointment with your healthcare provider to confirm the pregnancy and discuss your options. If negative but you still suspect pregnancy, retest in a week or contact your healthcare provider. Once you know your status, you can discuss next steps whether continuing pregnancy, adoption, or abortion based on your values and circumstances.",
+    "keywords": [
+      "think",
+      "might",
+      "pregnant.",
+      "what",
+      "should"
+    ],
+    "category": "Pregnancy Testing & Confirmation"
+  },
+  {
+    "question": "What contraceptive methods are available and how effective are they?",
+    "answer": "Effectiveness varies: Sterilization (tubal ligation/vasectomy): 99%+; IUDs and implants: 99%+; Injectable (Depo-Provera): 94%; Pill, patch, ring: 91%; Diaphragm/cervical cap: 88%; Condoms: 82%; Spermicide: 72%; Fertility awareness: 76%; Withdrawal: 78%. Perfect use rates are higher. If pregnancy prevention is critical, IUDs, implants, or sterilization are most reliable. Combining methods increases effectiveness. Discuss options with your healthcare provider to find what works best for your situation.",
+    "keywords": [
+      "what",
+      "contraceptive",
+      "methods",
+      "available",
+      "effective",
+      "they"
+    ],
+    "category": "Contraception & Protection"
+  },
+  {
+    "question": "Can I get pregnant while using barrier contraception?",
+    "answer": "Yes, no barrier method is 100% effective. Condoms have a typical use failure rate of 18%, diaphragms 12%, and cervical caps 24%. Effectiveness depends on proper and consistent use. To increase protection, use a backup method like spermicide, combine methods, or use more reliable contraceptives like IUDs or implants if pregnancy prevention is critical. No method is perfect, so if pregnancy is not acceptable, discuss more reliable options with your healthcare provider.",
+    "keywords": [
+      "pregnant",
+      "while",
+      "using",
+      "barrier",
+      "contraception"
+    ],
+    "category": "Contraception & Protection"
+  },
+  {
+    "question": "Can I use contraception and still track my fertility?",
+    "answer": "If you use hormonal contraceptives like birth control pills, patches, or rings, ovulation is suppressed, so tracking fertility is not possible or necessary because you are protected from pregnancy. However, if you use barrier methods only (condoms, diaphragm), you can still track fertility to identify when you're at higher risk and use contraception more consistently. Tracking fertility while using IUDs or implants is also possible but not necessary since these are highly effective. Discuss fertility tracking options with your healthcare provider.",
+    "keywords": [
+      "contraception",
+      "still",
+      "track",
+      "fertility"
+    ],
+    "category": "Contraception & Protection"
+  },
+  {
+    "question": "Can I skip my period using birth control?",
+    "answer": "Yes, if you use hormonal contraceptives. With birth control pills, you can skip placebo pills and continue active pills to delay your period. Continuous or extended-cycle pills are designed for this. Hormonal patches and rings can also be used continuously. Talk to your healthcare provider about what's safe for your specific method. Skipping periods is safe and does not harm your fertility. Some people skip periods for convenience, medical reasons, or personal preference. Discuss options with your provider.",
+    "keywords": [
+      "skip",
+      "period",
+      "using",
+      "birth",
+      "control"
+    ],
+    "category": "Contraception & Protection"
+  },
+  {
+    "question": "How do hormonal contraceptives affect my menstrual cycle?",
+    "answer": "Hormonal contraceptives (pills, patches, rings) regulate your cycle and typically reduce flow and cramping. Combined hormonal contraceptives suppress ovulation and thin the endometrium, reducing bleeding. Progestin-only methods may reduce flow or cause irregular bleeding. Some individuals skip periods intentionally by not taking placebo pills. Others experience breakthrough bleeding, especially initially. Bleeding typically becomes lighter and more predictable within 3 months. If you experience excessive bleeding or other concerning changes, discuss with your provider.",
+    "keywords": [
+      "hormonal",
+      "contraceptives",
+      "affect",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Contraception & Protection"
+  },
+  {
+    "question": "What vitamins and supplements can help with menstrual mood changes?",
+    "answer": "Several supplements may help reduce mood symptoms: Calcium (1000-1200 mg daily) has strong evidence for reducing mood and physical PMS symptoms. Magnesium (360 mg daily) may help with mood and water retention. Vitamin B6 (50-100 mg daily) supports serotonin production. Omega-3 fatty acids reduce inflammation and support mood. Vitamin D deficiency is associated with depression and PMS. Chasteberry may help hormone balance. Always consult with a healthcare provider before starting supplements, especially if taking medications.",
+    "keywords": [
+      "what",
+      "vitamins",
+      "supplements",
+      "help",
+      "with",
+      "menstrual",
+      "mood",
+      "changes"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "How does exercise help with menstrual cycle mood changes?",
+    "answer": "Regular exercise is highly effective for managing mood changes throughout the menstrual cycle. Exercise increases endorphins (natural mood-elevating chemicals), improves serotonin regulation, reduces stress hormones, promotes better sleep, and enhances overall well-being. Aerobic exercise like walking, running, or cycling is particularly beneficial. Strength training also helps. During your period, moderate exercise is safe and beneficial, though you may adjust intensity based on how you feel. Consistency is more important than intensity.",
+    "keywords": [
+      "does",
+      "exercise",
+      "help",
+      "with",
+      "menstrual",
+      "cycle",
+      "mood",
+      "changes"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "What foods should I eat during my menstrual cycle to support mood and energy?",
+    "answer": "Eat nutrient-dense foods including: Complex carbohydrates (whole grains, legumes) to support serotonin; protein at each meal for sustained energy and neurotransmitter production; omega-3 rich foods (fatty fish, flaxseeds, walnuts) for mood and inflammation; leafy greens and colorful vegetables for vitamins and minerals; calcium-rich foods (dairy, fortified plant-based options); iron-rich foods (lean meats, beans, fortified cereals) to prevent anemia-related fatigue; and magnesium-rich foods (nuts, seeds, dark chocolate). Avoid excessive sugar, caffeine, and alcohol which can worsen mood symptoms.",
+    "keywords": [
+      "what",
+      "foods",
+      "should",
+      "during",
+      "menstrual",
+      "cycle",
+      "support",
+      "mood",
+      "energy"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "What should I avoid during my menstrual cycle to improve my mental health?",
+    "answer": "Avoid: Excessive caffeine which can increase anxiety and worsen mood symptoms; alcohol which depresses mood and disrupts sleep; high-sugar foods that cause energy crashes; skipping meals which affects blood sugar and mood; sleep deprivation which amplifies mood changes; excessive stress without coping strategies; isolation, as social connection is protective; and negative self-talk about your cycle. Additionally, avoid pushing yourself too hard if you feel fatigued; listen to your body and adjust your schedule when needed.",
+    "keywords": [
+      "what",
+      "should",
+      "avoid",
+      "during",
+      "menstrual",
+      "cycle",
+      "improve",
+      "mental",
+      "health"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "Is it safe to take antidepressants during my menstrual cycle?",
+    "answer": "Yes, antidepressants, particularly SSRIs, are safe to take during menstruation and throughout your cycle. In fact, SSRIs like sertraline or fluoxetine are often prescribed to manage menstrual mood symptoms, either continuously or only during the luteal phase. They work by increasing serotonin availability, helping regulate mood despite hormonal fluctuations. Always take medications as prescribed by your healthcare provider. The benefits of treating mood symptoms typically outweigh any risks.",
+    "keywords": [
+      "safe",
+      "take",
+      "antidepressants",
+      "during",
+      "menstrual",
+      "cycle"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "When should I see a mental health professional about menstrual cycle mood changes?",
+    "answer": "Seek professional help if: mood changes significantly interfere with work, relationships, or daily functioning; you experience persistent depression or anxiety; you have suicidal or self-harm thoughts; mood changes disrupt sleep or appetite; you feel out of control or unable to manage symptoms; the severity of mood changes is increasing; or you're experiencing PMDD symptoms. A healthcare provider or therapist can assess whether your symptoms are menstrual-related and recommend appropriate treatment including therapy, medication, or hormonal management.",
+    "keywords": [
+      "when",
+      "should",
+      "mental",
+      "health",
+      "professional",
+      "about",
+      "menstrual",
+      "cycle",
+      "mood",
+      "changes"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "What resources are available if I'm dealing with difficult emotions about my cycle?",
+    "answer": "Resources include: mental health professionals (therapists, counselors, psychiatrists) who specialize in reproductive mental health; support groups for menstrual disorders or women's health; your primary care provider or OB-GYN; crisis hotlines if experiencing suicidal thoughts; telemedicine platforms for mental health; fertility counselors if dealing with infertility; and reliable online health information from medical organizations. Additionally, speak with trusted friends, family, or partners about your experiences. Taking care of your mental health is as important as physical health.",
+    "keywords": [
+      "what",
+      "resources",
+      "available",
+      "dealing",
+      "with",
+      "difficult",
+      "emotions",
+      "about",
+      "cycle"
+    ],
+    "category": "Medical Treatment & Support"
+  },
+  {
+    "question": "How can I communicate with my partner about menstrual cycle changes?",
+    "answer": "Open, honest communication is important. Share: when your cycle occurs and what you typically experience; how it affects your mood, energy, and sexuality; what support or accommodations help (rest, understanding, space, comfort measures); when you're most interested in or averse to sex; and how your partner can help. Provide information about your cycle so they understand it's not personal. Work together to find solutions. If your partner is unsupportive, consider couples counseling. A supportive partner significantly improves cycle management and well-being.",
+    "keywords": [
+      "communicate",
+      "with",
+      "partner",
+      "about",
+      "menstrual",
+      "cycle",
+      "changes"
+    ],
+    "category": "Communication & Relationships"
+  },
+  {
+    "question": "When should I be concerned about my menstrual cycle and seek medical help?",
+    "answer": "Seek help if you experience: missed periods or significant cycle changes; extremely heavy bleeding or bleeding lasting more than 7 days; severe pain that interferes with daily life; significant mood changes, depression, or anxiety; suicidal thoughts; infertility despite regular intercourse; abnormal vaginal discharge or odor; fever with menstrual symptoms; or if you have concerns about pregnancy, contraception, or sexual health. Early intervention for concerning symptoms often leads to better outcomes. Don't dismiss symptoms\u2014your healthcare provider is there to help.",
+    "keywords": [
+      "when",
+      "should",
+      "concerned",
+      "about",
+      "menstrual",
+      "cycle",
+      "seek",
+      "medical",
+      "help"
+    ],
+    "category": "Communication & Relationships"
+  },
+  {
+    "question": "How can I improve how hormonal changes during my menstrual cycle affect my mental health?",
+    "answer": "Yes, hormonal changes significantly impact mental health for many people. Fluctuations in estrogen, progesterone, serotonin, and other neurotransmitters during the menstrual cycle can affect mood, anxiety levels, and emotional regulation. The luteal phase (second half of the cycle) is particularly associated with mood changes, anxiety, and depression in susceptible individuals. If you notice a clear pattern of mental health symptoms tied to your cycle, discuss this with your healthcare provider.",
+    "keywords": [
+      "improve",
+      "hormonal",
+      "changes",
+      "during",
+      "menstrual",
+      "cycle",
+      "affect",
+      "mental",
+      "health"
+    ],
+    "category": "Overall Wellbeing"
+  },
+  {
+    "question": "What lifestyle changes can improve my overall menstrual health and mood?",
+    "answer": "Key lifestyle factors include: regular aerobic and strength-training exercise; balanced, nutrient-rich diet with adequate protein, whole grains, vegetables, and healthy fats; adequate sleep (7-9 hours); stress management through meditation, yoga, journaling, or therapy; limiting caffeine and alcohol; maintaining social connections and support; spending time in nature and natural light; tracking your cycle to understand patterns; communicating with healthcare providers about concerns; and being kind and compassionate with yourself throughout your cycle. Small consistent changes often have significant impacts.",
+    "keywords": [
+      "what",
+      "lifestyle",
+      "changes",
+      "improve",
+      "overall",
+      "menstrual",
+      "health",
+      "mood"
+    ],
+    "category": "Overall Wellbeing"
   }
 ]

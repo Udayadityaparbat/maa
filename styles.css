@@ -2478,8 +2478,8 @@ h3 {
 
 @media (max-width: 1250px) {
   .sos-btn {
-    bottom: 20px;
-    right: 20px;
+    bottom: 90px !important;
+    right: 24px !important;
     width: 56px;
     height: 56px;
     font-size: 1.4rem;
@@ -2816,8 +2816,8 @@ h3 {
 
   /* ── SOS Button ── */
   .sos-btn {
-    bottom: 16px;
-    right: 16px;
+    bottom: 90px !important;
+    right: 24px !important;
     width: 56px;
     height: 56px;
     padding: 0;
@@ -4247,314 +4247,19 @@ h3 {
   box-shadow: 0 20px 40px rgba(255, 71, 87, 0.12) !important;
 }
 
-.diso[data-theme="dark"] {
-  --color-obsidian: #FFEAEA;
-  --color-bg: #0c0708; /* Deep dark velvet maroon/black background */
-  --color-surface: #150d0e; /* Rich surface dark maroon */
-  --color-text: #F5EAEB;
-  --color-text-muted: #D1B6B9;
-  --color-border: #281B1D;
-  --color-pearl: #100608;
-
-  --red-900: #FFEAEA;
-  --red-800: #ff6b81; /* Glowing rose accents */
-  --red-700: #ff8597;
-  --red-600: #ffa8b6;
-  --red-500: #ffcbd2;
-  --red-400: #42161A;
-  --red-300: #331013;
-  --red-200: #23090B;
-  --red-100: #150507;
-  --red-50: #0D0204;
-
-  --gradient-hero: linear-gradient(135deg, #100507 0%, #0c0203 100%);
-  --gradient-card: linear-gradient(145deg, #160c0d, #0f0506);
-  --shadow-card: 0 10px 40px rgba(0, 0, 0, 0.45);
-}
-
-/* Force dark mode transitions on everything for a super smooth toggle */
-html, body, header, footer, section, div, p, span, a, button, select, input, textarea, .card, .tag-btn, .calendar-day {
-  transition: background-color 0.4s ease, border-color 0.4s ease, color 0.4s ease, box-shadow 0.4s ease;
-}
-
-[data-theme="dark"] body {
-  background-color: var(--color-bg);
-  color: var(--color-text);
-}
-
-/* General Legibility Optimization */
-[data-theme="dark"] p,
-[data-theme="dark"] li,
-[data-theme="dark"] label {
-  color: var(--color-text-muted) !important;
-}
-
-[data-theme="dark"] strong,
-[data-theme="dark"] b {
-  color: var(--color-text) !important;
-}
-
-[data-theme="dark"] h1,
-[data-theme="dark"] h2,
-[data-theme="dark"] h3,
-[data-theme="dark"] h4,
-[data-theme="dark"] h5,
-[data-theme="dark"] h6 {
-  color: var(--color-text) !important;
-}
-
-/* Glowing text gradients */
-[data-theme="dark"] .text-gradient,
-[data-theme="dark"] .section-title {
-  background: linear-gradient(135deg, #FF6B81 0%, #FF8597 50%, #FFA07A 100%) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
-}
-
-/* Header Override */
-[data-theme="dark"] #site-header {
-  background: rgba(12, 7, 8, 0.8) !important;
-  border-bottom: 1px solid rgba(255, 71, 87, 0.25) !important;
-  box-shadow: 0 10px 45px rgba(0, 0, 0, 0.55) !important;
-}
-
-@media (min-width: 1251px) {
-  [data-theme="dark"] #desktop-nav a {
-    color: #F5EAEB !important;
-  }
-
-  [data-theme="dark"] #desktop-nav a:hover,
-  [data-theme="dark"] #desktop-nav a.active {
-    color: #ff6b81 !important;
-  }
-}
-
-/* Mobile Menu Override */
-[data-theme="dark"] #mobile-menu {
-  background: rgba(21, 13, 14, 0.95) !important;
-  border-color: rgba(255, 71, 87, 0.25) !important;
-}
-
-[data-theme="dark"] #mobile-menu a {
-  color: #F5EAEB !important;
-}
-
-[data-theme="dark"] #mobile-menu a:hover,
-[data-theme="dark"] #mobile-menu a.active {
-  color: #ff6b81 !important;
-}
-
-/* Section Backgrounds */
-[data-theme="dark"] .bg-soft {
-  background-color: #080405 !important;
-}
-
-[data-theme="dark"] .bg-red-light {
-  background-color: #100608 !important;
-}
-
-/* Cards & Components Override */
-[data-theme="dark"] .card, 
-[data-theme="dark"] .scheme-card-rich, 
-[data-theme="dark"] .glassmorphism-card {
-  background: var(--gradient-card) !important;
-  border-color: rgba(255, 71, 87, 0.2) !important;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35) !important;
-}
-
-[data-theme="dark"] .card:hover, 
-[data-theme="dark"] .scheme-card-rich:hover, 
-[data-theme="dark"] .glassmorphism-card:hover {
-  border-color: rgba(255, 71, 87, 0.5) !important;
-  box-shadow: 0 20px 45px rgba(255, 71, 87, 0.18) !important;
-}
-
-/* Q&A Cards */
-[data-theme="dark"] .qa-card {
-  background: var(--color-surface) !important;
-  border-left-color: #ff6b81 !important;
-  box-shadow: var(--shadow-card) !important;
-}
-
-[data-theme="dark"] .qa-question {
-  color: #ffcbd2 !important;
-}
-
-[data-theme="dark"] .qa-answer {
-  border-top-color: rgba(255, 71, 87, 0.2) !important;
-}
-
-/* Forms and Inputs */
-[data-theme="dark"] .form-group input,
-[data-theme="dark"] .form-group select,
-[data-theme="dark"] .qa-form textarea,
-[data-theme="dark"] .qa-form select {
-  background-color: #080405 !important;
-  color: #FFEAEA !important;
-  border-color: rgba(255, 71, 87, 0.28) !important;
-}
-
-[data-theme="dark"] .form-group input:focus,
-[data-theme="dark"] .qa-form textarea:focus,
-[data-theme="dark"] .qa-form select:focus {
-  border-color: #ff6b81 !important;
-  box-shadow: 0 0 0 3px rgba(255, 71, 87, 0.2) !important;
-  background-color: #0c0608 !important;
-}
-
-[data-theme="dark"] ::placeholder {
-  color: #D1B6B9 !important;
-  opacity: 0.55;
-}
-
-[data-theme="dark"] .result-box {
-  background: #15090b !important;
-  border-color: rgba(255, 71, 87, 0.25) !important;
-}
-
-/* Language selector */
-[data-theme="dark"] #lang-selector {
-  background: rgba(21, 13, 14, 0.8) !important;
-  border-color: rgba(255, 71, 87, 0.35) !important;
-  color: #ff6b81 !important;
-}
-
-[data-theme="dark"] #lang-selector:hover {
-  background: rgba(255, 71, 87, 0.12) !important;
-  border-color: #ff6b81 !important;
-}
-
-/* Active logged calendar day overrides */
-[data-theme="dark"] .calendar-day {
-  background: var(--color-surface) !important;
-  border-color: rgba(255, 71, 87, 0.15) !important;
-  color: var(--color-text) !important;
-}
-
-[data-theme="dark"] .calendar-day.today:not(.empty) {
-  border-color: var(--color-text) !important;
-}
-
-[data-theme="dark"] .calendar-day.predicted-period:not(.empty) {
-  background: rgba(255, 71, 87, 0.15) !important;
-}
-
-[data-theme="dark"] .calendar-day.fertile-day:not(.empty) {
-  background: rgba(30, 144, 255, 0.15) !important;
-  border-color: #1E90FF !important;
-  color: #74b9ff !important;
-}
-
-[data-theme="dark"] .calendar-day.flow-light:not(.empty) {
-  background: #2b0c0f !important;
-  border-color: #ff4757 !important;
-  color: #ff6b81 !important;
-}
-
-[data-theme="dark"] .calendar-day.flow-medium:not(.empty) {
-  background: #441014 !important;
-  border-color: #ff6b81 !important;
-  color: #ff8597 !important;
-}
-
-[data-theme="dark"] .calendar-day.flow-heavy:not(.empty) {
-  background: #7a101d !important;
-  border-color: #ff8597 !important;
-  color: #ffffff !important;
-}
-
-[data-theme="dark"] .calendar-day.flow-super-heavy:not(.empty) {
-  background: #be123c !important;
-  border-color: #ffcbd2 !important;
-  color: #ffffff !important;
-}
-
-/* Inactive Symptom buttons */
-[data-theme="dark"] .tag-btn {
-  background: #15090b !important;
-  border-color: rgba(255, 71, 87, 0.25) !important;
-  color: #ff6b81 !important;
-}
-
-[data-theme="dark"] .tag-btn:hover {
-  background: var(--color-crimson) !important;
-  color: white !important;
-}
-
-/* Category Filter Pills */
-[data-theme="dark"] .qa-filter-pill {
-  background: rgba(21, 13, 14, 0.7) !important;
-  border-color: rgba(255, 71, 87, 0.25) !important;
-  color: #ff6b81 !important;
-}
-
-[data-theme="dark"] .qa-filter-pill:hover {
-  background: rgba(255, 71, 87, 0.12) !important;
-}
-
-[data-theme="dark"] .qa-filter-pill.active {
-  background: var(--color-crimson) !important;
-  color: white !important;
-}
-
-/* Modal Windows */
-[data-theme="dark"] .modal-content {
-  background: #150d0e !important;
-  color: var(--color-text) !important;
-  border-color: rgba(255, 71, 87, 0.25) !important;
-}
-
-[data-theme="dark"] .close-btn {
-  color: #ff6b81 !important;
-}
-
-/* Custom dualExpandingUnderline background in dark mode */
-[data-theme="dark"] .section-title::after {
-  background: linear-gradient(90deg, transparent, #ff6b81, #ff8597, #ff6b81, transparent) !important;
-}
-
-/* Dark Mode Toggle Button Styles */
-.theme-toggle-btn {
-  background: rgba(255, 255, 255, 0.8) !important;
-  border: 1px solid var(--red-200) !important;
-  box-shadow: var(--shadow-sm);
-  color: var(--color-crimson);
-}
-
-.theme-toggle-btn:hover {
-  background: var(--red-50) !important;
-  border-color: var(--color-crimson) !important;
-  transform: scale(1.05);
-}
-
-[data-theme="dark"] .theme-toggle-btn {
-  background: rgba(21, 13, 14, 0.8) !important;
-  border-color: rgba(255, 71, 87, 0.35) !important;
-  color: #ff6b81 !important;
-}
-
-[data-theme="dark"] .theme-toggle-btn:hover {
-  background: rgba(255, 71, 87, 0.12) !important;
-  border-color: #ff6b81 !important;
-}
+/* ===== 22. Dark Mode Completely Removed ===== */
 
 /* ===== 23. High-Fidelity Mobile Design & Responsiveness Optimizations ===== */
 @media (max-width: 1250px) {
   /* Floating Pill Site Header Tuning */
   #site-header {
-    top: 10px !important;
+    top: 16px !important;
     width: 94% !important;
     border-radius: 30px !important;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05) !important;
+    box-shadow: 0 10px 30px rgba(255, 71, 87, 0.06) !important;
     background: rgba(255, 255, 255, 0.85) !important;
     backdrop-filter: blur(20px) !important;
     -webkit-backdrop-filter: blur(20px) !important;
-  }
-
-  [data-theme="dark"] #site-header {
-    background: rgba(12, 7, 8, 0.85) !important;
-    border-bottom: 1px solid rgba(255, 71, 87, 0.25) !important;
-    box-shadow: 0 10px 45px rgba(0, 0, 0, 0.55) !important;
   }
 
   .header-container {
@@ -4572,13 +4277,13 @@ html, body, header, footer, section, div, p, span, a, button, select, input, tex
 
   /* Header controls alignment and scaling */
   .header-controls {
-    gap: 6px !important;
+    gap: 12px !important;
     display: flex !important;
     align-items: center !important;
     align-self: center !important;
   }
 
-  #lang-selector, .theme-toggle-btn, #menu-toggle {
+  #lang-selector, #menu-toggle {
     align-self: center !important;
   }
 
@@ -4589,34 +4294,11 @@ html, body, header, footer, section, div, p, span, a, button, select, input, tex
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
     appearance: none !important;
-    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23FF4757' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>") !important;
-    background-repeat: no-repeat !important;
-    background-position: right 0.4rem center !important;
-    background-size: 0.8rem !important;
-    border-color: rgba(255, 71, 87, 0.18) !important;
-  }
-
-  [data-theme="dark"] #lang-selector {
-    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23ff6b81' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>") !important;
-    border-color: rgba(255, 107, 129, 0.35) !important;
-  }
-
-  .theme-toggle-btn {
-    width: 32px !important;
-    height: 32px !important;
-    padding: 0.25rem !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-  }
-
-  .theme-toggle-btn svg {
-    width: 16px !important;
-    height: 16px !important;
-  }
-
-  [data-theme="dark"] #menu-toggle .bar {
-    background-color: #ff6b81 !important;
+    background: rgba(255, 255, 255, 0.9) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23FF4757' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>") no-repeat right 0.4rem center / 0.8rem !important;
+    border: 1px solid rgba(255, 71, 87, 0.25) !important;
+    color: var(--color-crimson) !important;
+    font-weight: 700 !important;
+    outline: none !important;
   }
 
   /* Sleek mobile navigation slide-down menu */
@@ -4707,5 +4389,150 @@ html, body, header, footer, section, div, p, span, a, button, select, input, tex
   }
 }
 
+/* ===== 24. Chatbot Floating UI ===== */
+.chatbot-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #FF4757, #e11d48);
+  border: none;
+  box-shadow: 0 8px 25px rgba(255, 71, 87, 0.4);
+  cursor: pointer;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  animation: floatSlow 5s ease-in-out infinite;
+}
 
+.chatbot-btn:hover {
+  transform: scale(1.1) translateY(-5px);
+  box-shadow: 0 12px 30px rgba(255, 71, 87, 0.6);
+}
+
+.chatbot-window {
+  position: fixed;
+  bottom: 6rem;
+  right: 2rem;
+  width: 350px;
+  max-width: calc(100vw - 4rem);
+  height: 450px;
+  max-height: calc(100vh - 8rem);
+  border-radius: 20px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  transform-origin: bottom right;
+}
+
+.chatbot-window.hidden {
+  opacity: 0;
+  transform: scale(0.8) translateY(20px);
+  pointer-events: none;
+}
+
+.chatbot-header {
+  background: linear-gradient(135deg, #FF4757, #e11d48);
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chatbot-header h4 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.chatbot-close {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+.chatbot-close:hover {
+  opacity: 1;
+}
+
+.chatbot-messages {
+  flex: 1;
+  padding: 1rem;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.chat-message {
+  max-width: 85%;
+  padding: 0.8rem 1rem;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  animation: fadeUp 0.3s ease both;
+}
+
+.bot-message {
+  align-self: flex-start;
+  background: white;
+  color: var(--color-obsidian);
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.user-message {
+  align-self: flex-end;
+  background: linear-gradient(135deg, #FF4757, #ff6b81);
+  color: white;
+  border-bottom-right-radius: 4px;
+  box-shadow: 0 2px 10px rgba(255, 71, 87, 0.2);
+}
+
+.chatbot-input-area {
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chatbot-input-area input {
+  flex: 1;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.chatbot-input-area input:focus {
+  border-color: #FF4757;
+}
+
+.chatbot-input-area button {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
