@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maa.rigelfoundation.org.in/sitemap.xml
